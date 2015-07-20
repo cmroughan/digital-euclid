@@ -1,0 +1,18 @@
+
+Title: modena_alfa_t_8_21_0114.png
+Width:  1350 pixels
+Height:  1800 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/modena_alfa_t_8_21/png/modena_alfa_t_8_21_0114.png
+No Overlay
+ 
+Rectangle Selection
+  X: 530
+  Y: 678
+  Width: 703
+  Height: 140

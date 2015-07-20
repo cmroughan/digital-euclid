@@ -1,0 +1,1 @@
+These snippets initially created with ImageJ. Data is extracted and inserted into the appropriate collections.

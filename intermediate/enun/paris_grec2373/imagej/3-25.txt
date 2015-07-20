@@ -1,0 +1,18 @@
+
+Title: paris_grec2373_0134.png
+Width:  1024 pixels
+Height:  1576 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/paris_grec2373/png/paris_grec2373_0134.png
+No Overlay
+ 
+Rectangle Selection
+  X: 45
+  Y: 989
+  Width: 727
+  Height: 81
