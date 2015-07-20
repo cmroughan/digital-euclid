@@ -1,0 +1,20 @@
+
+Title: thirteenbookseu02heibgoog_0285.jpg
+Width:  4475 pixels
+Height:  5992 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.12
+Uncalibrated
+Path: /home/chris/DigitizedImgs/thirteenbookseu02heibgoog_jpg/thirteenbookseu02heibgoog_0285.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 2755
+  Y: 984
+  Width: 872
+  Height: 808

@@ -1,0 +1,19 @@
+
+Title: heiberg_1883_v1_1_0041.jpg
+Width:  1956 pixels
+Height:  3074 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.17
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/heiberg_1883_v1_1/jpg/heiberg_1883_v1_1_0041.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 36
+  Y: 1602
+  Width: 696
+  Height: 540

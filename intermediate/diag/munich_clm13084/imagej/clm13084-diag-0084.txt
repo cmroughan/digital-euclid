@@ -1,0 +1,19 @@
+
+Title: munich_clm13084_0107.jpg
+Width:  1277 pixels
+Height:  1804 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/munich_clm13084/jpg/munich_clm13084_0107.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 539
+  Y: 1448
+  Width: 448
+  Height: 166

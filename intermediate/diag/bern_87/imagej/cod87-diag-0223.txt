@@ -1,0 +1,19 @@
+
+Title: bern_87_011r.jpg
+Width:  3064 pixels
+Height:  4085 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.25
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/bern_87/jpg/bern_87_011r.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 1476
+  Y: 1156
+  Width: 360
+  Height: 180

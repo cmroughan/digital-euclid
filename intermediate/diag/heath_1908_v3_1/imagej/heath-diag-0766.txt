@@ -1,0 +1,20 @@
+
+Title: heath_1908_v3_1_0374.jpg
+Width:  3817 pixels
+Height:  5650 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.08
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/heath_1908_v3_1/jpg/heath_1908_v3_1_0374.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 1020
+  Y: 2484
+  Width: 1500
+  Height: 1692

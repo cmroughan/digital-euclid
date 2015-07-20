@@ -1,0 +1,19 @@
+
+Title: munich_clm14448_0153.jpg
+Width:  1251 pixels
+Height:  1800 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.75
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/munich_clm14448/jpg/munich_clm14448_0153.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 108
+  Y: 454
+  Width: 206
+  Height: 177

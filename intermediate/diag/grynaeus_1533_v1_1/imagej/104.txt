@@ -1,0 +1,19 @@
+
+Title: grynaeus_1533_v1_1_044.jpg
+Width:  1000 pixels
+Height:  1562 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.75
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/grynaeus_1533_v1_1/jpg/grynaeus_1533_v1_1_044.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 549
+  Y: 436
+  Width: 174
+  Height: 213

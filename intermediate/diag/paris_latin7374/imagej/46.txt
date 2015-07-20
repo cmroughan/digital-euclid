@@ -1,0 +1,19 @@
+
+Title: paris_latin7374_0014.jpg
+Width:  1459 pixels
+Height:  1024 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/paris_latin7374/jpg/paris_latin7374_0014.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 173
+  Y: 404
+  Width: 147
+  Height: 162

@@ -1,0 +1,20 @@
+
+Title: euclidisoperaom06unkngoog_0320.jpg
+Width:  2474 pixels
+Height:  3908 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.17
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/heiberg/euclidisoperaom06unkngoog_0320.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 138
+  Y: 2094
+  Width: 780
+  Height: 576

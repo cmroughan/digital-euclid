@@ -1,0 +1,20 @@
+
+Title: heiberg_1888_v5_1_0930.jpg
+Width:  723 pixels
+Height:  1079 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/heiberg_1888_v5_1/jpg/heiberg_1888_v5_1_0930.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 208
+  Y: 196
+  Width: 138
+  Height: 126

@@ -1,0 +1,19 @@
+
+Title: elementseuclidv02euclgoog_0278.png
+Width:  2980 pixels
+Height:  4810 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.12
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/simson_v1_1775_1/str/elementseuclidv02euclgoog_0278.png
+No Overlay
+ 
+Rectangle Selection
+  X: 728
+  Y: 1752
+  Width: 784
+  Height: 736

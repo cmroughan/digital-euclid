@@ -1,0 +1,20 @@
+
+Title: euclidisoperaom00marigoog_0161.jpg
+Width:  2592 pixels
+Height:  4000 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.17
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/heiberg/euclidisoperaom00marigoog_0161.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 132
+  Y: 1632
+  Width: 912
+  Height: 912

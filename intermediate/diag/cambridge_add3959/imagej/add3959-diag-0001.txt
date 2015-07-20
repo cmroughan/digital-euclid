@@ -1,0 +1,19 @@
+
+Title: cambridge_add3959_0043.jpg
+Width:  1460 pixels
+Height:  2000 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.75
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/cambridge_add3959/jpg/cambridge_add3959_0043.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 681
+  Y: 65
+  Width: 340
+  Height: 337

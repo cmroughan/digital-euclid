@@ -1,0 +1,19 @@
+
+Title: gri_000033125009354198_0007.jpg
+Width:  2167 pixels
+Height:  3000 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/1492/gri_000033125009354198_0007.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 599
+  Y: 488
+  Width: 288
+  Height: 120

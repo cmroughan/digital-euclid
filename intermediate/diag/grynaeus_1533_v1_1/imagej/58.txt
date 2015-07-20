@@ -1,0 +1,18 @@
+
+Title: grynaeus_1533_v1_1_025.jpg
+Width:  1000 pixels
+Height:  1562 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/grynaeus_1533_v1_1/jpg/grynaeus_1533_v1_1_025.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 699
+  Y: 980
+  Width: 183
+  Height: 187

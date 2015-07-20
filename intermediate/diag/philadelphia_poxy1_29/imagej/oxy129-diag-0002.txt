@@ -1,0 +1,19 @@
+
+Title: philadelphia_poxy1_29_0000.jpg
+Width:  1694 pixels
+Height:  1032 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/oxy129/philadelphia_poxy1_29_0000.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 1070
+  Y: 562
+  Width: 528
+  Height: 248

@@ -1,0 +1,20 @@
+
+Title: heiberg_1885_v4_1_0174.jpg
+Width:  717 pixels
+Height:  1129 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/heiberg_1885_v4_1/jpg/heiberg_1885_v4_1_0174.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 150
+  Y: 294
+  Width: 386
+  Height: 270

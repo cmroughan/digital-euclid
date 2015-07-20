@@ -1,0 +1,19 @@
+
+Title: euclidisoperaomn01eucluoft_0243.jpg
+Width:  1956 pixels
+Height:  3074 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.17
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/heiberg/euclidisoperaomn01eucluoft_0243.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 102
+  Y: 834
+  Width: 408
+  Height: 432

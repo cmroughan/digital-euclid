@@ -1,0 +1,19 @@
+
+Title: rstsixbooksto00euclgoog_0264.png
+Width:  896 pixels
+Height:  1360 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.33
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/simson_v1_1781_1/str/rstsixbooksto00euclgoog_0264.png
+No Overlay
+ 
+Rectangle Selection
+  X: 486
+  Y: 825
+  Width: 129
+  Height: 177

@@ -1,0 +1,19 @@
+
+Title: elementseuclidv03euclgoog_0424.png
+Width:  2898 pixels
+Height:  4778 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.12
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/simson_v1_1781_2/str/elementseuclidv03euclgoog_0424.png
+No Overlay
+ 
+Rectangle Selection
+  X: 1856
+  Y: 2672
+  Width: 168
+  Height: 296

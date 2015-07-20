@@ -1,0 +1,19 @@
+
+Title: heiberg_1884_v2_1_0152.jpg
+Width:  850 pixels
+Height:  1113 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/heiberg_1884_v2_1/jpg/heiberg_1884_v2_1_0152.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 302
+  Y: 556
+  Width: 244
+  Height: 126

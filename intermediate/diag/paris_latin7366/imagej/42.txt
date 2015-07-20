@@ -1,0 +1,20 @@
+
+Title: paris_latin7366_0059.jpg
+Width:  1479 pixels
+Height:  1024 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 1.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/paris_latin7366/jpg/paris_latin7366_0059.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 94
+  Y: 174
+  Width: 167
+  Height: 127

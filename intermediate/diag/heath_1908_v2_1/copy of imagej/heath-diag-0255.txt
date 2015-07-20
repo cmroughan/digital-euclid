@@ -1,0 +1,20 @@
+
+Title: thirteenbookseu00heibgoog_0040.jpg
+Width:  3917 pixels
+Height:  5750 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 0.08
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/heath/thirteenbookseu00heibgoog_0040.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 2196
+  Y: 864
+  Width: 1224
+  Height: 1044

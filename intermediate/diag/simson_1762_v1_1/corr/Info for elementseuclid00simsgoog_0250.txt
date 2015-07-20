@@ -1,0 +1,19 @@
+
+Title: elementseuclid00simsgoog_0250.png
+Width:  2890 pixels
+Height:  4682 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.33
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/simson_v1_1762_1/str/elementseuclid00simsgoog_0250.png
+No Overlay
+ 
+Rectangle Selection
+  X: 1223
+  Y: 2166
+  Width: 276
+  Height: 180

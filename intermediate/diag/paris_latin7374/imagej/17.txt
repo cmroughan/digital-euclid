@@ -1,0 +1,20 @@
+
+Title: 17.tif
+Width:  1447 pixels
+Height:  1024 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 8 (grayscale LUT)
+Display range: 0-255
+No Threshold
+Magnification: 1.50
+Uncalibrated
+Path: /home/chris/Github/digital-euclid/intermediate/diag/paris_latin7374/imagej/17.tif
+No Overlay
+ 
+Rectangle Selection
+  X: 1156
+  Y: 94
+  Width: 91
+  Height: 170

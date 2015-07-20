@@ -1,0 +1,19 @@
+
+Title: ratdolt_1482_v1_1_0007.jpg
+Width:  2167 pixels
+Height:  3000 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.50
+Uncalibrated
+Path: /home/chris/Github/x_eu-images/full/ratdolt_1482_v1_1/jpg/ratdolt_1482_v1_1_0007.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 450
+  Y: 2001
+  Width: 452
+  Height: 336

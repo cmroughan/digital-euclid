@@ -1,0 +1,19 @@
+
+Title: clm13084-51.jpg
+Width:  1277 pixels
+Height:  1792 pixels
+Pixel size: 1x1 pixel
+ID: -2
+Coordinate origin:  0,0
+Bits per pixel: 32 (RGB)
+No Threshold
+Magnification: 0.33
+Uncalibrated
+Path: /home/chris/Github/x_eu-diagrams/temp/clm13084/clm13084-51.jpg
+No Overlay
+ 
+Rectangle Selection
+  X: 246
+  Y: 252
+  Width: 504
+  Height: 315
