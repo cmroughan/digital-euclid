@@ -1,3 +1,3 @@
 # Digital Euclid
 
-A repository for work on Euclid as part of the Open Greek and Latin Project in 2014 and 2015.
+A repository for 2014/15 work in connection with the Open Greek and Latin Project focused on digitally representing the mathematical text and diagrams of Euclid's *Elements*.
