@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg23110" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="444" width="462" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata23115">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer16">
+  <path id="path24493" d="m395.46,208.87a164.71,165.11,0,1,1,-329.42,0,164.71,165.11,0,1,1,329.42,0z" fill-opacity="0" transform="translate(2,-2)" stroke-dashoffset="0" stroke="#d40000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="4"/>
+  <path id="path24495" stroke-linejoin="miter" d="M198.92,369.2,109.01,99.462,357.27,101.05,395.46,229.96z" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <path id="path24497" stroke-linejoin="miter" d="M197.33,367.61,356.47,98.667" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <path id="path24499" stroke-linejoin="miter" d="M396.26,231.55,109.01,99.462" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <text id="text24501" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="112.19355" x="51.720428" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan24503" x="51.720428" y="112.19355">Α</tspan></text>
+  <text id="text24505" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="112.98925" x="383.52689" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan24507" x="383.52689" y="112.98925">Β</tspan></text>
+  <text id="text24509" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="416.15054" x="165.50539" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan24511" x="165.50539" y="416.15054">Δ</tspan></text>
+  <text id="text24513" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="245.07527" x="411.37634" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan24515" x="411.37634" y="245.07527">Γ</tspan></text>
+ </g>
+</svg>

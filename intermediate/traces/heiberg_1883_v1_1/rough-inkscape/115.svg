@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg10621" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="654" width="642" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata10626">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer6">
+  <path id="path12516" d="m578.99,338.72a266.64,266.05,0,1,1,-533.28,0,266.64,266.05,0,1,1,533.28,0z" fill-opacity="0" transform="translate(-8,-6)" stroke-dashoffset="0" stroke="#d40000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="4"/>
+  <path id="path12518" d="m582.51,335.79a137.13,137.72,0,1,1,-274.26,0,137.13,137.72,0,1,1,274.26,0z" fill-opacity="0" transform="translate(-2,-6)" stroke-dashoffset="0" stroke="#d40000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="4"/>
+  <path id="path12520" stroke-linejoin="miter" d="M467.65,124.24,308.25,331.69,556.72,253.16z" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <path id="path12522" stroke-linejoin="miter" d="m411.39,194.56,146.51,57.43" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <text id="text12524" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="351.61292" x="260.19354" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan12526" x="260.19354" y="351.61292">Α</tspan></text>
+  <text id="text12528" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="184.01076" x="386.7742" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan12530" x="386.7742" y="184.01076">Γ</tspan></text>
+  <text id="text12532" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="119.54839" x="479.3656" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan12534" x="479.3656" y="119.54839">Β</tspan></text>
+  <text id="text12536" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="259.02151" x="573.12903" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan12538" x="573.12903" y="259.02151">Δ</tspan></text>
+  <text id="text12540" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="436" x="569.61292" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan12542" x="569.61292" y="436">Ε</tspan></text>
+ </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="776"
+   height="904"
+   id="svg2">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     d="m 90,134 c 8.3708,7.312 9.4454,19.092 13.861,29 8.429,18.913 18.284,37.196 26.931,56 32.41,70.487 65.716,140.522 98.027,211 10.549,23.008 21.817,45.865 31.976,69 3.37,7.676 7.782,25.868 15.26,30.088 C 281.736,532.294 293.56,530 300,530 l 58,0 c 69.232,0.004 138.681,1 208,1 22.344,0 44.747,0.117 67,10e-4 5.057,-0.027 19.751,-5.006 21.002,3.104 0.939,6.08 -9.171,12.367 -13.002,15.74 -14.412,12.688 -29.19,25.169 -44.089,37.285 -52.729,42.876 -105.016,87.662 -154.896,133.794 -12.7,11.746 -25.785,22.997 -39.015,34.091 -4.166,3.493 -10.794,11.7 -16.957,10.713 C 380.636,764.863 378.735,756.23 376.989,752 371.49,738.674 366.095,724.761 359.421,712 338.359,671.724 320.632,630.315 302.103,589 293.844,570.586 280.618,551.258 278,531"
+     inkscape:connector-curvature="0"
+     id="path2993"
+     style="fill:none;stroke:#000000" />
+  <path
+     d="m 98,142 c 21.527,2.782 42.691,24.253 60,36.431 31.853,22.408 63.375,45.264 95,67.974 16.64,11.949 36.34,22.28 51,36.595 l -5,6"
+     inkscape:connector-curvature="0"
+     id="path2991"
+     style="fill:none;stroke:#000000" />
+  <path
+     d="m 310,277 -5,6"
+     inkscape:connector-curvature="0"
+     id="path2989"
+     style="fill:none;stroke:#000000" />
+  <path
+     d="m 306,283 c 27.287,23.764 60.377,42.878 90,63.721 53.075,37.343 105.249,76.051 159,112.459 22.588,15.3 45.046,30.96 67,47.191 8.223,6.079 20.875,11.194 24,21.629"
+     inkscape:connector-curvature="0"
+     id="path4"
+     style="fill:none;stroke:#000000" />
+</svg>

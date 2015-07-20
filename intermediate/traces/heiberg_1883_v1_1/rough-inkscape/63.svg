@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg18073" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="612" width="594" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata18078">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer17">
+  <path id="path19136" d="m545.1,287.9a248.42,250.61,0,1,1,-496.84,0,248.42,250.61,0,1,1,496.84,0z" fill-opacity="0" transform="translate(16,4)" stroke="#d40000" stroke-width="4"/>
+  <path id="path19138" d="M288.17,561.6a196.32,205.65,0,0,1,-219.46,-250.08" fill-opacity="0" transform="translate(-6,-22)" stroke="#d40000" stroke-width="4"/>
+  <path id="path19140" stroke-linejoin="miter" d="m63.613,289.55,247.87,2.1936-29.613,246.77" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <path id="path19142" stroke-linejoin="miter" d="M152.45,508.9,311.48,291.74" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+  <text id="text19144" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="279.67743" x="76.774193" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan19146" x="76.774193" y="279.67743">Α</tspan></text>
+  <text id="text19148" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="298.32257" x="331.2258" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan19150" x="331.2258" y="298.32257">Δ</tspan></text>
+  <text id="text19152" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="497.93549" x="194.12903" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan19154" x="194.12903" y="497.93549">Ζ</tspan></text>
+  <text id="text19156" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="559.35486" x="113.54839" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan19158" x="113.54839" y="559.35486">Ε</tspan></text>
+  <text id="text19160" style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" font-size="40px" font-style="normal" y="524.25806" x="300.51614" font-family="Sans" line-height="125%" fill="#000000"><tspan id="tspan19162" x="300.51614" y="524.25806">Β</tspan></text>
+ </g>
+</svg>
