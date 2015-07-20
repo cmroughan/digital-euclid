@@ -1,0 +1,433 @@
+<TEI>
+<div1>
+<div2>
+<div3 type="number" n="1">
+<div4 type="Enun"><p>
+	<!-- Note: ligatures are not marked; only abbrs -->
+	<w><hi rend="tall">Ε</hi>Πὶ</w> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> δοθείσης εὐθεῖας πεπερασμένης τρίγωνον ἰσόπλευρον <expan><abbr>συ<ex>στ</ex>ήσασθ</abbr><ex>αι</ex></expan>.
+</p></div4>
+</div3>
+<div3 type="number" n="2">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Ρὸς</w> τῷ δοθέντι σημείῳ τῆ δοθείσῃ εὐθείᾳ ἴσην εὐθείαν <expan><abbr>θέσθ</abbr><ex>αι</ex></expan>.
+</p></div4>
+</div3>
+<div3 type="number" n="3">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Δ</hi>Υο</w> δοθεισῶν εὐθειῶν ἀνίσων, ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> μείζονος, τῆ ἐλάσσονι ἴσην εὐθεῖαν ἀφελεῖν.
+</p></div4>
+</div3>
+<div3 type="number" n="4">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> δύο τρίγωνα τὰς δύο πλευρὰς, ταῖς δυσὶ πλευραῖς ἴσας ἔχη ἑκατέραν ἑκατέρᾳ, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὴν γωνίαν τῇ γωνίᾳ ἴσην ἔχη, τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὴν βάσιν τῇ βάσει ἴσην ἕξει, <expan><ex>καὶ</ex></expan> τὸ τρίγωνον τῷ τριγώνῳ ἴσον ἔσται, καὶ αἱ λοιπαὶ γωνίαι, ταῖς λοιπαῖς γωνίαις ἴσαι <expan><abbr>ἔσοντ</abbr><ex>αι</ex></expan> ἑκατέρα ἑκατέρᾳ, ὑφʼ ἃς αἱ ἴσαι πλευραὶ ὑποτείνουσιν.
+</p></div4>
+</div3>
+<div3 type="number" n="5">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>ῶν</w> ἰσοσκελῶν τριγώνων αἱ πρὸς τῇ βάσει γωνίαι ἴσαι ἀλλήλαις εἰσί, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> προσεκβληθεισῶν <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων εὐθειῶν, αἱ ὑπὸ τὴν βάσιν γωνίαι, ἴσαι ἀλλήλαις ἔσονται.
+</p></div4>
+</div3>
+<div3 type="number" n="6">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> τριγώνου αἱ δύο γωνίαι ἴσαι ἀλλήλαις ὦσι, <expan><ex>καὶ</ex></expan> αἱ ὑπὸ τὰς ἴσας γωνίας ὑποτείνουσαι πλευραὶ, ἴσαι ἀλλήλαις ἔσονται.
+</p></div4>
+</div3>
+<div3 type="number" n="7">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Πὶ</w> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan> εὐθείας δύσι ταῖς αυταῖς εὐθείαις, ἄλλαι δύο εὐθεῖαι ἴσαι ἑκατέρα ἑκατέρᾳ οὐ συσταθήσονται πρὸς ἄλλῳ <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἄλλῳ σημείῳ <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη, τὰ αὐτὰ πέρατα ἔχουσαι ταῖς ἐξ ἀρχῆς εὐθείαις.
+</p></div4>
+</div3>
+<div3 type="number" n="8">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> δύο τρίγωνα, τὰς δύο πλευρὰς ταῖς δυσὶ πλευραῖς ἴσας ἔχη ἑκατέραν ἑκατέρα, ἔχη <expan><ex>δὲ</ex></expan> καὶ τὴν βάσιν, τῆ βάσει ἴσην, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὴν γωνίαν τῇ γωνίᾳ ἴσην ἕξει τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην.
+</p></div4>
+</div3>
+<div3 type="number" n="9">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Ην</w> δοθεῖσαν γωνίαν <expan><abbr>εὐθύγραμμ</abbr><ex>ον</ex></expan> δίχα τεμεῖν.
+</p></div4>
+</div3>
+<div3 type="number" n="10">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Ην</w> δοθεῖσαν εὐθεῖαν πεπερασμένην, δίχα τεμεῖν.
+</p></div4>
+</div3>
+<div3 type="number" n="11">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Η</w> δοθείση εὐθεία, ἀπὸ τοῦ πρὸς αὐτῆ δοθέντος σημείου, πρὸς ὀρθὰς γωνίας, εὐθείαν γραμμὴν ἀγαγεῖν.
+</p></div4>
+</div3>
+<div3 type="number" n="12">
+<div4 type="Enun"><p>
+	<!-- ligatures might not have accents? ου vs οῦ -->
+	<w><hi rend="tall">Ε</hi>Πὶ</w> τὴν δοθεῖσαν εὐθεῖαν ἄπειρον, ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> δοθέντος σημείου ὃ μὴ ἔστιν ἐπʼ αὐτῆς, κάθετον εὐθεῖαν γραμμὴν ἀγαγεῖν.
+</p></div4>
+</div3>
+<div3 type="number" n="13">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ω</hi>Σ</w> ἂν εὐθεῖα ἐπʼ εὐθεῖαν σταθεῖσα, γωνίας ποιῆ, ἤτοι δύο ὀρθὰς, ἢ δυσὶν ὀρθαῖς ἴσας ποιήσει.
+</p></div4>
+</div3>
+<div3 type="number" n="14">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> πρός τινι εὐθεία καὶ τῷ πρὸς αὐτῆ σημείῳ δύο εὐθεῖαι μὴ περὶ τὰ αὐτὰ μέρη κείμεναι, τὰς ἐφεξῆς γωνίας, δυσὶν ὀρθαῖς ἴσας ποιῶσιν, ἐπʼ εὐθείας ἔσονται ἀλλήλαις αἱ εὐθεῖαι. 
+</p></div4>
+</div3>
+<div3 type="number" n="15">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> δύο εὐθεῖαι τέμνωσιν ἀλλήλας, τὰς <expan><abbr>κ</abbr><ex>ατὰ</ex></expan> κορυφὴν γωνίας, ἴσας ἀλλήλαις ποιήσουσι. 
+</p></div4>
+</div3>
+<div3 type="number" n="16">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> τριγώνου μιᾶς τῶν πλευρῶν ἐκβληθείσης, ἡ ἐκτὸς γωνία ἑκατέρας <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἐντὸς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἀπ’ ἐναντίον μείζων ἐστίν. 
+</p></div4>
+</div3>
+<div3 type="number" n="17">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> τριγώνου αἱ δύο γωνίαι, δύο ὀρθῶν ἐλάσσονές εἰσι, πάντη μεταλαμβανόμεναι. 
+</p></div4>
+</div3>
+<div3 type="number" n="18">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> τριγώνου ἡ μείζων πλευρὰ, τὴν μείζονα γωνίαν ὑποτείνει. 
+</p></div4>
+</div3>
+<div3 type="number" n="19">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> τριγώνου ὑπὸ τὴν μείζονα γωνίαν, ἡ μείζων πλευρὰ ὑποτείνει. 
+</p></div4>
+</div3>
+<div3 type="number" n="20">
+<div4 type="Enun"><p>
+	<!-- How to handle should-have-been initials? -->
+	πΑντὸς τριγώνου αἱ δύο πλευραὶ, <expan><abbr>τ</abbr><ex>ῆς</ex></expan> λοιπῆς μείζονές εἰσι, πάντῃ μεταλαμβανόμεναι. 
+</p></div4>
+</div3>
+<div3 type="number" n="21">
+<div4 type="Enun"><p>
+	<!-- ου ligature with trail might mean circumflex -->
+	<w><hi rend="tall">Ε</hi>Αν</w> τριγώνου <expan><ex>ἐπὶ</ex></expan> μιᾶς <expan><abbr>τ</abbr><ex>ῶν</ex></expan> πλευρῶν ἀπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> περάτων δύο εὐθεῖαι ἐντος συσταθῶσιν, αἳ συσταθεῖσαι, <expan><abbr>τ</abbr><ex>ῶν</ex></expan> λοιπῶν <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τριγώνου δύο πλευρῶν, ἐλάττονες <expan><abbr>μ</abbr><ex>ὲν</ex></expan> ἔσονται μείζονα <expan><ex>δὲ</ex></expan> γωνίαν περιέξουσι. 
+</p></div4>
+</div3>
+<div3 type="number" n="22">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Κ</w> τριῶν εὐθειῶν, αἵ εἰσιν ἴσαι τρισὶ ταῖς δοθείσαις εὐθείαις, τρίγωνον <expan><abbr>συστήσασθ</abbr><ex>αι</ex></expan>. δεῖ δὴ τὰς δύο, <expan><abbr>τ</abbr><ex>ῆς</ex></expan> λοιπῆς μείζονας εἶναι πάντη μεταλαμβανομένας, διὰ τὸ καὶ παντὸς τριγώνου τὰς δύο πλευρὰς, <expan><abbr>τ</abbr><ex>ῆς</ex></expan> λοιπῆς μείζονας εἶναι, πάντη μεταλαμβανομένας. 
+</p></div4>
+</div3>
+<div3 type="number" n="23">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>ΡΟΣ</w> τῇ δοθείσῃ εὐθείᾳ <expan><ex>καὶ</ex></expan> τὸ πρὸς αὐτῇ σημείῳ, τῆ δοθείσῃ γωνίᾳ εὐθυγράμμῳ, ἴσην γωνίαν εὐθύγραμμον συστήσασθαι. 
+</p></div4>
+</div3>
+<div3 type="number" n="24">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Αν</w> δύο τρίγωνα τὰς δύο πλευρὰς ταῖς δυσὶ πλευραῖς ἴσας ἔχη ἑκατέραν ἑκατέρᾳ, τὴν δὲ γωνίαν <expan><abbr>τ</abbr><ex>ῆς</ex></expan> γωνίας μείζονα ἔχη τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην, καὶ τὴν βάσιν <expan><abbr>τ</abbr><ex>ῆς</ex></expan> βάσεως μείζονα ἕξει. 
+</p></div4>
+</div3>
+<div3 type="number" n="25">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο τρίγωνα τὰς δύο πλευρὰς δυσὶ πλευραῖς ἴσας ἔχῃ ἑκατέραν ἑκατέρᾳ, τὴν δὲ βάσιν τῆς βάσεως μείζονα ἔχῃ, καὶ τὴν γωνίαν τῆς γωνίας μείζονα ἕξει τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην. 
+</p></div4>
+</div3>
+<div3 type="number" n="26">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο τρίγωνα τὰς δύο γωνίας ταῖς δυσὶ γωνίαις ἴσας ἔχη ἑκατέραν ἑκατέρᾳ καὶ μΐαν πλευρὰν μιᾶ πλευρᾶ ἴσην, ἤτοι τὴν πρὸς ταῖς ἴσαις γωνίαις, ἢ τὴν ὑποτείνουσαν ὑπὸ μιὰν τῶν ἴσων γωνιῶν, καὶ τὰς λοιπὰς πλευρὰς ταῖς λοιπαῖς πλευραῖς ἴσας ἕξει ἑκτέραν ἑκατέρᾳ, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὴν λοιπὴν γωνίαν, τῇ λοιπῇ γωνίᾳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="27">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εἰς δύο εὐθείας εὐθεία ἐμπίπτουσα τὰς ἐν ἀλλὰξ γωνίας ἴσας ἀλλήλαις ποιῆ, παράλληλοι ἔσονται ἀλλήλαις αἱ εὐθεῖαι. 
+</p></div4>
+</div3>
+<div3 type="number" n="28">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εἰς δύο εὐθείας εὐθεῖα ἐμπίπτουσα, τὴν ἐκτὸς γωνίαν, τῇ ἐντὸς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἀπεναντίον <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη ἴσην ποιῆ, ἢ τὰς ἐντὸς <expan><ex>καὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη δυσὶν ὀρθαῖς ἴσας ποιῆ, παράλληλοι ἔσονται ἀλλήλαις αἱ εὐθεῖαι. 
+</p></div4>
+</div3>
+<div3 type="number" n="29">
+<div4 type="Enun"><p>
+	<hi rend="tall">Η</hi> εἰς τὰς παραλλήλους εὐθείας εὐθεῖα ἐμπίπτουσα τάς τε ἐναλλὰξ γωνίας ἴσας ἀλλήλαις ποιεῖ, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὴν ἐκτὸς, τῇ ἐντὸς καὶ ἀπεναντίον, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη, ἴσην, <expan><ex>καὶ</ex></expan> τὰς ἐντὸς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη δυσὶν ὀρθαῖς ἴσας. 
+</p></div4>
+</div3>
+<div3 type="number" n="30">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Α</hi>ἱ</w> τῇ αὐτῇ εὐθείᾳ παράλληλοι, καὶ ἀλλήλαις εἰσὶ παράλληλοι.
+</p></div4>
+</div3>
+<div3 type="number" n="31">
+<div4 type="Enun"><p>
+	ΑΠΟ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> δοθέντος σημείου, τῇ δοθείσῃ εὐθείᾳ, παράλληλον εὐθείαν γραμμὴν ἀγαγεῖν. 
+</p></div4>
+</div3>
+<div3 type="number" n="32">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> τριγώνου μιᾶς τῶν πλευρῶν προσεκβληθείσης, ἡ ἐκτὸς γωνία, δυσὶ ταῖς ἐντὸς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἀπεναντίον ἴση ἐστὶ, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> αἱ ἐντὸς τοῦ τριγώνου τρεῖς γωνίαι δυσὶν ὀρθαῖς ἴσαι εἰσὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="33">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Α</hi>ἱ</w> τὰς ἴσας τε <expan><abbr>κ</abbr><ex>αὶ</ex></expan> παραλλήλους <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη ἐπιζευγνύουσαι εὐθεῖαι <expan><abbr>κ</abbr><ex>αὶ</ex></expan> αὗταὶ ἴσαι τε καὶ παράλληλοι εἰσίν.
+</p></div4>
+</div3>
+<div3 type="number" n="34">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>ΩΝ</w> παραλληλογράμμων χωρίων αἱ ἀπεναντίον πλευραί τε καὶ γωνίαι ἴσαι ἀλλήλαις εἰσί, καὶ ἡ διάμετρος αὐτὰ δίχα τέμνει. 
+</p></div4>
+</div3>
+<div3 type="number" n="35">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Α</w> παραλληλόγραμμα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> αὐτῆς βάσεως ὄντα, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις, ἴσα ἀλλήλοις ἐστὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="36">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Α</w> παραλληλόγραμμα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων βάσεων ὄντα <expan><ex>καὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις, ἴσα ἀλλήλοις ἐστὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="37">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Α</w> τρίγωνα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> αὐτῆς βάσεως ὄντα <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις, ἴσα ἀλλήλοις ἐστίν. 
+</p></div4>
+</div3>
+<div3 type="number" n="38">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Α</w> τρίγωνα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων βάσεων ὄντα <expan><ex>καὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις, ἴσα ἀλλήλοις εἰσίν. 
+</p></div4>
+</div3>
+<div3 type="number" n="39">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>ὰ</w> ἴσα τρίγωνα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> αὐτῆς βάσεως ὄντα, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις ἐστὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="40">
+<div4 type="Enun"><p>
+	<!-- What are the asterisks for? -->
+	<w><hi rend="tall">Τ</hi>Α</w> ἴσα τρίγωνα τὰ <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων βάσεων ὄντα* <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ μέρη,* <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἐν ταῖς αὐταῖς παραλλήλοις ἐστὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="41">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> παραλληλόγραμμον τριγώνω βάσιν τὲ ἔχη τὴν αὐτὴν, καὶ ἐν ταῖς αὐταῖς παραλλήλοις ᾖ, διπλάσιον ἔσται τὸ παραλληλόγραμμον <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τριγώνου. 
+</p></div4>
+</div3>
+<div3 type="number" n="42">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Ω</w> δοθέντι τριγώνῳ, ἴσον παραλληλόγραμμον συστήσασθαι, ἐν τῇ δοθείσῃ εὐθυγράμμῳ γωνίᾳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="43">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αντὸς</w> παραλληλογράμμου <expan><abbr>τ</abbr><ex>ῶν</ex></expan> περὶ τὴν διάμετρον παραλληλογράμμων τὰ παραπληρώματα, ἴσα ἀλλήλοις ἐστὶν. 
+</p></div4>
+</div3>
+<div3 type="number" n="44">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Π</hi>Αρὰ</w> τὴν δοθεῖσαν εὐθεῖαν τῷ δοθέντι τριγώνῳ ἴσον παραλληλόγραμμον παραβαλεῖν ἐν τῇ δοθείσῃ γωνίᾳ εὐθυγράμμῳ, 
+</p></div4>
+</div3>
+<div3 type="number" n="45">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Ω</w> δοθέντι εὐθυγράμμῳ ἴσον παραλληλόγραμμον συστήσασθαι ἐν τῇ δοθείσῃ εὐθυγράμμῳ γωνίᾳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="46">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Α</hi>ΠΟ</w> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> δοθείσης εὐθείας τετράγωνον ἀναγράψαι. 
+</p></div4>
+</div3>
+<div3 type="number" n="47">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Ν</w> τοῖς ὀρθογωνίοις τριγώνοις, τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> τὴν ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἴσον ἐστὶ, τοῖς ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν τετραγώνοις. 
+</p></div4>
+</div3>
+<div3 type="number" n="48">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> τριγώνου τὸ ἀπὸ μιᾶς τῶν πλευρῶν τετράγωνον, ἴσον ἦ τοῖς ἀπὸ τῶν λοιπῶν <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τριγώνου δύο πλευρῶν τετραγώνοις, ἡ περιεχομένη γωνία ὑπὸ τῶν λοιπῶν <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τριγώνου δύο πλευρῶν, ὀρθή ἐστι. 
+</p></div4>
+</div3>
+</div2>
+</div1>
+
+
+
+<div1>
+<div2>
+<div3 type="number" n="1">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> ὦσι δύο εὐθεῖαι, τμηθῆ δὲ ἡ ἑτέρα αὐτῶν, εἰς ὅσαδηποτοῦν τμήματα, τὸ περιεχόμενον ὀρθογώνιον ὑπὸ τῶν δύο εὐθειῶν, ἴσον ἐστὶ τοῖς ὑπό τε <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀτμήτου καὶ ἑκάστου τῶν τμημάτων περιεχομένοις ὀρθογωνίοις. 
+</p></div4>
+</div3>
+<div3 type="number" n="2">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ ὡς ἔτυχε, τὰ ὑπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης καὶ ἑκατέρου τῶν τμημάτων περιεχόμενα ὀρθογώνια, ἴσα ἐστὶ τῷ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης τετραγώνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="3">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ ὡς ἔτυχε τμηθῆ, τὸ ὑπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἑνὸς τῶν τμημάτων περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ τε ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> τμημάτων περιεχομένῳ ὀρθογωνίῳ, καὶ <expan><ex>τῷ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> προειρημένου τμήματος τετραγώνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="4">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ ὡς ἔτυχε, τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης τετράγωνον, ἴσον ἔσται, τοῖς τε ἀπὸ τῶν τμημάτων τετραγώνοις, <expan><ex>καὶ</ex></expan> <expan><ex>τῷ</ex></expan> δὶς ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> τμημάτων περιεχομένῳ ὀρθογωνίῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="5">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῇ εἰς ἴσα καὶ ἄνισα, τὸ ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἀνίσων <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης τμημάτων περιεχόμενον ὀρθογώνιον, <expan><abbr>μ</abbr><ex>ετ</ex><abbr>ὰ</abbr></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> μεταξὺ τῶν τομῶν τετραγώνου, ἴσον ἐστὶ, <expan><ex>τῷ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας τετραγώνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="6">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ δίχα, προστεθῆ δέ τις αὐτῆ εὐθεῖᾳ, ἐπʼ εὐθείας, τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης σὺν τῇ προσκειμένῃ, καὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> προσκειμένης περιεχόμενον ὀρθογώνιον, <expan><abbr>μ</abbr><ex>ετ</ex><abbr>ὰ</abbr></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας τετραγώνου, ἴσον ἐστὶ, <expan><ex>τῷ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> συγκειμένης ἔκ τε <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας καὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> προσκειμένης ὡς ἀπὸ μιᾶς ἀναγραφέντι τετραγώνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="7">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ ὡς ἔτυχε τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης καὶ τὸ ἀφ᾽ ἑνὸς <expan><abbr>τ</abbr><ex>ῶν</ex></expan> τμημάτων, τὰ συναμφότερα τετράγωνα ἴσα ἐστὶ, <expan><abbr>τ</abbr><ex>ῷ</ex></expan> τε δὶς ὑπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης, καὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> εἰρημένου τμήματος περιεχομένῳ ὀρθογωνίῳ, καὶ <expan><ex>τῷ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> λοιποῦ τμήματος τετραγώνῳ.
+</p></div4>
+</div3>
+<div3 type="number" n="8">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ ὡς ἔτυχε, τὸ τετράκις ὑπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης <expan><abbr>κ</abbr><ex>αὶ</ex></expan> ἑνὸς τῶν τμημάτων περιεχὸμενον ὀρθογώνιον <expan><abbr>μ</abbr><ex>ετ</ex><abbr>ὰ</abbr></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> λοιποῦ τμήματος τετραγώνου, ἴσον ἐστὶ, <expan><ex>τῷ</ex></expan> τὲ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὁλης καὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> εἰρημένου τμήματος, ὡς ἀπὸ μιᾶς ἀναγραφέντι τετραγώνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="9">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ εἰς ἴσα καὶ ἄνισα, τὰ ἀπὸ τῶν ἀνίσων <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης τμηματων τετράγωνα, διπλάσιά ἐστι, <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τε ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας <expan><ex>καὶ</ex></expan> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> μεταξὺ τῶν τομῶν τετραγώνου. 
+</p></div4>
+</div3>
+<div3 type="number" n="10">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> εὐθεῖα γραμμὴ τμηθῆ δίχα, προστεθῆ δέ τις αὐτῇ εὐθεῖα ἐπʼ εὐθείας, τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ὅλης σὺν τῆ προσκειμένῃ <expan><abbr>κ</abbr><ex>αὶ</ex></expan> τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> προσκειμένης τὰ συναμφότερα τετράγωνα, διπλάσιά, ἐστι, <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τε ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας, <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> συγκειμένης ἔκ τε <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἡμισείας, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> προσκειμένης, ὡς ἀπὸ μιᾶς ἀναγραφέντος τετραγώνου. 
+</p></div4>
+</div3>
+<div3 type="number" n="11">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>ΗΝ</w> δοθεῖσαν εὐθεῖαν τεμεῖν ὥστε τὸ ὑπὸ τῆς ὅλης καὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἑτέρου τῶν τμημάτων περιεχόμενον ὀρθογώνιον, ἴσον <expan><abbr>εἶν</abbr><ex>αι</ex></expan> <expan><ex>τῷ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> λοιποῦ τμήματος τετραγὼνῳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="12">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Ν</w> τοῖς ἀμβλυγωνίοις τριγώνοις, τὸ ἀπὸ τῆς τὴν ἀμβλεῖαν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον, μεῖζόν ἐστι τῶν ἀπὸ τῶν τὴν ἀμβλεῖαν περιεχουσῶν πλευρῶν τετραγώνων, <expan><ex>τῷ</ex></expan> περιεχομένῳ δὶς ὑπό τε μιᾶς τῶν περὶ τὴν ἀμβλεῖαν γωνίαν ἐφʼ ἣν ἐκβληθεῖσα ἡ κάθετος πίπτει, <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀπολαμβανομένης ἐκτὸς ὑπὸ τῆς καθέτου πρὸς τῇ ἀμβλείᾳ γωνίᾳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="13">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Ν</w> τοῖς ὀξυγωνίοις τριγώνοις, τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> τὴν ὀξεῖαν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον, ἔλαττόν ἐστι τῶν ἀπὸ τῶν τὴν ὀξεῖαν γωνίαν περιεχουσῶν πλευρῶν τετραγώνων, <expan><ex>τῷ</ex></expan> περιεχομένῳ δὶς ὑπό τε μιᾶς <expan><abbr>τ</abbr><ex>ῶν</ex></expan> περὶ τὴν ὀξεῖαν γωνίαν ἐφʼ ἣν ἡ κάθετος πίπτει, καὶ τῆς ἀπολαμβανομένης ἐντὸς ὑπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> καθέτου πρὸς τῇ ὀξείᾳ γωνίᾳ. 
+</p></div4>
+</div3>
+<div3 type="number" n="14">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Τ</hi>Ω</w> δοθέντι εὐθυγράμμῳ, ἴσον τετράγωνον συστήσασθαι. 
+</p></div4>
+</div3>
+</div2>
+</div1>
+
+
+
+
+
+<div1>
+<div2>
+<div3 type="number" n="1">
+<div4 type="Enun"><p>
+	ΤΟΥ δοθέντος κύκλου τὸ κέντρον εὑρεῖν. 
+</p></div4>
+</div3>
+<div3 type="number" n="2">
+<div4 type="Enun"><p>
+	<!-- abbr or ligature ἐπι? -->
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> περιφερείας ληφθῆ δύο τυχόντα σημεῖα, ἡ <expan><ex>ἐπὶ</ex></expan> τὰ αὐτὰ σημεῖα <expan><ex>ἐπι</ex><abbr>ζευγνυμένη</abbr></expan> εὐθεῖα, ἐντὸς πεσεῖται <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου. 
+</p></div4>
+</div3>
+<div3 type="number" n="3">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> ἐν κύκλῳ εὐθεῖα τίς διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου, εὐθείαν τινὰ, μὴ διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου δίχα τέμνη, <expan><ex>καὶ</ex></expan> πρὸς ὀρθὰς αὐτὴν τεμνεῖ, καὶ ἐὰν πρὸς ὀρθὰς αὐτὴν τέμνη, καὶ δίχα αὐτὴν τεμνεῖ. 
+</p></div4>
+</div3>
+<div3 type="number" n="4">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> ἐν κύκλῳ δύο εὐθεῖαι τέμνωσιν ἀλλήλας, μὴ διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου οὖσαι, οὐ τέμνουσιν ἀλλήλας δίχα. 
+</p></div4>
+</div3>
+<div3 type="number" n="5">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο κύκλοι τέμνωσιν ἀλλήλους, οὐκ ἔσται αὐτῶν τὸ αὐτὸ κέντρον. 
+</p></div4>
+</div3>
+<div3 type="number" n="6">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο κύκλοι ἐφάπτονται ἀλλήλων ἐντὸς, οὐκ ἔσται αὐτῶν τὸ αὐτὸ κέντρον. 
+</p></div4>
+</div3>
+<div3 type="number" n="7">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> διαμέτρου ληφθῆ τί σημεῖον, ὃ μὴ ἔστι κέντρον <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου, ἀπὸ <expan><ex>δὲ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> σημείου προσπίπτωσιν εὐθεῖαί τινες πρὸς τὸν κύκλον, μεγίστη μὲν ἔσται ἐφʼ ἧς τὸ κέντρον, ἐλαχίστη <expan><ex>δὲ</ex></expan> ἡ λοιπὴ. τῶν δ’ ἄλλων ἀεὶ, ἡ ἔγγιον <expan><abbr>τ</abbr><ex>ῆς</ex></expan> διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀπώτερον μείζων ἐστὶ. δύο δὲ μόνον εὐθεῖαι ἴσαι ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> σημείου προσπεσοῦνται πρὸς τὸν κύκλον, ἐφʼ ἑκάτερα τῆς ἐλαχίστης. 
+</p></div4>
+</div3>
+<div3 type="number" n="8">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου ληφθῆ τί σημεῖον ἐκτὸς, ἀπὸ <expan><ex>δὲ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> σημείου πρὸς τὸν κύκλον διαθῶσιν εὐθεῖαί τινὲς, ὧν μία μὲν διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου, αἱ δὲ λοιπαὶ ὡς ἔτυχε, τῶν μὲν πρὸς τὴν κοίλην περιφέρειαν προσπιπτουσῶν εὐθειῶν, μεγίστη μέν ἡ διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου, τῶν δὲ ἄλλων, ἀεὶ ἡ ἔγγιον <expan><abbr>τ</abbr><ex>ῆς</ex></expan> διὰ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀπώτερον μείζων ἔστίν. τῶν δὲ πρὸς τὴν κυρτὴν περιφέρειαν προσπιπτουσῶν εὐθειῶν, ἐλαχίστη μὲν ἐστὶν ἡ μεταξὺ τούτε σημείου καὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> διαμέτρου, τῶν δὲ ἄλλων ἀεὶ ἡ ἔγγιον <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἐλαχίστης, <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀπώτερόν ἐστὶν ἐλάττων, δύο δὲ μόνον εὐθεῖαι ἴσαι προσπεσοῦνται ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> σημείου πρὸς τὸν κύκλον ἐφʼ ἑκάτερα τῆς ἐλαχίστης. 
+</p></div4>
+</div3>
+<div3 type="number" n="9">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου ληφθῆ τί σημεῖον ἐντὸς, ἀπὸ <expan><ex>δὲ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> σημείου πρὸς τὸν κύκλον προσπίπτωσιν πλείους ἢ δύο ἴσαι, τὸ ληφθὲν σημεῖον, κέντρον ἐστὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου. 
+</p></div4>
+</div3>
+<div3 type="number" n="10">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Κ</hi>Υκλος</w> οὐ τέμνει κύκλον <expan><abbr>κ</abbr><ex>ατὰ</ex></expan> πλείονα σημεῖα, ἢ δύο. 
+</p></div4>
+</div3>
+<div3 type="number" n="11">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο κύκλοι ἐφάπτωνται ἀλλήλων ἐντὸς, καὶ ληφθῆ αὐτῶν τὰ κέντρα, ἡ <expan><ex>ἐπὶ</ex></expan> τὰ κέντρα <expan><abbr>αὐτ</abbr><ex>ῶν</ex></expan> <expan><ex>ἐπι</ex><abbr>ζευγνυμένη</abbr></expan> εὐθεῖα καὶ ἐκβαλλομένη, <expan><ex>ἐπὶ</ex></expan> τὴν συναφὴν πεσεῖται τῶν κύκλων. 
+</p></div4>
+</div3>
+<div3 type="number" n="12">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> δύο κύκλοι ἅπτωνται ἀλλήλων ἐκτὸς, ἡ <expan><ex>ἐπὶ</ex></expan> τὰ κέντρα αὐτῶν <expan><ex>ἐπι</ex><abbr>ζευγνυμένη</abbr></expan>, διὰ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἐπαφῆς ἐλεύσεται. 
+</p></div4>
+</div3>
+<div3 type="number" n="13">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Κ</hi>Υκλος</w> κύκλου οὐκ <expan><abbr>ἐφάπτετ</abbr><ex>αι</ex></expan> πλείονα σημεῖα, ἢ καθʼ ἕν, ἐάν τε ἐντὸς ἐάν τε ἐκτὸς ἐφάπτηται. 
+</p></div4>
+</div3>
+<div3 type="number" n="14">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Ν</w> κύκλῳ αἱ ἴσαι εὐθεῖαι, ἴσον ἀπέχουσιν ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου, καὶ αἱ ἴσον ἀπέχουσαι ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου ἴσαι ἀλλήλαις εἰσίν. 
+</p></div4>
+</div3>
+<div3 type="number" n="15">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>Ν</w> κύκλῳ μεγίστη μέν ἐστιν ἡ διάμετρος, <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><ex>δὲ</ex></expan> ἄλλων ἀεὶ, ἡ ἔγγιον <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου, τῆς ἀπώτερον μείζων ἐστίν. 
+</p></div4>
+</div3>
+<div3 type="number" n="16">
+<div4 type="Enun"><p>
+	Η Τῇ διαμέτρῳ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου πρὸς ὀρθὰς ἀπʼ ἄκρας ἀγομένη, ἐκτὸς πεσεῖται <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου, <expan><abbr>κ</abbr><ex>αὶ</ex></expan> εἰς τὸν μεταξὺ τόπον <expan><abbr>τ</abbr><ex>ῆς</ex></expan> τε εὐθεὶας καὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> περιφερείας, ἑτέρα εὐθεῖα οὐ παρεμπεσεῖται, καὶ ἡ μὲν <expan><abbr>τ</abbr><ex>οῦ</ex></expan> ἡμικυκλίου γωνία, ἁπάσης ὀξείας γωνίας εὐθυγράμμου μείζων ἐστὶν, ἡ δὲ λοιπὴ, ἐλάττων. 
+</p></div4>
+</div3>
+<div3 type="number" n="17">
+<div4 type="Enun"><p>
+	ΑΠΟ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> δοθέντος σημείου, <expan><abbr>τ</abbr><ex>οῦ</ex></expan> δοθέντος κύκλου ἐφαπτομένην εὐθεῖαν γραμμὴν ἀγαγεῖν. 
+</p></div4>
+</div3>
+<div3 type="number" n="18">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ <expan><ex>δὲ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κέντρου <expan><ex>ἐπὶ</ex></expan> τὴν ἁφὴν <expan><ex>ἐπι</ex><abbr>ζευχθῆ</abbr></expan> τις εὐθεῖα ἡ <expan><ex>ἐπι</ex><abbr>ζευχθεῖσα</abbr></expan>, κάθετος ἔσται <expan><ex>ἐπὶ</ex></expan> τὴν ἐφαπτομένην. 
+</p></div4>
+</div3>
+<div3 type="number" n="19">
+<div4 type="Enun"><p>
+	<w><hi rend="tall">Ε</hi>ΑΝ</w> κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ <expan><ex>δὲ</ex></expan> ἁφῆς τῇ ἐφαπτομένῃ πρὸς ὀρθὰς γωνίας εὐθεῖα γραμμὴ ἀχθῆ, <expan><ex>ἐπὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> ἀχθείσης ἔσται τὸ κέντρον <expan><abbr>τ</abbr><ex>οῦ</ex></expan> κύκλου. 
+</p></div4>
+</div3>
+</div2>
+</div1>
+</TEI>

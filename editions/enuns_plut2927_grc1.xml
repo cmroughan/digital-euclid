@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tei.css"?>
+<div1 type="book" n="1">
+<div2 type="type" n="Prop">
+<div3 type="number" n="1">
+<div4 type="type" n="Enun"><p>
+	ἐπὶ <expan><abbr>τ</abbr><ex>ὴς</ex></expan> δοθείσης <expan><abbr>εὐθή</abbr><ex>ας</ex></expan> <expan><abbr>πεπερασμ</abbr><ex>ένης</ex></expan>· τρίγωνον ἰσόπλευρον συστήσασθαι:
+</p></div4>
+</div3>
+
+<div3 type="number" n="2">
+<div4 type="type" n="Enun"><p>
+	δύο <expan><abbr>δοθεισ</abbr><ex>ων</ex></expan> <expan><abbr>εὐθει</abbr><ex>ων</ex></expan> <expan><abbr>ἀνίσ</abbr><ex>ων</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>μείζον</abbr><ex>ος</ex></expan> τῇ ἐλάσσονϊ. ἴσην <expan><abbr>εὐθει</abbr><ex>ου</ex></expan><expan><abbr>ἀφ</abbr><ex>ελεῖν</ex></expan>:
+</p></div4>
+</div3>
+
+<div3 type="number" n="3">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>πρ</abbr><ex>ὸς</ex></expan> τῷ δοθέντϊ σημείωι τῇ δοθείση εὐθεία, ἴσην <expan><abbr>εὐθει</abbr><ex>αν</ex></expan> θέσθαι:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="4">
+<div4 type="type" n="Enun"><p>
+	ἐὰν <num>Βʹ</num> <expan><abbr>τρ</abbr><ex>ίγωνα</ex></expan> τὰς δύο <expan><abbr>πλευρ</abbr><ex>ὰς</ex></expan> <expan><abbr>τ</abbr><ex>αῖς</ex></expan> δυσϊ <expan><abbr>πλευρ</abbr><ex>αῖς</ex></expan> ἴσας ἔχει <expan><abbr>ἑκατέρ</abbr><ex>αν</ex></expan> ἑκατέρα· <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>μΐ</abbr><ex>αν</ex></expan> <expan><abbr>γων</abbr><ex>ίαν</ex></expan> τῂ μϊὰ <expan><abbr>γω</abbr><ex>νίᾳ</ex></expan> <expan><abbr>ἴσ</abbr><ex>ην</ex></expan> ἔχηι <expan><abbr>τ</abbr><ex>ὴν</ex></expan> ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ἴσ</abbr><ex>ην</ex></expan> <expan><abbr>εὐθει</abbr><ex>ῶν</ex></expan> <expan><abbr>περιεχομ</abbr><ex>ένην</ex></expan>, <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>βασ</abbr><ex>ϊν</ex></expan> τὴ <expan><abbr>β</abbr><ex>άσει</ex></expan> <expan><abbr>ἴσ</abbr><ex>ην</ex></expan> ἔξει· <expan><ex>καὶ</ex></expan> τὸ τρί <expan><ex>τρί</ex><abbr>γων</abbr><ex>ον</ex></expan> τῷ <expan><abbr>τριγ</abbr><ex>ώνῳ</ex></expan> ἴσον ἔσται· <expan><ex>καὶ</ex></expan> αἱ λοιπαὶ γωνίαι <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>λοιπ</abbr><ex>αῖς</ex></expan> <expan><abbr>γων</abbr><ex>ία</ex><abbr>ι</abbr><ex>ς</ex></expan> ἴσαι <expan><ex>ἔσονται</ex></expan>. ἑκατέρα ἑκατέρᾳ ὑφὰς αἱ ἲσαι πλευραὶ ὑποτείνουσϊν⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="5">
+<div4 type="type" n="Enun"><p>
+	τῶν <expan><abbr>ἰσοσκελ</abbr><ex>ῶν</ex></expan> <expan><abbr>τριγών</abbr><ex>ων</ex></expan> αἱ <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> τῇ <expan><abbr>β</abbr><ex>άσει</ex></expan> γωνίαι ἰσαι <expan><abbr>ἀλ</abbr><ex>λ</ex><abbr>ήλ</abbr><ex>αις</ex></expan> εἰσί· <expan><ex>καὶ</ex></expan> <expan><abbr>προσεκβληθησ</abbr><ex>ῶν</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ἴσ</abbr><ex>ων</ex></expan> <expan><abbr>εὐθει</abbr><ex>ῶν</ex></expan>, αἱ ὑπὸ <expan><abbr>τ</abbr><ex>ῆν</ex></expan> <expan><abbr>βά</abbr><ex>σϊν</ex></expan> γωνίαι ἴσαι <expan><abbr>ἀλλήλ</abbr><ex>αις</ex></expan> <expan><abbr>ἔσοντ</abbr><ex>αι</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="6">
+<div4 type="type" n="Enun"><p>
+	ἐὰν <expan><abbr>τριγω</abbr><ex>νου</ex></expan> αἲ δύο γωνίαι ἲσαι <expan><abbr>ἀλλήλ</abbr><ex>αις</ex></expan> ὦσϊ, <expan><ex>καὶ</ex></expan> αἱ ὑπὸ τὰς ἴσας <expan><abbr><unclear>μι</unclear>νί</abbr><ex>ας</ex></expan> ὑποτείνουσαι πλευραὶ, ἶσαι <expan><abbr>ἀλλήλ</abbr><ex>αις</ex></expan> ἔσονται⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="7">
+<div4 type="type" n="Enun"><p>
+	ἐπι <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan> <expan><abbr>εὐ</abbr><ex>θείας</ex></expan> δύο <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>εὐθεί</abbr><ex>αις</ex></expan> ἄλλαι <num>Βʹ</num> εὐθεῖαι ἶσαι ἑκατέρα ἑκατέρα οὐ <expan><abbr>συσταθήσοντ</abbr><ex>αι</ex></expan> <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> ἄλλω <expan><ex>καὶ</ex></expan> ἄλλω <expan><abbr>σ</abbr><ex>ημείῳ</ex></expan>. ἐπὶ τὰ αὐτὰ πέρατα <expan><abbr>τ</abbr><ex>αῖς</ex></expan> ἐξ ἀρχῆς εὐθείαις:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="8">
+<div4 type="type" n="Enun"><p>
+	ἐὰν δύο τρίγωνα <expan><abbr>τ</abbr><ex>ὰς</ex></expan> δύο <expan><abbr>πλευρ</abbr><ex>ὰς</ex></expan> <expan><abbr>τ</abbr><ex>αῖς</ex></expan> δύο <expan><abbr>πλευ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ἔχῃ <expan><abbr>ἑκατερ</abbr><ex>αν</ex></expan> ἑκατέρα· ἔχη δὲ <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>βα</abbr><ex>σιν</ex></expan> τῇ <expan><abbr>βα</abbr><ex>σει</ex></expan> ἴσην. <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> γωνίαν τῇ γωνία ἴσην εὔξει· <expan><abbr>τ</abbr><ex>ὴν</ex></expan> ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων εὐθηῶν <expan><abbr>περ<choice><sic>ὶ</sic><corr>ι</corr></choice>εχομ</abbr><ex>ένην</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="9">
+<div4 type="type" n="Enun"><p>
+	τὴν <expan><abbr>δοθεῖσ</abbr><ex>αν</ex></expan> <expan><abbr>εὐθει</abbr><ex>αν</ex></expan> <expan><abbr>γωνι</abbr><ex>αν</ex></expan> εὐθύγραμμιον δίχα <expan><abbr>τεμ</abbr><ex>εῖν</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="10">
+<div4 type="type" n="Enun"><p>
+	τὴν <expan><abbr>δοθεῖσ</abbr><ex>αν</ex></expan> εὐθεῖσω <expan><abbr>πεπερασμ</abbr><ex>ένην</ex></expan> δίχα τεμεῖν:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="11">
+<div4 type="type" n="Enun"><p>
+	τῆ <expan><abbr>δοθη</abbr><ex>σῃ</ex></expan> <expan><abbr>εὐθει</abbr><ex>ᾳ</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> αὐτ <expan><abbr>δοθεντ</abbr><ex>ος</ex></expan> <expan><abbr>σημεί</abbr><ex>ου</ex></expan> <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> ὀρθὰς <expan><abbr>γωνι</abbr><ex>ας</ex></expan> <expan><abbr>εὐθει</abbr><ex>αν</ex></expan> <expan><abbr>γραμμ</abbr><ex>ὴν</ex></expan> αγαγεῖν:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="12">
+<div4 type="type" n="Enun"><p>
+	ἐπὶ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>δόθεῖσ</abbr><ex>αν</ex></expan> εὐθεῖαν <expan><abbr>ἄπειρ</abbr><ex>ον</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>δοθὲντ</abbr><ex>ος</ex></expan> <expan><abbr>σημεί</abbr><ex>ου</ex></expan> ὃ μὴ <expan><ex>ἐστιν</ex></expan> ἐπ’ <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan>· κάθετον εὐθειαν <expan><abbr>γραμμ</abbr><ex>ὴν</ex></expan> ἀγαγεῖν:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="13">
+<div4 type="type" n="Enun"><p>
+	ὡς ἂν εὐθεῖα ἐπ’ <expan><abbr>εὐθεῖ</abbr><ex>αν</ex></expan> σταθεῖσα <expan><abbr>γωνι</abbr><ex>ας</ex></expan> ποιῇ. ἤ ζειδώ ὀρθὰς, ἣ δϊση <expan><abbr>ὀρθ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ποιήσει⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="14">
+<div4 type="type" n="Enun"><p>
+	ἐὰν <expan><abbr>πρ</abbr><ex>ός</ex></expan> τινϊ εὐθεῖα. <expan><ex>καὶ</ex></expan> τῲ <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> αὐτῆ <expan><abbr>σημεί</abbr><ex>ῳ</ex></expan> <num>Βʹ</num> <expan><abbr>εὐθει</abbr><ex>αι</ex></expan> μὴ ἐπὶ τὰ μέρη κεὶμεναι <expan><abbr>τ</abbr><ex>ὰς</ex></expan> ἐφεξῆς <expan><abbr>γωνι</abbr><ex>ας</ex></expan> <expan><abbr>δυσ</abbr><ex>ὶν</ex></expan> ὀρθαῖς <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> <expan><abbr>ποιω</abbr><ex>σιν</ex></expan>· ἐπ ευθείας <expan><abbr>ἔσοντ</abbr><ex>αι</ex></expan> <expan><abbr>ἀλλήλ</abbr><ex>αις</ex></expan> αἱ εὑθεῖαι:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="15">
+<div4 type="type" n="Enun"><p>
+	ἐὰν δύο <expan><abbr>εὐθει</abbr><ex>αι</ex></expan> <expan><abbr>τέμνω</abbr><ex>σιν</ex></expan> <expan><abbr>ἀλλήλ</abbr><ex>ας</ex></expan> τὰς <expan><ex>κατὰ</ex></expan> <expan><abbr>κορυφ</abbr><ex>ὴν</ex></expan> γωνίας ἴσας ἀλλήλαις <expan><abbr>ποιήσουσ</abbr><ex>ιν</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="16">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>παντ</abbr><ex>ὸς</ex></expan> <expan><abbr>τριγω</abbr><ex>νου</ex></expan> μϊᾶς <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> <expan><abbr>ἐκβληθείσ</abbr><ex>ης</ex></expan>. ἡ <expan><abbr>ἐκτ</abbr><ex>ὸς</ex></expan> γωνια <expan><abbr>εκατέρ</abbr><ex>ας</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>ἀπεναντϊ</abbr><ex>ον</ex></expan> μείζων ἐστίν:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="17">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>παντ</abbr><ex>ὸς</ex></expan> <expan><abbr>τριγω</abbr><ex>νου</ex></expan> αἱ <num>Βʹ</num> γωνίαι. δύο <expan><abbr>ὀρθ</abbr><ex>ῶν</ex></expan> ἐλάσσονές εἰσϊ· πάντη <expan><abbr>μ</abbr><ex>ετα</ex><abbr>λαμβανόμ</abbr><ex>εναι</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="20">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr><choice><sic>ὁ</sic><corr>π</corr></choice>αντ</abbr><ex>ὸς</ex></expan> <expan><abbr>τριγω</abbr><ex>νου</ex></expan> αἱ δύο πλευραὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>λοιπ</abbr><ex>ῆς</ex></expan> <expan><abbr>μείζον</abbr><ex>ές</ex></expan> <expan><abbr>εἰ</abbr><ex>σι</ex></expan>· πάντῃ <expan><abbr>μ</abbr><ex>ετα</ex><abbr>λαμβανόμ</abbr><ex>εναι</ex></expan>:
+</p></div4>
+</div3>
+
+<div3 type="number" n="18">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>παντ</abbr><ex>ὸς</ex></expan> <expan><abbr>τριγω</abbr><ex>νου</ex></expan> ἡ <expan><abbr>μείζ</abbr><ex>ων</ex></expan> πλευρὰ. <expan><abbr>τ</abbr><ex>ὴν</ex></expan> μείζωνα <expan><abbr>γωνι</abbr><ex>αν</ex></expan> ὑποτεὶνει⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="19">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>παντ</abbr><ex>ὸς</ex></expan> <expan><abbr>τριγω</abbr><ex>νου</ex></expan> ὑπὸ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> μείζωνα <expan><abbr>γωνι</abbr><ex>αν</ex></expan> ἠ <expan><abbr>μείζ</abbr><ex>ων</ex></expan> πλευρὴ ὑποτείνει:
+</p></div4>
+</div3>
+
+<div3 type="number" n="21">
+<div4 type="type" n="Enun"><p>
+	ἐὰν <expan><abbr>τριγών</abbr><ex>ου</ex></expan> ἐπὶ <expan><abbr>μϊασ</abbr><ex>αν</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>περάτ</abbr><ex>ων</ex></expan> δύο εὐθεῖαι <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><abbr>συστασθοῖσ</abbr><ex>ιν</ex></expan>, αἱ συσταθεῖσαι <expan><abbr>τ</abbr><ex>αι</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>λοιπ</abbr><ex>ῶν</ex></expan> τοῦ <expan><abbr>τριγών</abbr><ex>ου</ex></expan> δύο <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan>. <expan><abbr>ἐλάττον</abbr><ex>ες</ex></expan> <expan><abbr>μ</abbr><ex>ὲν</ex></expan> <expan><abbr>ἔσον</abbr><ex>ται</ex></expan>. μείζονα δὲ <expan><abbr>γωνι</abbr><ex>αν</ex></expan> <expan><abbr>περιέξ</abbr><ex>ου</ex><abbr>σϊν</abbr></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="22">
+<div4 type="type" n="Enun"><p>
+	ἐκ <expan><abbr>τρι</abbr><ex>ῶν</ex></expan> <expan><abbr>εὐθει</abbr><ex>ῶν</ex></expan> αἵ, εἰσϊν ἶσαι τρισῒ· <expan><abbr>τ</abbr><ex>αῖς</ex></expan> δοθείσαις εὐθείαις, <expan><abbr>τρίγω</abbr><ex>νον</ex></expan> συστήσασθαι:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="23">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>πρ</abbr><ex>ὸς</ex></expan> τὴ <expan><abbr>δοθη</abbr><ex>σῃ</ex></expan> εὐθείᾳ <expan><ex>καὶ</ex></expan> τῷ <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> αὐτῇ σημείῳ· τῆ <expan><abbr>δοθει</abbr><ex>σῃ</ex></expan> γωνία <expan><abbr>εὐθυγράμμ</abbr><ex>ῳ</ex></expan> <expan><abbr>ἴσ</abbr><ex>ην</ex></expan> <expan><abbr>γωνι</abbr><ex>αν</ex></expan> εὐθύγραμμον συστήσασθαι:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="24">
+<div4 type="type" n="Enun"><p>
+	ἐὰν δύο <expan><abbr>τρὶγὡ</abbr><ex>να</ex></expan> <expan><abbr>τ</abbr><ex>ὰς</ex></expan> <num>Βʹ</num> <expan><abbr>πλευρ</abbr><ex>ὰς</ex></expan> ταῖς δυο <expan><ex>καὶ</ex></expan> <expan><abbr>πλευρ</abbr><ex>αῖς</ex></expan> ἴσας ἔχῃ <expan><abbr>ἑκωτέρ</abbr><ex>αν</ex></expan> ἑκωτέρᾳ. <expan><abbr>τ</abbr><ex>ὴν</ex></expan> δὲ <expan><abbr>γωνι</abbr><ex>αν</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>γωνι</abbr><ex>ας</ex></expan> μείζονα ἔχῃ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων εὐθειῶν <expan><abbr>περιεχομ</abbr><ex>ένην</ex></expan>· <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>βάσ</abbr><ex>ιν</ex></expan> τῆς <expan><abbr>βα</abbr><ex>σεως</ex></expan> μείζονα ἔξει⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="25">
+<div4 type="type" n="Enun"><p>
+	ἐὰν δύο τρίγωνα <expan><abbr>τ</abbr><ex>ὰς</ex></expan> δύο <expan><abbr>πλευρ</abbr><ex>ὰς</ex></expan> δυσῒ <expan><abbr>πλευρ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ἐχή <expan><abbr>ἑκατέρ</abbr><ex>αν</ex></expan>· <expan><abbr>τ</abbr><ex>ὴν</ex></expan> δὲ <expan><abbr>βα</abbr><ex>σιν</ex></expan> <expan><abbr>τ</abbr><ex>ῆς</ex></expan> βάσεως μείζονα ἔχῃ· <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> γωνίαν <expan><abbr>τ</abbr><ex>ῆς</ex></expan> γωνίας μείζονα ἕξει· <expan><abbr>τ</abbr><ex>ὴν</ex></expan> ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> ἴσων <expan><abbr>εὐθει</abbr><ex>ῶν</ex></expan> <expan><abbr>περιεχο</abbr><ex>μένην</ex></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="26">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>ἐ</abbr><ex>ὰν</ex></expan> <num>Βʹ</num> τρίγωνα <expan><abbr>τ</abbr><ex>ὰς</ex></expan> <num>Βʹ</num> <expan><abbr>γωνί</abbr><ex>ας</ex></expan> δυσῒ <expan><abbr>γωνι</abbr><ex>αις</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ἔχῃ ἑκατέρα· <expan><ex>καὶ</ex></expan> <expan><abbr>μί</abbr><ex>αν</ex></expan> <expan><abbr>πλευρ</abbr><ex>ὰν</ex></expan> μϊᾶ πλευρᾶ <expan><abbr>ἴσ</abbr><ex>ην</ex></expan> ἤτοι <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>πρ</abbr><ex>ὸς</ex></expan> <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἴσ</abbr><ex>αις</ex></expan> <expan><abbr>γωνί</abbr><ex>αις</ex></expan> ἢ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>ὑποτείνουσ</abbr><ex>αν</ex></expan> ὑπὸ μΐαν <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ἴσ</abbr><ex>ων</ex></expan> γωνιῶν, <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὰς</ex></expan> <expan><abbr>λοιπ</abbr><ex>ὰς</ex></expan> <expan><abbr>πλευρ</abbr><ex>ὰς</ex></expan> <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>λοιπ</abbr><ex>αῖς</ex></expan> <expan><abbr>πλευρ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ἕξει ἑκατέραν ἑκατέρα:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="27">
+<div4 type="type" n="Enun"><p>
+	ἐὰν εἰς δύο <expan><abbr>εὐθεί</abbr><ex>ας</ex></expan> εὐθεῖα ἐμπίπτουσα τὰς ἐναλλὰξ γωνίας <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> ἀλλήλαις ποιῆ· παράλληλοι <expan><abbr>ἔσον</abbr><ex>ται</ex></expan> ἀλλήλαις αἱ εὐθεῖαι:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="28">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>ἐ</abbr><ex>ὰν</ex></expan> εἰς <num>Βʹ</num> <expan><abbr>εὐ</abbr><ex>θείας</ex></expan> εὐθεῖα ἐμπίπτουσα <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>ἐκτ</abbr><ex>ὸς</ex></expan> <expan><abbr>γωνί</abbr><ex>αν</ex></expan> τῇ <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>ἐπενανζ</abbr><ex>ον</ex></expan> <expan><ex>καὶ</ex></expan> ἐπὶ τὰ <expan><abbr>αὐ</abbr><ex>τὰ</ex></expan> μέρη <expan><abbr>ἵσ</abbr><ex>ην</ex></expan> ποιῇ ἠ τὰς <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><ex>καὶ</ex></expan> ἐπὶ τὰ <expan><abbr>αὐ</abbr><ex>τὰ</ex></expan> μέρη <expan><abbr>δυσ</abbr><ex>ὶν</ex></expan> <expan><abbr>ὀρθ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἵσ</abbr><ex>ας</ex></expan>. παράλληλοι <expan><abbr>ἔσον</abbr><ex>ται</ex></expan> ἀλληλαις αἱ <expan><abbr>εὐθ</abbr><ex>εῖαι</ex></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="29">
+<div4 type="type" n="Enun"><p>
+	ἡ εἰς <expan><abbr>τ</abbr><ex>ὰς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>ους</ex></expan> εὐθείας <expan><abbr>εὐθ</abbr><ex>εῖα</ex></expan> ἐμπίπτουσα. <expan><abbr>τ</abbr><ex>άς</ex></expan> τε ἐναλλὰξ <expan><abbr>γωνί</abbr><ex>ας</ex></expan> <expan><abbr>ἴσ</abbr><ex>ας</ex></expan> <expan><abbr>ἀλλήλ</abbr><ex>αις</ex></expan> ποιεῖ. <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>ἐκτ</abbr><ex>ὸς</ex></expan> τῇ <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><ex>καὶ</ex></expan> ἀπεναντίον <expan><ex>καὶ</ex></expan> ἐπὶ τὰ αὐτὰ μέρη <expan><abbr>κ</abbr><ex>*</ex><abbr>σαν</abbr></expan>. <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὰς</ex></expan> <expan><abbr>ἐντ</abbr><ex>ὸς</ex></expan> <expan><ex>καὶ</ex></expan> ἐπὶ τὰ αὐτὰ μέρη δυσῒν ὀρθαὶς ἴσας:
+	<!-- Figure out <expan><abbr>κ</abbr><ex>*</ex><abbr>σαν</abbr></expan> -->
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="30">
+<div4 type="type" n="Enun"><p>
+  αἱ τῇ αὐτῇ εὐθεῖα παράλληλοι· <expan><ex>καὶ</ex></expan> ἀλλήλαις εἰσὶ παράλληλοι·
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="31">
+<div4 type="type" n="Enun"><p>
+  διὰ τοῦ <expan><abbr>δοθεντο</abbr><ex>ς</ex></expan> <expan><abbr>σημεί</abbr><ex>ου</ex></expan> τῂ <expan><abbr>δοθησ</abbr><ex>ῃ</ex></expan> εὐθεῖᾳ· παράλληλον <expan><abbr>εὐθει</abbr><ex>ου</ex></expan> <expan><abbr>γραμμ</abbr><ex>ὴν</ex></expan> ἀγαγεῖν: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="32">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>παντὸ</abbr><ex>ς</ex></expan> <expan><abbr>τριγών</abbr><ex>ου</ex></expan> μϊᾶς <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <w>πλε<unclear>υ</unclear>ρῶν</w> <expan><abbr>προσεκβληθείσ</abbr><ex>ης</ex></expan> ἡ <expan><abbr>ἐκτὸ</abbr><ex>ς</ex></expan> γωνία δυσῒ <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>ἐντὸ</abbr><ex>ς</ex></expan> <expan><ex>καὶ</ex></expan> ἀπεναντίον ἴση <expan><ex>ἐστὶν</ex></expan>, καὶ αἱ <expan><abbr>ἐντὸ</abbr><ex>ς</ex></expan> τοῦ τριγώνου τρεῖς γωνίαι, δυσΐν ὀρθαῖς ἴσαι εἰσΐν. 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="33">
+<div4 type="type" n="Enun"><p>
+  αἱ τὰς ἴσας τε <expan><ex>καὶ</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>ους</ex></expan> ἐπὶ τὰ αὐτὰ μέρη ἐπιζευγνύουσαι <expan><abbr>εὐθεῖ</abbr><ex>αι</ex></expan>· <expan><ex>καὶ</ex></expan> αὐταὶ ἴσαι τε <expan><ex>καὶ</ex></expan> παράλληλοί εἰσίν: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="34">
+<div4 type="type" n="Enun"><p>
+  τῶν <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλογράμμ</abbr><ex>ων</ex></expan> <expan><abbr>χωρί</abbr><ex>ων</ex></expan> αἱ ἀπεναντίον πλευραί τε <expan><ex>καὶ</ex></expan> γωνίαι ἴσαι ἀλλήλοις <expan><ex>εἰσὶν</ex></expan>, <expan><ex>καὶ</ex></expan> ἡ <expan><abbr>διάμετρο</abbr><ex>ς</ex></expan> αὐτὰ δίχα τέμνη: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="35">
+<div4 type="type" n="Enun"><p>
+  τὰ <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμα</abbr></expan> τὰ ἐπὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan> <expan><abbr>βάσ</abbr><ex>εως</ex></expan> ὄντα· <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>οις</ex></expan>, ἴσα ἀλλήλοις <expan><ex>ἐστίν</ex></expan>: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="36">
+<div4 type="type" n="Enun"><p>
+  τὰ <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμα</abbr></expan> τὰ ἐπὶ <expan><abbr>ἴσ</abbr><ex>ων</ex></expan> βάσεων ὄντα· <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>οις</ex></expan>, ἴσα ἀλλήλοις <expan><ex>ἐστίν</ex></expan>: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="37">
+<div4 type="type" n="Enun"><p>
+  τὰ τρίγωνα τὰ ἐπὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan> <expan><abbr>βάσ</abbr><ex>εως</ex></expan> ὄντα· <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλοις</abbr></expan>, ἴσα ἀλλήλοις <expan><ex>ἐστίν</ex></expan>: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="38">
+<div4 type="type" n="Enun"><p>
+  τὰ τρίγωνα τὰ ἐπὶ <expan><abbr>ἴσ</abbr><ex>ων</ex></expan> βάσεων ὄντα <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>οις</ex></expan>, ἴσα <expan><abbr>ἀλλήλ</abbr><ex>οις</ex></expan> εἰσίν:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="39">
+<div4 type="type" n="Enun"><p>
+  τὰ ἴσα <expan><abbr>τρίγ</abbr><ex>ωνα</ex></expan> τὰ ἐπὶ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῆς</ex></expan> <expan><abbr>βάσε</abbr><ex>ως</ex></expan> ὄντα, <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>οις</ex></expan> ἐστίν: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="40">
+<div4 type="type" n="Enun"><p>
+  τὰ ἴσα τρίγωνα τὰ ἐπὶ ἴσων <expan><abbr>βάσε</abbr><ex>ων</ex></expan> ὄντα· <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλ</abbr><ex>οις</ex></expan> <expan><ex>ἐστίν</ex></expan>: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="41">
+<div4 type="type" n="Enun"><p>
+  ἐὰν <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλ<unclear>η</unclear>λόγραμμον</abbr></expan> τριγώνῳ <expan><abbr>βάσ</abbr><ex>ιν</ex></expan> τε ἔχῃ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>αὐτ</abbr><ex>ῶς</ex></expan> <expan><ex>καὶ</ex></expan> ἐν <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <expan><abbr>αὐτ</abbr><ex>αῖς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λλήλοις</abbr></expan> ᾖ, διπλάσιον ἔσται το <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμ</abbr><ex>ον</ex></expan> <expan><abbr>τ</abbr><ex>ου</ex></expan> <expan><abbr>τριγών</abbr><ex>ου</ex></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="42">
+<div4 type="type" n="Enun"><p>
+  τῷ δοθέντϊ τριγώνω· ἴσον <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμον</abbr></expan> συστήσασθαι ἐν τῇ δοθείση εὐθεῖᾳ: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="43">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>παντὸ</abbr><ex>ς</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλογράμμ</abbr><ex>ου</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>π</abbr><ex>ερὶ</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> διάμετρον <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλογράμμ</abbr><ex>ων</ex></expan>, τὰ <expan><abbr>π</abbr><ex>αρα</ex><abbr>πληρώμ</abbr><ex>ατα</ex></expan> ἴσα ἀλλήλοις <expan><ex>ἐστίν</ex></expan>⁑ 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="44">
+<div4 type="type" n="Enun"><p>
+  παρὰ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>δοθεῖσ</abbr><ex>αν</ex></expan> <expan><abbr>εὐθ</abbr><ex>εῖαν</ex></expan> τῷ δοθέντϊ <expan><abbr>τριγώ</abbr><ex>νῳ</ex></expan>· ἴσον <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμ</abbr><ex>ον</ex></expan> <expan><abbr>π</abbr><ex>αρα</ex><abbr>βαλ</abbr><ex>εῖν</ex></expan> ἐν τῇ δοθήσῃ γωνία εὐθυγράμμω⁑ 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="45">
+<div4 type="type" n="Enun"><p>
+  τῷ δοθέντϊ εὐθυγράμμω, ἴσον <expan><abbr>π</abbr><ex>αρα</ex><abbr>λληλόγραμμον</abbr></expan> συστήσασθαι ἐν τῆ δοθείση γωνίᾳ εὐθυγράμμῳ: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="46">
+<div4 type="type" n="Enun"><p>
+  ἀπὸ <expan><abbr>τ</abbr><ex>ῆς</ex></expan> δοθήσης εὐθείας, <expan><abbr>τετράγω</abbr><ex>νον</ex></expan> ἀναγράψαι: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="47">
+<div4 type="type" n="Enun"><p>
+  ἐν <expan><abbr>τ</abbr><ex>οῖς</ex></expan> <expan><abbr>ὀρθογωνί</abbr><ex>οις</ex></expan> <expan><abbr>τριγών</abbr><ex>οις</ex></expan> τὸ ἀπὸ <expan><abbr>τ</abbr><ex>ὴν</ex></expan> <expan><abbr>ὀρθ</abbr><ex>ὴν</ex></expan> <expan><abbr>γωνί</abbr><ex>αν</ex></expan> <expan><abbr>ὑποτειν</abbr><ex>ού</ex><abbr>σ</abbr><ex>ης</ex></expan> <expan><abbr>πλευρ</abbr><ex>ᾶς</ex></expan> <expan><abbr>τετράγω</abbr><ex>νον</ex></expan>, <expan><abbr>ἴσ</abbr><ex>όν</ex></expan> ἐστϊ <expan><abbr>τ</abbr><ex>οῖς</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>τ</abbr><ex>ὴν</ex></expan> ὀρθὴν <expan><abbr>γωνί</abbr><ex>αν</ex></expan> <expan><abbr>περιεχ</abbr><ex>ου</ex><abbr>σ</abbr><ex>ῶν</ex></expan> <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> τετραγώνοις⁑ 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="48">
+<div4 type="type" n="Enun"><p>
+  ἐὰν τριγώνου τὸ ἀπο <expan><abbr>μι</abbr><ex>ᾶς</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> <expan><abbr>τετράγω</abbr><ex>νον</ex></expan> <expan><abbr>ἶσ</abbr><ex>ον</ex></expan> ᾖ <expan><abbr>τ</abbr><ex>οῖς</ex></expan> ἀπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>λοιπ</abbr><ex>ῶν</ex></expan> τοῦ τριγώνου δύο <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> τετραγώνοις, ἡ <expan><abbr>περιεχομ</abbr><ex>ένη</ex></expan> γωνία ὑπὸ <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>λοιπ</abbr><ex>ῶν</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> τριγώνου δύο <expan><abbr>πλευρ</abbr><ex>ῶν</ex></expan> ὀρθή ἐστϊ⁑ 
+</p></div4>
+</div3>
+</div2>
+</div1>

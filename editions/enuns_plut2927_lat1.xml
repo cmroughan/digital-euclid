@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tei.css"?>
+<TEI>
+<div1 type="book" n="1">
+<div2 type="type" n="Def">
+<div3 type="number" n="1"><p>
+	<expan><abbr><hi rend="tall">P</hi>u</abbr><ex>n</ex><abbr>ctus</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>cui</abbr><ex>us</ex></expan> pars <expan><abbr>n</abbr><ex>n</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>. 
+</p></div3>
+<div3 type="number" n="2"><p>
+	linea <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>gitudo</abbr></expan> sine latitudine. 
+</p></div3>
+<div3 type="number" n="3"><p>
+	<expan><abbr>cui</abbr><ex>us</ex></expan> extremitates <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> duo <expan><abbr>pu</abbr><ex>n</ex><abbr>cta</abbr></expan>.
+</p></div3>
+<div3 type="number" n="4"><p>
+	Linea <expan><abbr>re</abbr><ex>ct</ex><abbr>a</abbr></expan> ab uno <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> ad alius <expan><abbr>exte</abbr><ex>n</ex><abbr>sio</abbr></expan> <del>brevissima</del> <expan><abbr>i</abbr><ex>n</ex></expan> extremitates suas <expan><abbr>ut</abbr><ex>rum</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>eo</abbr><ex>rum</ex></expan> <expan><abbr>recipie</abbr><ex>n</ex><abbr>s</abbr></expan>.
+</p></div3>
+<div3 type="number" n="5"><p>
+	<expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>gitudines</abbr></expan> <expan><ex>et</ex></expan> latitudines <expan><abbr>ta</abbr><ex>n</ex><abbr>tus</abbr></expan> <expan><abbr>h</abbr><ex>abe</ex><abbr>t</abbr></expan>
+</p></div3>
+<div3 type="number" n="6"><p>
+	<expan><abbr>cui</abbr><ex>us</ex></expan> <expan><abbr>t</abbr><ex>er</ex><abbr>mini</abbr></expan>. <del>quid</del> lineae.
+</p></div3>
+<div3 type="number" n="7"><p>
+	<expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> plana <expan><abbr>e</abbr><ex>st</ex></expan> ab una linea ad aliam <del>brevissima</del> <expan><abbr>exte</abbr><ex>n</ex><abbr>sio</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> extremitates suas eas <expan><abbr>recipie</abbr><ex>n</ex><abbr>s</abbr></expan>.
+</p></div3>
+<div3 type="number" n="8"><p>
+	angulus pnanus <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>dua</abbr><ex>rum</ex></expan> <expan><abbr>linea</abbr><ex>rum</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>nus</abbr></expan> <expan><ex>con</ex><abbr>tact</abbr><ex>us</ex></expan> <expan><abbr>qua</abbr><ex>rum</ex></expan> <expan><abbr>expa</abbr><ex>n</ex><abbr>sio</abbr></expan> <expan><abbr>sup</abbr><ex>ra</ex></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficiem</abbr></expan> <expan><abbr>applicatioq</abbr><ex>ue</ex></expan> <expan><abbr>no</abbr><ex>n</ex></expan> <expan><abbr>dir</abbr><ex>ec</ex><abbr>ta</abbr></expan>.
+</p></div3>
+<div3 type="number" n="9"><p>
+	<!-- Figure out what <expan><abbr>ū</abbr><ex>*</ex><abbr>tū</abbr><ex>*</ex><abbr>q</abbr><ex>*</ex></expan> is -->
+	<expan><abbr>Q</abbr><ex>uando</ex></expan> <unclear>ū*tū*q*</unclear> <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><ex>con</ex><abbr>tine</abbr><ex>n</ex><abbr>t</abbr></expan> due linee si <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>e</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>rec</abbr><ex>ti</ex><abbr>lineus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>no</abbr><ex>m</ex><abbr>i</abbr><ex>n</ex><abbr>at</abbr><ex>ur</ex></expan>.
+</p></div3>
+<div3 type="number" n="10"><p>
+	<expan><abbr>q</abbr><ex>ua</ex><abbr>n</abbr><ex>do</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> <del><w>fu<unclear>eu</unclear></w></del> linea <expan><abbr>sup</abbr><ex>er</ex></expan> rectam steterit lineam. <expan><abbr>duoq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>utrobiq</abbr><ex>ue</ex></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> equales <expan><abbr>eo</abbr><ex>rum</ex></expan> <expan><abbr>ut</abbr><ex>er</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>us</abbr></expan> erit. <expan><abbr>lineaq</abbr><ex>ue</ex></expan> linee <expan><abbr>substa</abbr><ex>n</ex><abbr>s</abbr></expan> ei cui <expan><abbr>sup</abbr><ex>er</ex><abbr>stat</abbr></expan> <expan><abbr>p</abbr><ex>er</ex><abbr>pe</abbr><ex>n</ex><abbr>dicularis</abbr></expan> <expan><abbr>vocat</abbr><ex>ur</ex></expan>.
+</p></div3>
+<div3 type="number" n="11"><p>
+	<expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>v</abbr><ex>er</ex><abbr>o</abbr></expan> qui <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>o</abbr></expan> maior <expan><abbr>e</abbr><ex>st</ex></expan> obtusus <expan><abbr>dicit</abbr><ex>ur</ex></expan>.
+</p></div3>
+<div3 type="number" n="12"><p>
+	<expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> minor <expan><abbr><unclear>c</unclear>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>o</abbr></expan> acutus <expan><abbr>app</abbr><ex>e</ex><abbr>llat</abbr><ex>ur</ex></expan>:
+</p></div3>
+<div3 type="number" n="13"><p>
+	<expan><abbr>t</abbr><ex>er</ex><abbr>minus</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> <expan><abbr>cui</abbr><ex>us</ex><abbr>cu</abbr><ex>m</ex><abbr>q</abbr><ex>ue</ex></expan> finis <expan><abbr>e</abbr><ex>st</ex></expan>.
+</p></div3>
+<div3 type="number" n="14"><p>
+	<expan><abbr>ffigu</abbr><ex>r</ex><abbr>a</abbr></expan> <expan><abbr>v</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> que <expan><abbr>t</abbr><ex>er</ex><abbr>mino</abbr></expan> <expan><ex>ve</ex><abbr>l</abbr></expan> <expan><abbr>t</abbr><ex>er</ex><abbr>minis</abbr></expan> <expan><ex>con</ex><abbr>tinet</abbr><ex>ur</ex></expan> <expan><abbr>ul</abbr><ex>*</ex></expan> <expan><abbr>claud</abbr><ex>*</ex></expan>:
+	<!-- Figure out <expan><abbr>ul</abbr><ex>*</ex></expan> <expan><abbr>claud</abbr><ex>*</ex></expan> -->
+</p></div3>
+<div3 type="number" n="15"><p>
+	<expan><abbr>circul</abbr><ex>us</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> ffigura plana una quid linea <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>ta</abbr></expan> que <expan><abbr>c</abbr><ex>ir</ex><abbr>cu</abbr><ex>m</ex><abbr>f</abbr><ex>e</ex><abbr>r</abbr><ex>en</ex><abbr>tia</abbr></expan> <expan><abbr>nomi</abbr><ex>n</ex><abbr>at</abbr><ex>ur</ex></expan>. <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>cui</abbr><ex>us</ex></expan> medio <expan><abbr>pu</abbr><ex>n</ex><abbr>ctus</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> a quo <expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> linee ad <expan><abbr>c</abbr><ex>ir</ex><abbr>cu</abbr><ex>m</ex><abbr>f</abbr><ex>e</ex><abbr>r</abbr><ex>en</ex><abbr>tiam</abbr></expan> <expan><abbr>exeu</abbr><ex>n</ex><abbr>tes</abbr></expan> sibi <expan><abbr>i</abbr><ex>n</ex><abbr>uices</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equales.
+</p></div3>
+<div3 type="number" n="16"><p>
+	et hic quid <expan><abbr>pu</abbr><ex>n</ex><abbr>ctus</abbr></expan> <expan><abbr>ce</abbr><ex>n</ex><abbr>t</abbr><ex>rum</ex></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>culi</abbr></expan> <expan><abbr>dicit</abbr><ex>ur</ex></expan>:
+</p></div3>
+<div3 type="number" n="17"><p>
+	<expan><abbr>diamet</abbr><ex>ros</ex></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>culi</abbr></expan>. <expan><abbr>dici</abbr><ex>tur</ex></expan> linea <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> que <expan><abbr>sup</abbr><ex>ra</ex></expan> <expan><abbr>ce</abbr><ex>n</ex><abbr>t</abbr><ex>rum</ex></expan> <expan><abbr>ei</abbr><ex>us</ex></expan> <expan><abbr>tra</abbr><ex>n</ex><abbr>sie</abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>extremitatesq</abbr><ex>ue</ex></expan> suas <expan><abbr>c</abbr><ex>ir</ex><abbr>cu</abbr><ex>m</ex><abbr>f</abbr><ex>e</ex><abbr>r</abbr><ex>en</ex><abbr>tie</abbr></expan> <expan><abbr>applica</abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>culu</abbr><ex>m</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> duo media dividit.
+</p></div3>
+<div3 type="number" n="18"><p>
+	<expan><abbr>Semic</abbr><ex>ir</ex><abbr>cul</abbr><ex>us</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> figura plana diametro <expan><abbr>c</abbr><ex>ir</ex><abbr>culi</abbr></expan> <expan><ex>et</ex></expan> <expan><abbr>medi</abbr><ex>tate</ex></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>cu</abbr><ex>m</ex><abbr>f</abbr><ex>e</ex><abbr>r</abbr><ex>en</ex><abbr>tie</abbr><ex>*</ex></expan> <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>ta</abbr></expan>.
+</p></div3>
+<div3 type="number" n="19"><p>
+	<expan><abbr>po</abbr><ex>r</ex><abbr>tio</abbr></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>culi</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>ffigu</abbr><ex>r</ex><abbr>a</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> linea linea <expan><ex>et</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>cu</abbr><ex>m</ex><abbr>f</abbr><ex>e</ex><abbr>r</abbr><ex>en</ex><abbr>tie</abbr></expan> <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>ta</abbr></expan> <expan><abbr>semic</abbr><ex>ir</ex><abbr>culo</abbr></expan> quid aut <expan><abbr>maio</abbr><ex>r</ex></expan> aut <expan><abbr>mi</abbr><ex>n</ex><abbr>or</abbr></expan>.
+</p></div3>
+<div3 type="number" n="20"><p>
+	<expan><abbr>rectilie</abbr><ex>n</ex><abbr>e</abbr></expan> figure <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> que <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> <expan><ex>con</ex><abbr>tinen</abbr><ex>tur</ex></expan> lineis. <expan><abbr>qua</abbr><ex>rum</ex></expan> <expan><abbr>q</abbr><ex>ue</ex><abbr>dam</abbr></expan> <expan><abbr>trilat</abbr><ex>er</ex><abbr>e</abbr><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>b</abbr><ex>us</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> lineis. <expan><abbr>q</abbr><ex>ue</ex><abbr>da</abbr><ex>m</ex></expan> <expan><abbr>quad</abbr><ex>ri</ex><abbr>lat</abbr><ex>er</ex><abbr>eq</abbr><ex>ue</ex></expan> quatuor lineis <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan>. <expan><abbr>q</abbr><ex>ue</ex><abbr>dam</abbr></expan> <expan><abbr>multilate</abbr><ex>r</ex><abbr>eq</abbr><ex>ue</ex></expan> multis lineis <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> <expan><ex>con</ex><abbr>tinen</abbr><ex>tur</ex></expan>.
+</p></div3>
+<div3 type="number" n="21"><p>
+	<expan><abbr>ffigu</abbr><ex>r</ex><abbr>a</abbr><ex>rum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>lat</abbr><ex>er</ex><abbr>a</abbr><ex>rum</ex></expan> alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr></expan> <expan><abbr>h</abbr><ex>abe</ex><abbr>ns</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> equalia, alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> duo <expan><abbr>h</abbr><ex>abe</ex><abbr>ns</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> equalia alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gul</abbr><ex>us</ex></expan> trium <expan><abbr>i</abbr><ex>n</ex><abbr>equalium</abbr></expan> <expan><abbr>late</abbr><ex>rum</ex></expan>.
+</p></div3>
+<div3 type="number" n="22"><p>
+	<expan><abbr>t</abbr><ex>ri</ex><abbr>lat</abbr><ex>er</ex><abbr>a</abbr><ex>rum</ex></expan> <expan><abbr>ite</abbr><ex>m</ex></expan> alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>o</abbr><ex>r</ex><abbr>thagonium</abbr></expan> <expan><abbr>unu</abbr><ex>m</ex></expan> <expan><abbr>rectu</abbr><ex>m</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>h</abbr><ex>abe</ex><abbr>ns</abbr></expan>, alia ambligonium in qua tres <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> acuti.
+</p></div3>
+<div3 type="number" n="23"><p>
+	<!-- Note use of <foreign xml:lang="ar"> tag -->
+	<expan><abbr>ffigu</abbr><ex>r</ex><abbr>a</abbr><ex>rum</ex></expan> <expan><abbr>aut</abbr><ex>em</ex></expan> <expan><abbr>quadrilat</abbr><ex>er</ex><abbr>a</abbr><ex>rum</ex></expan> alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>quadratū</abbr><ex>*</ex></expan> <expan><abbr>equilate</abbr><ex>rum</ex></expan> alia <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>angulum</abbr></expan>, alia <expan><abbr>e</abbr><ex>st</ex></expan> tetragonus <expan><abbr>lo</abbr><ex>n</ex><abbr>g</abbr><ex>us</ex></expan> <expan><ex>et</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>fig</abbr><ex>ur</ex><abbr>a</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>angula</abbr></expan> <expan><abbr>s</abbr><ex>ed</ex></expan> <expan><abbr>equilat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>no</abbr><ex>n</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> alia <expan><abbr>e</abbr><ex>st</ex></expan> <foreign xml:lang="ar">helmuhaim</foreign> et <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>eq</abbr><ex>il</ex><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>s</abbr><ex>ed</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>angula</abbr></expan> <expan><abbr>no</abbr><ex>n</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>: alia <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>sim</abbr><ex>i</ex><abbr>lis</abbr></expan> <foreign xml:lang="ar">elmuhaim</foreign>. <expan><abbr>q</abbr><ex>uod</ex></expan> <expan><abbr>oppo</abbr><ex>s</ex><abbr>ita</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> habet equalia <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>oppo</abbr><ex>s</ex><abbr>itos</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> equales <expan><abbr>h</abbr><ex>abe</ex><abbr>t</abbr></expan> <expan><abbr>id</abbr><ex>em</ex></expan> <expan><abbr>t</abbr><ex>ame</ex><abbr>n</abbr></expan> <expan><abbr>no</abbr><ex>n</ex></expan> <expan><abbr>rec</abbr><ex>t</ex><abbr>is</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> nec <expan><abbr>equilat</abbr><ex>er</ex><abbr>ibus</abbr></expan> <expan><ex>con</ex><abbr>tinet</abbr><ex>ur</ex></expan>. <expan><abbr>p</abbr><ex>re</ex><abbr>t</abbr><ex>er</ex></expan> has aut <expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> <expan><abbr>ffigu</abbr><ex>r</ex><abbr>as</abbr></expan>. <expan><abbr>s</abbr><ex>*</ex></expan>. <expan><abbr>quadu</abbr><ex>*</ex><abbr>gule</abbr></expan> <foreign xml:lang="ar"><w>helmu<unclear>r</unclear>arife</w></foreign> id <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>ur</abbr><ex>*</ex><abbr>gula</abbr><ex>*</ex><abbr>es</abbr></expan> <expan><abbr>nomi</abbr><ex>n</ex><abbr>a</abbr><ex>n</ex><abbr>tur</abbr></expan>:
+	<!-- Figure out <expan><abbr>s</abbr><ex>*</ex></expan> -->
+	<!-- Figure out <expan><abbr>ur</abbr><ex>*</ex><abbr>gula</abbr><ex>*</ex><abbr>es</abbr></expan> -->
+</p></div3>
+<div3 type="number" n="24"><p>
+	<expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan> linee <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> eadem <expan><abbr>sup</abbr><ex>er</ex><abbr>ficie</abbr></expan> collocate <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>utra</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>tem</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>tracte</abbr></expan> <expan><abbr>no</abbr><ex>n</ex></expan> <expan><ex>con</ex><abbr>uenie</abbr><ex>n</ex><abbr>t</abbr></expan>. <expan><abbr>ecs</abbr><ex>*</ex></expan>. si in <expan><abbr>infinitu</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>traen</abbr><ex>tur</ex></expan> <expan><ex>*</ex></expan>:
+	<!-- Figure out <expan><abbr>ecs</abbr><ex>*</ex></expan> -->
+	<!-- Figure out <expan><ex>*</ex></expan> -->
+</p></div3>
+</div2>
+
+
+<div2 type="type" n="Post">
+	<title><expan><abbr>cap</abbr><ex>itu</ex><abbr>lum</abbr></expan> <expan><ex>de</ex></expan> petitionibus</title>
+<div3 type="number" n="1"><p>
+	<expan><abbr>Petitio</abbr><ex>n</ex><abbr>es</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>q</abbr><ex>in</ex><abbr>n</abbr><abbr>q</abbr><ex>ue</ex></expan>. aquolibet <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> quemlibet <expan><abbr>pu</abbr><ex>n</ex><abbr>ctus</abbr></expan> lineam rectam ducere <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>linea</abbr><ex>m</ex></expan> <expan><abbr><unclear>d</unclear></abbr><ex>e</ex><abbr>finitam</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>tinuo</abbr></expan> <expan><abbr>recta</abbr><ex>m</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>q</abbr><ex>uan</ex><abbr>tu</abbr><ex>m</ex><abbr>libet</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>trahe</abbr><ex>re</ex></expan>.
+
+</p></div3>
+<div3 type="number" n="2"><p>
+	<expan><abbr>sup</abbr><ex>er</ex></expan> <expan><abbr>ce</abbr><ex>n</ex><abbr>trum</abbr></expan> quodlibet <expan><abbr>q</abbr><ex>ua</ex><abbr>ntu</abbr><ex>m</ex><abbr>libet</abbr></expan> <expan><abbr>occupa</abbr><ex>n</ex><abbr>do</abbr></expan> spacium <expan><abbr>c</abbr><ex>ir</ex><abbr>culum</abbr></expan> designare.
+</p></div3>
+<div3 type="number" n="3"><p>
+	<expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> rectos <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> sibi <expan><abbr>i</abbr><ex>n</ex></expan> uicem esse equales.
+</p></div3>
+<div3 type="number" n="4"><p>
+	si linea recta <expan><abbr>sup</abbr><ex>er</ex></expan> duas lineas <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>as</abbr></expan> ceciderit <expan><abbr>duoq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> ex una <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> <expan><abbr>mi</abbr><ex>n</ex><abbr>ores</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> illas lineas <expan><abbr>i</abbr><ex>n</ex></expan> eand <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan>. <expan><abbr>p</abbr><ex>ro</ex><abbr>tractas</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>cul</abbr></expan> dubio <expan><ex>con</ex><abbr>iu</abbr><ex>n</ex><abbr>ctum</abbr></expan> iri:
+</p></div3>
+<div3 type="number" n="5"><p>
+	duas lineas <expan><abbr>rec</abbr><ex>t</ex><abbr>as</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficiem</abbr></expan> <expan><abbr>n</abbr><ex>u</ex><abbr>llam</abbr></expan> claudere:
+</p></div3>
+</div2>
+
+
+
+<div2 type="type" n="CN">
+	<title>de <expan><ex>con</ex><abbr>m</abbr><ex><unclear>unes</unclear></ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>i</abbr><ex>mi</ex></expan> <expan><ex>con</ex><abbr>cep</abbr><ex>tiones</ex></expan></title>
+	<!-- Not sure if abbr should be expanded to conmunes animi -->
+<div3 type="number" n="1"><p>
+	<expan><abbr>Co</abbr><ex>mmun</ex><abbr>es</abbr></expan> animi <expan><ex>con</ex><abbr>cept</abbr><ex>ion</ex><abbr>es</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> hee. que uni <expan><ex>et</ex></expan> eidem <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equalia et sibi <expan><abbr>i</abbr><ex>n</ex></expan> uicem <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equalia.
+</p></div3>
+<div3 type="number" n="2"><p>
+	et si <expan><abbr>equalib</abbr><ex>us</ex></expan> equalia <expan><abbr>addan</abbr><ex>tur</ex></expan> <expan><abbr>u</abbr><ex>e</ex><abbr>l</abbr></expan> idem que tota <expan><abbr>q</abbr><ex>uoque</ex></expan> <expan><abbr>fie</abbr><ex>n</ex><abbr>t</abbr></expan> equalia.
+</p></div3>
+<div3 type="number" n="3"><p>
+	et si ab <expan><abbr>equalib</abbr><ex>us</ex></expan> equalia <expan><abbr>aufe</abbr><ex>r</ex><abbr>an</abbr><ex>tur</ex></expan> que <expan><abbr>reli</abbr><ex>n</ex><abbr>quu</abbr><ex>n</ex><abbr>t</abbr><ex>ur</ex></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equalia.
+</p></div3>
+<div3 type="number" n="4"><p>
+	et si <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>equalib</abbr><ex>us</ex></expan> equalia addas <expan><abbr>ip</abbr><ex>s</ex><abbr>a</abbr></expan> <expan><abbr>q</abbr><ex>uoque</ex></expan> tota <expan><abbr>fie</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>equalia</abbr></expan>.
+</p></div3>
+<div3 type="number" n="5"><p>
+	Si <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> due res <expan><abbr>quib</abbr><ex>us</ex></expan> sit una et eadem equalis <expan><abbr>ut</abbr><ex>ra</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>ea</abbr><ex>rum</ex></expan> erit equalis <expan><abbr>alt</abbr><ex>er</ex><abbr>i</abbr></expan>.
+</p></div3>
+<div3 type="number" n="6"><p>
+	si <expan><abbr>fuer</abbr><ex>in</ex><abbr>t</abbr></expan> <del>due res <expan><abbr>quib</abbr><ex>us</ex></expan> sit</del> res <expan><abbr>qua</abbr><ex>rum</ex></expan> <expan><abbr>ut</abbr><ex>ra</ex><abbr>q</abbr><ex>ue</ex></expan> unius <expan><abbr>ei</abbr><ex>us</ex><abbr>d</abbr><ex>em</ex><abbr>q</abbr><ex>ue</ex></expan> et dimidium erit <expan><abbr>ut</abbr><ex>ra</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>ea</abbr><ex>rum</ex></expan> <add>erit</add> equalis <add><expan><abbr>alt</abbr><ex>er</ex><abbr>i</abbr></expan></add>.
+</p></div3>
+<div3 type="number" n="7"><p>
+	si aliqua res alicui <expan><abbr>sup</abbr><ex>er</ex><abbr>ponat</abbr><ex>ur</ex></expan> <expan><abbr>applicet</abbr><ex>ur</ex><abbr>q</abbr><ex>ue</ex></expan> ei. nec excedat <expan><abbr>alt</abbr><ex>er</ex><abbr>am</abbr></expan> <expan><abbr>alt</abbr><ex>*</ex><abbr>a</abbr></expan> ille sibi <expan><abbr>i</abbr><ex>n</ex></expan>uicem <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equales.
+</p></div3>
+<div3 type="number" n="8"><p>
+	<expan><abbr>o</abbr><ex>mn</ex><abbr>e</abbr></expan> totum <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>mai</abbr><ex>us</ex></expan> sua <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan>:
+</p></div3>
+</div2>
+
+
+
+<!-- Note <div4 type="type" n="Enun"> -->
+
+<div2 type="type" n="Prop">
+<div3 type="number" n="1">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr><hi rend="tall">T</hi>ria</abbr><ex>n</ex><abbr>gulum</abbr></expan> equilaterum <expan><abbr>sup</abbr><ex>er</ex><abbr>datam</abbr></expan> lineam collocare:
+</p></div4>
+</div3>
+
+<!-- Where should this go? -->
+	<del>ato <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> duabus lineis <expan><abbr>i</abbr><ex>n</ex></expan></del> 
+
+<div3 type="number" n="2">
+<div4 type="type" n="Enun"><p>
+	dato <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> cuilibet linee <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>e</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>posite</abbr></expan> aequam lineam <expan><abbr>r</abbr><ex>e</ex><abbr>ctam</abbr></expan> ducere:
+</p></div4>
+</div3>
+
+<div3 type="number" n="3">
+<div4 type="type" n="Enun"><p>
+	propositis duabus lineis iaequalibus de <expan><abbr>lo</abbr><ex>n</ex><abbr>giore</abbr></expan> <expan><abbr>ea</abbr><ex>rum</ex></expan> <expan><abbr>eq</abbr><ex>ua</ex><abbr>lem</abbr></expan> <expan><abbr>b</abbr><ex>reviori</ex></expan> <expan><abbr>absi</abbr><ex>n</ex><abbr>de</abbr><ex>re</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="4">
+<div4 type="type" n="Enun"><p>
+	Omium <expan><abbr>duo</abbr><ex>rum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>angulo</abbr><ex>rum</ex></expan> <expan><abbr>quo</abbr><ex>rum</ex></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> unius <expan><abbr>duob</abbr><ex>us</ex></expan> lateribus <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> aequalia <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan>. <expan><abbr>duoq</abbr><ex>ue</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>eo</abbr><ex>rum</ex></expan> illis equis <expan><abbr>lat</abbr><ex>er</ex><abbr>ibus</abbr></expan> <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>ti</abbr></expan> aequales, <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>i</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>illo</abbr><ex>rum</ex></expan> reliqua sese <expan><abbr>respicie</abbr><ex>n</ex><abbr>tia</abbr></expan> <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> aequalia reliqui <expan><abbr>u</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> unius <expan><abbr>reliq</abbr><ex>uis</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>aeq</abbr><ex>ua</ex><abbr>les</abbr></expan> ac totus <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>b</ex><abbr>gul</abbr><ex>us</ex></expan> toti <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> aequalis⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="5">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>om</abbr><ex>n</ex>i<abbr>s</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>duu</abbr><ex>m</ex></expan> aequalium <expan><abbr>lat</abbr><ex>er</ex><abbr>um</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> qui sub basim <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equales <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><abbr>n</abbr><ex>e</ex><abbr>cc</abbr><ex>esse</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>q</abbr><ex>uod</ex><abbr>si</abbr></expan> <expan><abbr>ei</abbr><ex>us</ex></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> directe <expan><abbr>p</abbr><ex>ro</ex><abbr>traa</abbr><ex>n</ex><abbr>t</abbr><ex>ur</ex></expan> <expan><abbr>fie</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>quoq</abbr><ex>ue</ex></expan> sub basi duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> sibi <expan><abbr>i</abbr><ex>n</ex><abbr>uicem</abbr></expan> aequales:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="6">
+<div4 type="type" n="Enun"><p>
+	Si duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>alicui</abbr><ex>us</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> aequales <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> duo <expan><abbr>quoq</abbr><ex>ue</ex></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>ei</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> illos <expan><abbr>respicie</abbr><ex><unclear>ntia</unclear></ex></expan>. equalia <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan>⁑
+	<!-- Figure out <expan><abbr>respicie</abbr><ex><unclear>ntia<unclear></ex></expan> -->
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="7">
+<div4 type="type" n="Enun"><p>
+	Si a duobus <expan><abbr>pu</abbr><ex>n</ex><abbr>ctis</abbr></expan> aliam lineam <expan><abbr>t</abbr><ex>er</ex><abbr>mina</abbr><ex>n</ex><abbr>tib</abbr><ex>us</ex></expan> due linee ad <expan><abbr>pu</abbr><ex>n</ex><abbr>ctum</abbr></expan> <expan><abbr>conc</abbr><ex>ur</ex><abbr>rentes</abbr></expan> <expan><abbr>exieri</abbr><ex>n</ex><abbr>t</abbr></expan> ab eisdem <expan><abbr>pu</abbr><ex>n</ex><abbr>ctis</abbr></expan> alias duas lineas <expan><abbr>si</abbr><ex>n</ex><abbr>gulas</abbr></expan> suis <expan><abbr>co</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex><abbr>minalib</abbr><ex>us</ex></expan> que ad alium <expan><abbr>pu</abbr><ex>n</ex><abbr>ctum</abbr></expan> <expan><ex>con</ex><abbr>curra</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>eade</abbr><ex>m</ex></expan> partem educi <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>i</abbr><ex>m</ex><abbr>posibile</abbr></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="8">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>Omi</abbr><ex>n</ex><abbr>um</abbr></expan> <expan><abbr>duo</abbr><ex>rum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr><ex>rum</ex></expan> <expan><abbr>quo</abbr><ex>rum</ex></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> unius <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>ibus</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> equalia <expan><abbr>basisq</abbr><ex>ue</ex></expan>, unius basi <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> equalis duos <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> <expan><abbr>equilat</abbr><ex>er</ex><abbr>ibus</abbr></expan> <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>tos</abbr></expan> equales <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><abbr>nec</abbr><ex>ess</ex><abbr>e</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="9">
+<div4 type="type" n="Enun"><p>
+	datum <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>p</abbr><ex>er</ex></expan> equalia secare:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="10">
+<div4 type="type" n="Enun"><p>
+	proposita <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> linea <expan><abbr>ea</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>er</ex></expan> equalia dividere.
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="12">
+<div4 type="type" n="Enun"><p>
+	a dato <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> extra signato addatam lineam <expan><abbr>i</abbr><ex>n</ex><abbr>defi</abbr><ex>n</ex><abbr>te</abbr></expan> <expan><abbr>q</abbr><ex>ua</ex><abbr>ntitatis</abbr></expan> <expan><abbr>p</abbr><ex>er</ex><abbr>pen</abbr><ex>dicularem</ex></expan> ducem:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="11">
+<div4 type="type" n="Enun"><p>
+	data linea <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> a <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> ea signato <expan><abbr>p</abbr><ex>er</ex><abbr>pen</abbr><ex>dicularem</ex></expan> extrahere duobus <expan><abbr>quide</abbr><ex>m</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> equalibus ac rectis <expan><abbr>ut</abbr><ex>rim</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>subnix<unclear>u</unclear></abbr><ex>m</ex></expan>
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="13">
+<div4 type="type" n="Enun"><p>
+	Omnis <expan><abbr>r</abbr><ex>e</ex><abbr>cte</abbr></expan> linee <expan><abbr>sup</abbr><ex>er</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>am</abbr></expan> lineam <expan><abbr>sta</abbr><ex>n</ex><abbr>tis</abbr></expan> duo <expan><abbr>utrobiq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> recti aut <expan><abbr>duob</abbr><ex>us</ex></expan> rectis equales.
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="14">
+<div4 type="type" n="Enun"><p>
+	Si due linee a <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> unius linee <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>diu</abbr><ex>er</ex><abbr>sas</abbr></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>tes</abbr></expan> <expan><abbr>exier</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>duosq</abbr><ex>ue</ex></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>ca</abbr></expan> se <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> rectos aut <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> aequales <expan><abbr>feceri</abbr><ex>n</ex><abbr>t</abbr></expan> et ille due linee. sibi <expan><abbr>i</abbr><ex>n</ex><abbr>uicem</abbr></expan> <expan><abbr>dir</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>e</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>iu</abbr><ex>n</ex><abbr>cte</abbr></expan> <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> linea una:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="15">
+<div4 type="type" n="Enun"><p>
+	<!-- Figure out <expan><abbr>i</abbr><ex>*</ex><abbr>t</abbr><ex>*</ex></expan> -->
+	<expan><abbr>Omi</abbr><ex>n</ex><abbr>um</abbr></expan> <expan><abbr>dua</abbr><ex>rum</ex></expan> <expan><abbr>linea</abbr><ex>rum</ex></expan> sese <expan><abbr>i</abbr><ex>*</ex><abbr>t</abbr><ex>*</ex></expan> <expan><abbr>seca</abbr><ex>n</ex><abbr>tium</abbr></expan> <expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>con</abbr><ex>tra</ex></expan> se positi <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> equales <expan><abbr>un</abbr><ex>de</ex></expan> <expan><abbr>ma</abbr><ex>n</ex><abbr>ifestum</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan>, <expan><abbr>q</abbr><ex>uotiens</ex></expan> <expan><abbr>cu</abbr><ex>m</ex></expan> due linee <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>e</abbr></expan> se <expan><abbr>i</abbr><ex>n</ex><abbr>vicem</abbr></expan> <expan><abbr>seca</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>q</abbr><ex>ua</ex><abbr>tuor</abbr></expan> qui <expan><abbr>fui</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>q</abbr><ex>au</ex><abbr>tuor</abbr></expan> <expan><abbr>r</abbr><ex>ec</ex><abbr>tus</abbr></expan> <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> equales:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="16">
+<div4 type="type" n="Enun"><p>
+	Si quotlibet <expan><abbr>lat</abbr><ex>erum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>dir</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>e</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>trahat</abbr><ex>ur</ex></expan> faciet <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>ext</abbr><ex>rin</ex><abbr>secum</abbr></expan> <expan><abbr>utroq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> sibi <expan><abbr>int</abbr><ex>ri</ex><abbr><unclear>u</unclear>sece</abbr></expan> opposito maiorem:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="17">
+<div4 type="type" n="Enun"><p>
+	Omnis <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> duo quilibet <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>mi</abbr><ex>n</ex><abbr>ores</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="18">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>m</abbr><ex>n</ex><abbr>is</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>gius</abbr></expan> <expan><abbr>lat</abbr><ex>us</ex></expan> <expan><abbr>mao</abbr><ex>r</ex><abbr>i</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>oppo</abbr><ex>situm</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>-
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="19">
+<div4 type="type" n="Enun"><p>
+	Omnis <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> maior <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>giori</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>i</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan>. <expan><abbr>o</abbr><ex><unclear>ppositus</unclear></ex></expan>.
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="20">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>Om</abbr><ex>n</ex><abbr>is</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>anguli</abbr></expan> <expan><abbr>q</abbr><ex>ue</ex><abbr>libet</abbr></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>sim</abbr><ex>u</ex><abbr>l</abbr></expan> <expan><abbr>iu</abbr><ex>n</ex><abbr>cta</abbr></expan> <expan><abbr>t</abbr><ex>*</ex><abbr>cio</abbr></expan> reliquo <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>giora</abbr></expan>:
+	<!-- Figure out <expan><abbr>t</abbr><ex>*</ex><abbr>cio</abbr></expan> -->
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="21">
+<div4 type="type" n="Enun"><p>
+	Si a <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>pu</abbr><ex>n</ex><abbr>ctis</abbr></expan> <expan><abbr>t</abbr><ex>er</ex><abbr>minalib</abbr><ex>us</ex></expan> unius <expan><abbr>lat</abbr><ex>er</ex><abbr>is</abbr></expan>
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="">
+<div4 type="type" n="Enun"><p>
+	<!-- Figure out <choice><sic></sic><corr></corr></choice> -->
+	<!-- Figure out <expan><abbr>i</abbr><ex>n</ex><abbr><add>fin</add></abbr></expan> -->
+	a <expan><abbr>tria</abbr><ex>n</ex><abbr>guli</abbr></expan> <choice><sic></sic><corr></corr></choice> linee <expan><abbr>exeu</abbr><ex>n</ex><abbr>tes</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr><add>fin</add></abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>ip</abbr><ex>su</ex><abbr>m</abbr></expan> <expan><abbr>adpu</abbr><ex>n</ex><abbr>ctum</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>uenia</abbr><ex>n</ex><abbr>t</abbr></expan>, eedem <expan><abbr>duab</abbr><ex>us</ex></expan> reliquis quidem <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> lineis breuiores <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><ex>et</ex></expan> <expan><abbr>maiore</abbr><ex>m</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>tinebu</abbr><ex>n</ex><abbr>t</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="22">
+<div4 type="type" n="Enun"><p>
+	ropositis <expan><abbr>t</abbr><ex>ri</ex><abbr>b</abbr><ex>us</ex></expan> lineis rectis <expan><abbr>q</abbr><ex>uarum</ex></expan> due quelibet <expan><abbr>sim</abbr><ex>u</ex><abbr>l</abbr></expan> <expan><abbr>ui</abbr><ex>n</ex><abbr>cte</abbr></expan> reliqua <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>lo</abbr><ex>n</ex><abbr>giores</abbr></expan> de <expan><abbr>t</abbr><ex>ri</ex><abbr>b</abbr><ex>us</ex></expan> aliis rectilineis sibi equalibus <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>stitu</abbr><ex>re</ex><abbr>e</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="23">
+<div4 type="type" n="Enun"><p>
+	ata linea <expan><abbr>r</abbr><ex>e</ex><abbr>cta</abbr></expan> <expan><abbr>t</abbr><ex>er</ex><abbr>minum</abbr></expan> <expan><abbr>ei</abbr><ex>us</ex></expan> cuilibet <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>posito</abbr></expan> equum <expan><abbr>a</abbr><ex>n</ex><abbr>gulum</abbr></expan> <expan><abbr>desig</abbr><ex>na</ex><abbr>re</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="24">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>m</abbr><ex>n</ex><abbr>ium</abbr></expan> <expan><abbr>duo</abbr><ex>rum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr><ex>rum</ex></expan> <expan><abbr>quo</abbr><ex>rum</ex></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> unius <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> equalia si <expan><abbr>fu</abbr><ex>er</ex><abbr>it</abbr></expan> <expan><abbr>angulo</abbr><ex>rum</ex></expan> sub illis equis <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><ex>con</ex><abbr>te</abbr><ex>n</ex><abbr>toru</abbr><ex>m</ex></expan> <expan><abbr>alt</abbr><ex>er</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>o</abbr></expan> maior basis <expan><abbr>q</abbr><ex>uoque</ex></expan> <expan><abbr>ei</abbr><ex>us</ex><abbr>dem</abbr></expan> basi <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> maior <expan><abbr>e</abbr><ex>r</ex><abbr>it</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="25">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>m</abbr><ex>n</ex><abbr>ium</abbr></expan> <expan><abbr>duo</abbr><ex>rum</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr><ex>rum</ex></expan> <expan><abbr>quo</abbr><ex>rum</ex></expan> duo <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> unius duobus <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> equalia basis <expan><abbr>u</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>uni</abbr><ex>us</ex></expan> basi <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>maio</abbr><ex>r</ex></expan> <expan><abbr>fu</abbr><ex>er</ex><abbr>it</abbr></expan> erit <expan><abbr>q</abbr><ex>uoque</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> maioris <foreign xml:lang="ar">alkayde</foreign> <expan><abbr>eq</abbr><ex>ui</ex><abbr>s</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>ibus</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>te</abbr><ex>n</ex><abbr>tas</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> se <expan><abbr>respicie</abbr><ex>n</ex><abbr>te</abbr></expan> maior⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="26">
+<div4 type="type" n="Enun"><p>
+	<expan><abbr>m</abbr><ex>n</ex><abbr>ium</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr><ex>rum</ex></expan> <expan><abbr>duo</abbr><ex>rum</ex></expan> <expan><abbr>q</abbr><ex>u</ex><abbr>o</abbr><ex>rum</ex></expan> duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> unius <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>ut</abbr><ex>er</ex><abbr>q</abbr><ex>ue</ex></expan> se se <expan><abbr>respicie</abbr><ex>n</ex><abbr>tia</abbr></expan> equales <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>lat</abbr><ex>us</ex><abbr>q</abbr><ex>ue</ex></expan> unius <expan><abbr>lat</abbr><ex>er</ex><abbr>i</abbr></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> equale fuerit <expan><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>lat</abbr><ex>us</ex></expan> <expan><abbr>ill</abbr><ex>u</ex><abbr>d</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex></expan> duos <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> equales aut uni <expan><abbr>eo</abbr><ex>rum</ex></expan> <expan><abbr>oppo</abbr><ex>s</ex><abbr>itum</abbr></expan> <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>q</abbr><ex>quoque</ex></expan> duo unius reliqua <expan><abbr>lat</abbr><ex>er</ex><abbr>a</abbr></expan> <expan><abbr>duo</abbr><ex>us</ex></expan> reliquis <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>g</abbr><ex>u</ex><abbr>li</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><abbr>unu</abbr><ex>m</ex><abbr>q</abbr><ex>uod</ex><abbr>q</abbr><ex>ue</ex></expan> sese <expan><abbr>respie</abbr><ex>n</ex><abbr>ti</abbr></expan> equalia <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>q</abbr><ex>uodque</ex></expan> reliquus unius <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> reliquo <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> equalis⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="27">
+<div4 type="type" n="Enun"><p>
+	i linea <add>recta</add> supra suas lineas <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>as</abbr></expan> ceciderit <expan><abbr>duosq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> <expan><abbr>coalt</abbr><ex>er</ex><abbr>nos</abbr></expan> equales sibi <expan><abbr>i</abbr><ex>n</ex></expan> uicem fecerit ille due linee <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="28">
+<div4 type="type" n="Enun"><p>
+	i linea <choice><sic>una</sic><corr>recta</corr></choice> <expan><abbr>duab</abbr><ex>us</ex></expan> lineis <expan><abbr>sup</abbr><ex>er</ex><abbr>uenerit</abbr></expan> <expan><abbr>fu</abbr><ex>er</ex><abbr>itq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> eius <expan><abbr>ext</abbr><ex>rin</ex><abbr>secus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>tri</abbr><ex>n</ex><abbr>seco</abbr></expan> sibi opposito equalis. aut duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>rin</ex><abbr>se<choice><sic>qu</sic><corr>c</corr></choice>i</abbr><ex>*</ex></expan> ex una <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> duobus <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> equales ille due linee <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>eq</abbr><ex>ui</ex><abbr>distates</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="29">
+<div4 type="type" n="Enun"><p>
+	i duabus lineis <expan><abbr>equedista</abbr><ex>n</ex><abbr>tib</abbr><ex>us</ex></expan> linea <expan><abbr>sup</abbr><ex>er</ex><abbr>uene</abbr><ex>r</ex><abbr>it</abbr></expan> <del><expan><abbr>a</abbr><ex>n</ex><abbr>gulusq</abbr><ex>ue</ex></expan> <expan><abbr>ext</abbr><ex>rin</ex><abbr>secus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>rin</ex><abbr>seco</abbr></expan> sibi</del> duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> coalterni equales <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulusq</abbr><ex>ue</ex></expan> <expan><abbr>ext</abbr><ex>rin</ex><abbr>secus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>rin</ex><abbr>seco</abbr></expan> sibi opposito equalis. <expan><abbr>ite</abbr><ex>m</ex><abbr>q</abbr><ex>ue</ex></expan> duo <expan><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>int</abbr><ex>rin</ex><abbr>seci</abbr></expan> ex altutra <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>stituti</abbr></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> rectis <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> equales:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="30">
+<div4 type="type" n="Enun"><p>
+<!-- Figure out plu*es (plures? not typical r abbr) -->
+  i <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> plu*es linee uni <expan><abbr>eq</abbr><ex>ui</ex><abbr>dista</abbr><ex>n</ex><abbr>tes</abbr></expan> cedem <expan><abbr>similit</abbr><ex>er</ex></expan> <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="31">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>pu</abbr><ex>n</ex><abbr>cto</abbr></expan> <w>ex<del>i</del>tra</w> <expan><abbr>linea</abbr><ex>m</ex></expan> dato linee assignate <expan><abbr>equidista</abbr><ex>n</ex><abbr>te</abbr><ex>m</ex></expan> ducere:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="32">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>is</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>ext</abbr><ex>rin</ex><abbr>secus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> duobus <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>rin</ex><abbr>secis</abbr></expan> sibi oppositis <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>eq</abbr><ex>u</ex><abbr>alis</abbr></expan>. <expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> <expan><abbr>aut</abbr><ex>em</ex></expan> tres <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> eius duobus <expan><abbr>a</abbr><ex>n</ex><abbr>gulis</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>is</abbr></expan> equales <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><abbr>n</abbr><ex>e</ex><abbr>c</abbr><ex>ess</ex><abbr>e</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="33">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>sumitatib</abbr><ex>us</ex></expan> <expan><abbr>dua</abbr><ex>rum</ex></expan> <expan><abbr>linea</abbr><ex>rum</ex></expan> <expan><abbr>equedista</abbr><ex>n</ex><abbr>tium</abbr></expan> et equalis <expan><abbr>q</abbr><ex>ua</ex><abbr>ntitatis</abbr></expan> alie due linee <expan><abbr>sup</abbr><ex>er</ex><abbr>ueneri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><ex>ve</ex><abbr>l</abbr></expan> <expan><abbr>subiu</abbr><ex>n</ex><abbr>ga</abbr><ex>n</ex><abbr>t</abbr><ex>ur</ex></expan> <expan><abbr>utrobiq</abbr><ex>ue</ex></expan> equales et <expan><abbr>eq</abbr><ex>ui</ex><abbr>dista</abbr><ex>n</ex><abbr>tes</abbr></expan> <expan><abbr>eru</abbr><ex>n</ex><abbr>t</abbr></expan>⁑
+<!-- Double check <expan><abbr>sup</abbr><ex>er</ex><abbr>ueneri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><ex>ve</ex><abbr>l</abbr></expan> -->
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="34">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>is</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> <expan><abbr>equidista</abbr><ex>n</ex><abbr>tib</abbr><ex>us</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>te</abbr><ex>n</ex><abbr>ta</abbr></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>ibus</abbr></expan> lineas <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulos</abbr></expan> ex <expan><abbr>adu</abbr><ex>er</ex><abbr>so</abbr></expan> collocatos <expan><abbr>ha</abbr><ex>be</ex><abbr>t</abbr></expan> equales <w>d<choice><sic>y</sic><corr>i</corr></choice>ametro</w> <expan><abbr>divide</abbr><ex>n</ex><abbr>te</abbr></expan> <expan><abbr>p</abbr><ex>er</ex></expan> <expan><abbr>mediu</abbr><ex>m</ex></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="35">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>es</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> <expan><abbr>equidista</abbr><ex>n</ex><abbr>tiu</abbr><ex>m</ex></expan> <expan><abbr>late</abbr><ex>rum</ex></expan> <expan><abbr>sup</abbr><ex>er</ex></expan> <expan><abbr>ea</abbr><ex>m</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>basi</abbr><ex>m</ex></expan> <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>eisde</abbr><ex>m</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> lineis <expan><abbr>co</abbr><ex>n</ex><abbr>ditute</abbr></expan> equales <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><abbr>comp</abbr><ex>ro</ex><abbr>ba</abbr><ex>n</ex><abbr>tur</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="36">
+<div4 type="type" n="Enun"><p>
+  mnia <w>parallel<del>l</del>ograma</w> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>basib</abbr><ex>us</ex></expan> equalibus <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>eisde</abbr><ex>m</ex></expan> lineis <expan><abbr>co</abbr><ex>n</ex><abbr>stituta</abbr></expan> equalia <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> necese <expan><abbr>e</abbr><ex>st</ex></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="37">
+<div4 type="type" n="Enun"><p>
+  quales <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>cu</abbr><ex>nc</ex><abbr>ti</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> qui <expan><abbr>sup</abbr><ex>er</ex></expan> <expan><abbr>ea</abbr><ex>n</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>basi</abbr><ex>m</ex></expan> <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex></expan> lineas <expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>stituti</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="38">
+<div4 type="type" n="Enun"><p>
+  i duo <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex></expan> bases equales <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex></expan> duas lineas <expan><abbr>cecideri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>equidista</abbr><ex>n</ex><abbr>tes</abbr></expan> equales <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><abbr>nec</abbr><ex>ess</ex><abbr>e</abbr></expan> est:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="39">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>es</abbr></expan> duo <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> equales si <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>ea</abbr><ex>n</ex><abbr>de</abbr><ex>m</ex></expan> basis <expan><abbr>atq</abbr><ex>ue</ex></expan> ex <expan><abbr>eade</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> <expan><abbr>cecid</abbr><ex>er</ex><abbr>it</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex></expan> duas lineas <expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan> <expan><abbr>er</abbr><ex>un</ex><abbr>t</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="40">
+<div4 type="type" n="Enun"><p>
+  i duo <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> equales <expan><abbr>sup</abbr><ex>er</ex></expan> equales bases <expan><abbr>uni</abbr><ex>us</ex></expan> linee et ex <expan><abbr>eade</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>te</abbr></expan> <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>stituti</abbr></expan> necesse <expan><abbr>e</abbr><ex>st</ex></expan> eos <expan><abbr>i</abbr><ex>n</ex><abbr>t</abbr><ex>er</ex></expan> duas lineas <expan><abbr>equedista</abbr><ex>n</ex><abbr>tes</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>tine</abbr><ex>r</ex><abbr>i</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="41">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>paralelogramu</abbr><ex>m</ex></expan> et <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>eade</abbr><ex>m</ex></expan> base <expan><ex>ve</ex><abbr>l</abbr></expan> <expan><abbr>i</abbr><ex>n</ex><abbr>equalibu</abbr><ex>s</ex></expan> <expan><abbr>basib</abbr><ex>us</ex></expan> <expan><abbr>atq</abbr><ex>ue</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>eisde</abbr><ex>m</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>nis</abbr></expan> lineis <expan><abbr>fueri</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>stituta</abbr></expan> <expan><abbr>paralellogramu</abbr><ex>m</ex></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>duplu</abbr><ex>m</ex></expan> <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan> <expan><ex>con</ex><abbr>ue</abbr><ex>n</ex><abbr>iet</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="42">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>quedista</abbr><ex>n</ex><abbr>tiu</abbr><ex>m</ex></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>u</abbr><ex>m</ex></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficie</abbr><ex>m</ex></expan> <expan><abbr>desig</abbr><ex>n</ex><abbr>are</abbr></expan> <expan><abbr>cui</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gul</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> dato equalis <expan><abbr>ip</abbr><ex>s</ex><abbr>a</abbr></expan> <expan><abbr>u</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> assignato equalis, ex hoc <expan><abbr>ma</abbr><ex>n</ex><abbr>ifestu</abbr><ex>m</ex></expan> q* si <expan><abbr>cui</abbr><ex>us</ex><abbr>libet</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> cathetus <expan><abbr>i</abbr><ex>m</ex><abbr>medietate</abbr></expan> basis <expan><abbr>ducat</abbr><ex>ur</ex></expan> <expan><abbr>spaciu</abbr><ex>m</ex></expan> <expan><abbr>ei</abbr><ex>us</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>ducit</abbr></expan> <expan><abbr>emba</abbr><ex>n</ex><abbr>dale</abbr></expan>:
+<!-- Not sure about text beyond "ex" -->
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="43">
+<div4 type="type" n="Enun"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>is</abbr></expan> <w>paral<del>l</del>ellogrami</w> spatii <expan><abbr>eo</abbr><ex>rum</ex></expan> que <w>c<unclear>ur</unclear>a</w> <expan><abbr>diamet</abbr><ex>rum</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>sistu</abbr><ex>m</ex></expan> <expan><abbr>palelog</abbr><ex>ra</ex><abbr>mo</abbr><ex>rum</ex></expan> <expan><abbr>supleme</abbr><ex>n</ex><abbr>ta</abbr></expan> equalia sub <expan><abbr>i</abbr><ex>n</ex><abbr>uice</abbr><ex>m</ex></expan> <expan><abbr>e</abbr><ex>ss</ex><abbr>e</abbr></expan>: 
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="44">
+<div4 type="type" n="Enun"><p>
+  roposita <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>a</abbr></expan> linea <expan><abbr>sup</abbr><ex>er</ex></expan> <expan><abbr>ea</abbr><ex>m</ex></expan> <expan><abbr>equidista</abbr><ex>n</ex><abbr>tiu</abbr><ex>m</ex></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>u</abbr><ex>m</ex></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficie</abbr><ex>m</ex></expan> <expan><abbr>desig</abbr><ex>n</ex><abbr>are</abbr></expan> <expan><abbr>cui</abbr><ex>us</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> dato sit equalis. <expan><abbr>ip</abbr><ex>s</ex><abbr>a</abbr></expan> <expan><abbr>u</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>assig</abbr><ex>na</ex><abbr>to</abbr></expan> equalis⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="45">
+<div4 type="type" n="Enun"><p>
+  x data linea <expan><abbr>quadratu</abbr><ex>m</ex></expan> describere:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="46">
+<div4 type="type" n="Enun"><p>
+  n <expan><abbr>o</abbr><ex>mn</ex><abbr>i</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>angulo</abbr></expan> <expan><abbr>quadratu</abbr><ex>m</ex></expan> <expan><abbr>q</abbr><ex>uod</ex></expan> a <expan><abbr>lat</abbr><ex>er</ex><abbr>e</abbr></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>o</abbr></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulo</abbr></expan> opposito <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>se</abbr><ex>met</ex><abbr>ip</abbr><ex>s</ex><abbr>u</abbr><ex>m</ex></expan> ducto <expan><abbr>describit</abbr><ex>ur</ex></expan> <expan><abbr>equu</abbr><ex>m</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> <expan><abbr>q</abbr><ex>ua</ex><abbr>dratis</abbr></expan> que ex <expan><abbr>duob</abbr><ex>us</ex></expan> reliquis <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>scribu</abbr><ex>n</ex><abbr>tur</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="47">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>quadratu</abbr><ex>m</ex></expan> <expan><abbr>q</abbr><ex>uod</ex></expan> ab uno <expan><abbr>lat</abbr><ex>er</ex><abbr>e</abbr></expan> <expan><abbr>t</abbr><ex>ri</ex><abbr>a</abbr><ex>n</ex><abbr>guli</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> se <expan><abbr>ip</abbr><ex>s</ex><abbr>u</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>ducit</abbr><ex>ur</ex></expan> <expan><abbr>equu</abbr><ex>m</ex></expan> <expan><abbr>fu</abbr><ex>er</ex><abbr>it</abbr></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> quadratis que a <expan><abbr>duob</abbr><ex>us</ex></expan> quadratis que a <expan><abbr>duob</abbr><ex>us</ex></expan> reliquis <expan><abbr>describu</abbr><ex>n</ex><abbr>t</abbr><ex>ur</ex></expan> <expan><abbr>lat</abbr><ex>er</ex><abbr>ib</abbr><ex>us</ex></expan> <expan><abbr>r</abbr><ex>e</ex><abbr>c</abbr><ex>t</ex><abbr>us</abbr></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr>gulus</abbr></expan> cui illud <expan><abbr>lat</abbr><ex>us</ex></expan> <expan><abbr>opponit</abbr><ex>ur</ex></expan>:
+</p></div4>
+</div3>
+</div2>
+</div1>
+
+
+<div1 type="book" n="2">
+<div2 type="type" n="Def">
+<div3 type="number" n="1"><p>
+  <expan><abbr>m</abbr><ex>n</ex><abbr>e</abbr></expan> <expan><abbr>paralelogramu</abbr><ex>m</ex></expan> <expan><abbr>recta</abbr><ex>n</ex><abbr>gulu</abbr><ex>m</ex></expan> sub <expan><abbr>duab</abbr><ex>us</ex></expan> lineis <expan><abbr>a</abbr><ex>n</ex><abbr>gulu</abbr><ex>m</ex></expan> <expan><abbr>rectu</abbr><ex>m</ex></expan> <expan><abbr>ambi<unclear>cu</unclear>tib</abbr><ex>us</ex></expan> <expan><abbr>dicit</abbr><ex>ur</ex></expan>
+</p></div3>
+
+
+<div3 type="number" n="2"><p>
+<!-- Again "circa" looks more like "cura" -->
+  <expan><abbr>m</abbr><ex>n</ex><abbr>is</abbr></expan> <expan><abbr>paralelogramu</abbr><ex>m</ex></expan> spatii <expan><abbr>q</abbr><ex>ui</ex><abbr>d</abbr><ex>em</ex></expan> que diametros secat <expan><abbr>p</abbr><ex>er</ex></expan> <expan><abbr>mediu</abbr><ex>m</ex></expan> paralelograma cura <expan><abbr>ea</abbr><ex>n</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>diamet</abbr><ex>rum</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>sistere</abbr></expan> <expan><abbr>dicu</abbr><ex>n</ex><abbr>t</abbr><ex>ur</ex></expan> <expan><abbr>eo</abbr><ex>rum</ex></expan> <expan><abbr>u</abbr><ex>er</ex><abbr>o</abbr></expan> <expan><abbr>paralelogramo</abbr><ex>rum</ex></expan> <expan><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>c</abbr><ex>ir</ex><abbr>ca</abbr></expan> <expan><abbr>ea</abbr><ex>n</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>diametru</abbr><ex>m</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>sistu</abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>dlibet</abbr></expan> <expan><abbr>unu</abbr><ex>m</ex></expan> <expan><abbr>cu</abbr><ex>m</ex></expan> <expan><abbr>suppleme</abbr><ex>n</ex><abbr>tis</abbr></expan> <expan><abbr>duob</abbr><ex>us</ex></expan> gnomo <expan><abbr>nominat</abbr><ex>ur</ex></expan>:
+</p></div3>
+
+
+<div3 type="number" n=""><p>
+  ropositus <expan><abbr>quib</abbr><ex>us</ex><abbr>cu</abbr><ex>m</ex><abbr>q</abbr><ex>ue</ex></expan> duabus quadratis <expan><abbr>alt</abbr><ex>er</ex><abbr>i</abbr></expan> <expan><abbr>illo</abbr><ex>rum</ex></expan> <expan><abbr>gnomone</abbr><ex>m</ex></expan> reliquo <expan><abbr>equale</abbr><ex>m</ex></expan> describere:
+</p></div3>
+</div2>
+
+
+<div2 type="type" n="Prop">
+<div3 type="number" n="1">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>fue</abbr><ex>r</ex><abbr>it</abbr></expan> due linee <expan><abbr>qua</abbr><ex>rum</ex></expan> una <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>tlibet</abbr></expan> <expan><abbr>pa</abbr><ex>r</ex><abbr>tes</abbr></expan> <expan><abbr>diuidat</abbr><ex>ur</ex></expan> illud <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> ex ductu <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>am</abbr></expan> fiet <expan><abbr>equu</abbr><ex>m</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> hiis que ex <del>ductes</del> <w>line<del>a</del></w> <expan><abbr>i</abbr><ex>n</ex><abbr>diuise</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>una</abbr><ex>m</ex><abbr>qua</abbr><ex>m</ex><abbr>q</abbr><ex>ue</ex></expan> <expan><abbr>parte</abbr><ex>m</ex></expan> linee <expan><abbr>pa</abbr><ex>r</ex><abbr>ticulati</abbr><ex>m</ex></expan> diuise <expan><abbr>recta</abbr><ex>n</ex><abbr>gulu</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ro</ex><abbr>ducere</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="2">
+<div4 type="type" n="Enun"><p>
+  i fuerit linea <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>tes</abbr></expan> diuisa illud <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> ex ductu totius <add>linee <expan><abbr>i</abbr><ex>n</ex></expan> se <expan><abbr>ispa</abbr><ex>m</ex></expan> fit <expan><abbr>e</abbr><ex>r</ex><abbr>it</abbr></expan> <expan><abbr>equ</abbr><ex>m</ex></expan> hiis que exductu <expan><abbr>eiusde</abbr><ex>m</ex></expan></add> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>o</abbr><ex>mn</ex><abbr>es</abbr></expan> <expan><abbr>pa</abbr><ex>r</ex><abbr>tes</abbr></expan> suas simul <expan><abbr>su</abbr><ex>m</ex><abbr>ptas</abbr></expan>:
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="3">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>fue</abbr><ex>r</ex><abbr>it</abbr></expan> linea diuisa <expan><abbr>i</abbr><ex>n</ex></expan> duas <expan><abbr>p</abbr><ex>ar</ex><abbr>tes</abbr></expan> illud <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> fit ex totius ductu <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>alterutra</abbr><ex>m</ex></expan> <expan><abbr>pa</abbr><ex>r</ex><abbr>t</abbr><ex>em</ex></expan> <expan><abbr>equ</abbr><ex>um</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> hiis que ex ductu <expan><abbr>ei</abbr><ex>us</ex><abbr>de</abbr><ex>m</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>tis</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> se <expan><abbr>ip</abbr><ex>s</ex><abbr>a</abbr><ex>m</ex></expan> et <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>am</abbr></expan>⁑
+</p></div4>
+</div3>
+
+
+<div3 type="number" n="4">
+<div4 type="type" n="Enun"><p>
+  i <expan><abbr>fue</abbr><ex>r</ex><abbr>it</abbr></expan> linea <expan><abbr>i</abbr><ex>n</ex></expan> duas <expan><abbr>p</abbr><ex>ar</ex><abbr>tes</abbr></expan> diuisa illud quod fit ex ductu <expan><abbr>ut</abbr><ex>ri</ex><abbr>usq</abbr><ex>ue</ex></expan> <expan><abbr>p</abbr><ex>ar</ex><abbr>tis</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>seip</abbr><ex>s</ex><abbr>a</abbr><ex>m</ex></expan> ex <expan><abbr>alt</abbr><ex>er</ex><abbr>ius</abbr></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>alt</abbr><ex>er</ex><abbr>am</abbr></expan> bis ex hoc <expan><abbr>ma</abbr><ex>n</ex><abbr>ifestu</abbr><ex>m</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan> <expan><abbr>q</abbr><ex>uod</ex></expan> in <expan><abbr>om</abbr><ex>n</ex><abbr>i</abbr></expan> <expan><abbr>q</abbr><ex>ua</ex><abbr>drato</abbr></expan> due <expan><abbr>sup</abbr><ex>er</ex><abbr>ficies</abbr></expan> quas <expan><abbr>diamet</abbr><ex>ros</ex></expan> secat <expan><abbr>p</abbr><ex>er</ex></expan> <expan><abbr>mediu</abbr><ex>m</ex></expan> <expan><abbr>s</abbr><ex>un</ex><abbr>t</abbr></expan> <expan><abbr>a</abbr><ex>m</ex><abbr>be</abbr></expan> <w><choice><sic>c</sic><corr>qu</corr></choice>adrate</w>:
+</p></div4>
+</div3>
+</div2>
+</div1>
+</TEI>
