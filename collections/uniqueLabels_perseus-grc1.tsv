@@ -1,0 +1,3733 @@
+isLabelIn	containsLabel
+1.Prop.1	Α
+1.Prop.1	Β
+1.Prop.1	Γ
+1.Prop.1	Δ
+1.Prop.1	Ε
+1.Prop.2	Α
+1.Prop.2	Β
+1.Prop.2	Γ
+1.Prop.2	Δ
+1.Prop.2	Ε
+1.Prop.2	Ζ
+1.Prop.2	Η
+1.Prop.2	Θ
+1.Prop.2	Κ
+1.Prop.2	Λ
+1.Prop.3	Α
+1.Prop.3	Β
+1.Prop.3	Γ
+1.Prop.3	Δ
+1.Prop.3	Ε
+1.Prop.3	Ζ
+1.Prop.4	Α
+1.Prop.4	Β
+1.Prop.4	Γ
+1.Prop.4	Δ
+1.Prop.4	Ε
+1.Prop.4	Ζ
+1.Prop.5	Α
+1.Prop.5	Β
+1.Prop.5	Γ
+1.Prop.5	Δ
+1.Prop.5	Ε
+1.Prop.5	Ζ
+1.Prop.5	Η
+1.Prop.6	Α
+1.Prop.6	Β
+1.Prop.6	Γ
+1.Prop.6	Δ
+1.Prop.7	Α
+1.Prop.7	Β
+1.Prop.7	Γ
+1.Prop.7	Δ
+1.Prop.8	Α
+1.Prop.8	Β
+1.Prop.8	Γ
+1.Prop.8	Δ
+1.Prop.8	Ε
+1.Prop.8	Ζ
+1.Prop.8	Η
+1.Prop.9	Α
+1.Prop.9	Β
+1.Prop.9	Γ
+1.Prop.9	Δ
+1.Prop.9	Ε
+1.Prop.9	Ζ
+1.Prop.10	Α
+1.Prop.10	Β
+1.Prop.10	Γ
+1.Prop.10	Δ
+1.Prop.11	Α
+1.Prop.11	Β
+1.Prop.11	Γ
+1.Prop.11	Δ
+1.Prop.11	Ε
+1.Prop.11	Ζ
+1.Prop.12	Α
+1.Prop.12	Β
+1.Prop.12	Γ
+1.Prop.12	Δ
+1.Prop.12	Ε
+1.Prop.12	Ζ
+1.Prop.12	Η
+1.Prop.12	Θ
+1.Prop.13	Α
+1.Prop.13	Β
+1.Prop.13	Γ
+1.Prop.13	Δ
+1.Prop.13	Ε
+1.Prop.14	Α
+1.Prop.14	Β
+1.Prop.14	Γ
+1.Prop.14	Δ
+1.Prop.14	Ε
+1.Prop.15	Α
+1.Prop.15	Β
+1.Prop.15	Γ
+1.Prop.15	Δ
+1.Prop.15	Ε
+1.Prop.16	Α
+1.Prop.16	Β
+1.Prop.16	Γ
+1.Prop.16	Δ
+1.Prop.16	Ε
+1.Prop.16	Ζ
+1.Prop.16	Η
+1.Prop.17	Α
+1.Prop.17	Β
+1.Prop.17	Γ
+1.Prop.17	Δ
+1.Prop.18	Α
+1.Prop.18	Β
+1.Prop.18	Γ
+1.Prop.18	Δ
+1.Prop.19	Α
+1.Prop.19	Β
+1.Prop.19	Γ
+1.Prop.20	Α
+1.Prop.20	Β
+1.Prop.20	Γ
+1.Prop.20	Δ
+1.Prop.21	Α
+1.Prop.21	Β
+1.Prop.21	Γ
+1.Prop.21	Δ
+1.Prop.21	Ε
+1.Prop.22	Α
+1.Prop.22	Β
+1.Prop.22	Γ
+1.Prop.22	Δ
+1.Prop.22	Ε
+1.Prop.22	Ζ
+1.Prop.22	Η
+1.Prop.22	Θ
+1.Prop.22	Κ
+1.Prop.22	Λ
+1.Prop.23	Α
+1.Prop.23	Β
+1.Prop.23	Γ
+1.Prop.23	Δ
+1.Prop.23	Ε
+1.Prop.23	Ζ
+1.Prop.23	Η
+1.Prop.24	Α
+1.Prop.24	Β
+1.Prop.24	Γ
+1.Prop.24	Δ
+1.Prop.24	Ε
+1.Prop.24	Ζ
+1.Prop.24	Η
+1.Prop.25	Α
+1.Prop.25	Β
+1.Prop.25	Γ
+1.Prop.25	Δ
+1.Prop.25	Ε
+1.Prop.25	Ζ
+1.Prop.26	Α
+1.Prop.26	Β
+1.Prop.26	Γ
+1.Prop.26	Δ
+1.Prop.26	Ε
+1.Prop.26	Ζ
+1.Prop.26	Η
+1.Prop.26	Θ
+1.Prop.27	Α
+1.Prop.27	Β
+1.Prop.27	Γ
+1.Prop.27	Δ
+1.Prop.27	Ε
+1.Prop.27	Ζ
+1.Prop.27	Η
+1.Prop.28	Α
+1.Prop.28	Β
+1.Prop.28	Γ
+1.Prop.28	Δ
+1.Prop.28	Ε
+1.Prop.28	Ζ
+1.Prop.28	Η
+1.Prop.28	Θ
+1.Prop.29	Α
+1.Prop.29	Β
+1.Prop.29	Γ
+1.Prop.29	Δ
+1.Prop.29	Ε
+1.Prop.29	Ζ
+1.Prop.29	Η
+1.Prop.29	Θ
+1.Prop.29	Κ
+1.Prop.31	Α
+1.Prop.31	Β
+1.Prop.31	Γ
+1.Prop.31	Δ
+1.Prop.31	Ε
+1.Prop.31	Ζ
+1.Prop.32	Α
+1.Prop.32	Β
+1.Prop.32	Γ
+1.Prop.32	Δ
+1.Prop.32	Ε
+1.Prop.33	Α
+1.Prop.33	Β
+1.Prop.33	Γ
+1.Prop.33	Δ
+1.Prop.34	Α
+1.Prop.34	Β
+1.Prop.34	Γ
+1.Prop.34	Δ
+1.Prop.35	Α
+1.Prop.35	Β
+1.Prop.35	Γ
+1.Prop.35	Δ
+1.Prop.35	Ε
+1.Prop.35	Ζ
+1.Prop.35	Η
+1.Prop.36	Α
+1.Prop.36	Β
+1.Prop.36	Γ
+1.Prop.36	Δ
+1.Prop.36	Ε
+1.Prop.36	Ζ
+1.Prop.36	Η
+1.Prop.36	Θ
+1.Prop.37	Α
+1.Prop.37	Β
+1.Prop.37	Γ
+1.Prop.37	Δ
+1.Prop.37	Ε
+1.Prop.37	Ζ
+1.Prop.38	Α
+1.Prop.38	Β
+1.Prop.38	Γ
+1.Prop.38	Δ
+1.Prop.38	Ε
+1.Prop.38	Ζ
+1.Prop.38	Η
+1.Prop.38	Θ
+1.Prop.39	Α
+1.Prop.39	Β
+1.Prop.39	Γ
+1.Prop.39	Δ
+1.Prop.39	Ε
+1.Prop.40	Α
+1.Prop.40	Β
+1.Prop.40	Γ
+1.Prop.40	Δ
+1.Prop.40	Ε
+1.Prop.40	Ζ
+1.Prop.41	Α
+1.Prop.41	Β
+1.Prop.41	Γ
+1.Prop.41	Δ
+1.Prop.41	Ε
+1.Prop.42	Α
+1.Prop.42	Β
+1.Prop.42	Γ
+1.Prop.42	Δ
+1.Prop.42	Ε
+1.Prop.42	Ζ
+1.Prop.42	Η
+1.Prop.43	Α
+1.Prop.43	Β
+1.Prop.43	Γ
+1.Prop.43	Δ
+1.Prop.43	Ε
+1.Prop.43	Ζ
+1.Prop.43	Η
+1.Prop.43	Θ
+1.Prop.43	Κ
+1.Prop.44	Α
+1.Prop.44	Β
+1.Prop.44	Γ
+1.Prop.44	Δ
+1.Prop.44	Ε
+1.Prop.44	Ζ
+1.Prop.44	Η
+1.Prop.44	Θ
+1.Prop.44	Κ
+1.Prop.44	Λ
+1.Prop.44	Μ
+1.Prop.45	Α
+1.Prop.45	Β
+1.Prop.45	Γ
+1.Prop.45	Δ
+1.Prop.45	Ε
+1.Prop.45	Ζ
+1.Prop.45	Η
+1.Prop.45	Θ
+1.Prop.45	Κ
+1.Prop.45	Λ
+1.Prop.45	Μ
+1.Prop.46	Α
+1.Prop.46	Β
+1.Prop.46	Γ
+1.Prop.46	Δ
+1.Prop.46	Ε
+1.Prop.47	Α
+1.Prop.47	Β
+1.Prop.47	Γ
+1.Prop.47	Δ
+1.Prop.47	Ε
+1.Prop.47	Ζ
+1.Prop.47	Η
+1.Prop.47	Θ
+1.Prop.47	Κ
+1.Prop.47	Λ
+1.Prop.48	Α
+1.Prop.48	Β
+1.Prop.48	Γ
+1.Prop.48	Δ
+2.Prop.1	Α
+2.Prop.1	Β
+2.Prop.1	Γ
+2.Prop.1	Δ
+2.Prop.1	Ε
+2.Prop.1	Ζ
+2.Prop.1	Η
+2.Prop.1	Θ
+2.Prop.1	Κ
+2.Prop.1	Λ
+2.Prop.2	Α
+2.Prop.2	Β
+2.Prop.2	Γ
+2.Prop.2	Δ
+2.Prop.2	Ε
+2.Prop.2	Ζ
+2.Prop.3	Α
+2.Prop.3	Β
+2.Prop.3	Γ
+2.Prop.3	Δ
+2.Prop.3	Ε
+2.Prop.3	Ζ
+2.Prop.4	Α
+2.Prop.4	Β
+2.Prop.4	Γ
+2.Prop.4	Δ
+2.Prop.4	Ε
+2.Prop.4	Ζ
+2.Prop.4	Η
+2.Prop.4	Θ
+2.Prop.4	Κ
+2.Prop.5	Α
+2.Prop.5	Β
+2.Prop.5	Γ
+2.Prop.5	Δ
+2.Prop.5	Ε
+2.Prop.5	Ζ
+2.Prop.5	Η
+2.Prop.5	Θ
+2.Prop.5	Κ
+2.Prop.5	Λ
+2.Prop.5	Μ
+2.Prop.5	Ν
+2.Prop.5	Ξ
+2.Prop.6	Α
+2.Prop.6	Β
+2.Prop.6	Γ
+2.Prop.6	Δ
+2.Prop.6	Ε
+2.Prop.6	Ζ
+2.Prop.6	Η
+2.Prop.6	Θ
+2.Prop.6	Κ
+2.Prop.6	Λ
+2.Prop.6	Μ
+2.Prop.6	Ν
+2.Prop.6	Ξ
+2.Prop.6	Ο
+2.Prop.8	Α
+2.Prop.8	Β
+2.Prop.8	Γ
+2.Prop.8	Δ
+2.Prop.8	Ε
+2.Prop.8	Ζ
+2.Prop.8	Η
+2.Prop.8	Θ
+2.Prop.8	Κ
+2.Prop.8	Λ
+2.Prop.8	Μ
+2.Prop.8	Ν
+2.Prop.8	Ξ
+2.Prop.8	Ο
+2.Prop.8	Π
+2.Prop.8	Ρ
+2.Prop.8	Σ
+2.Prop.8	Τ
+2.Prop.8	Υ
+2.Prop.9	Α
+2.Prop.9	Β
+2.Prop.9	Γ
+2.Prop.9	Δ
+2.Prop.9	Ε
+2.Prop.9	Ζ
+2.Prop.9	Η
+2.Prop.10	Α
+2.Prop.10	Β
+2.Prop.10	Γ
+2.Prop.10	Δ
+2.Prop.10	Ε
+2.Prop.10	Ζ
+2.Prop.10	Η
+2.Prop.11	Α
+2.Prop.11	Β
+2.Prop.11	Γ
+2.Prop.11	Δ
+2.Prop.11	Ε
+2.Prop.11	Ζ
+2.Prop.11	Η
+2.Prop.11	Θ
+2.Prop.11	Κ
+2.Prop.12	Α
+2.Prop.12	Β
+2.Prop.12	Γ
+2.Prop.12	Δ
+2.Prop.13	Α
+2.Prop.13	Β
+2.Prop.13	Γ
+2.Prop.13	Δ
+2.Prop.14	Α
+2.Prop.14	Β
+2.Prop.14	Δ
+2.Prop.14	Ε
+2.Prop.14	Ζ
+2.Prop.14	Η
+2.Prop.14	Θ
+3.Prop.1	Α
+3.Prop.1	Β
+3.Prop.1	Γ
+3.Prop.1	Δ
+3.Prop.1	Ε
+3.Prop.1	Ζ
+3.Prop.1	Η
+3.Prop.2	Α
+3.Prop.2	Β
+3.Prop.2	Γ
+3.Prop.2	Δ
+3.Prop.2	Ε
+3.Prop.2	Ζ
+3.Prop.3	Α
+3.Prop.3	Β
+3.Prop.3	Γ
+3.Prop.3	Δ
+3.Prop.3	Ε
+3.Prop.3	Ζ
+3.Prop.4	Α
+3.Prop.4	Β
+3.Prop.4	Γ
+3.Prop.4	Δ
+3.Prop.4	Ε
+3.Prop.4	Ζ
+3.Prop.5	Α
+3.Prop.5	Β
+3.Prop.5	Γ
+3.Prop.5	Δ
+3.Prop.5	Ε
+3.Prop.5	Ζ
+3.Prop.5	Η
+3.Prop.6	Α
+3.Prop.6	Β
+3.Prop.6	Γ
+3.Prop.6	Δ
+3.Prop.6	Ε
+3.Prop.6	Ζ
+3.Prop.7	Α
+3.Prop.7	Β
+3.Prop.7	Γ
+3.Prop.7	Δ
+3.Prop.7	Ε
+3.Prop.7	Ζ
+3.Prop.7	Η
+3.Prop.7	Θ
+3.Prop.7	Κ
+3.Prop.8	Α
+3.Prop.8	Β
+3.Prop.8	Γ
+3.Prop.8	Δ
+3.Prop.8	Ε
+3.Prop.8	Ζ
+3.Prop.8	Η
+3.Prop.8	Θ
+3.Prop.8	Κ
+3.Prop.8	Λ
+3.Prop.8	Μ
+3.Prop.8	Ν
+3.Prop.9	Α
+3.Prop.9	Β
+3.Prop.9	Γ
+3.Prop.9	Δ
+3.Prop.9	Ε
+3.Prop.9	Ζ
+3.Prop.9	Η
+3.Prop.9	Θ
+3.Prop.9	Κ
+3.Prop.9	Λ
+3.Prop.10	Α
+3.Prop.10	Β
+3.Prop.10	Γ
+3.Prop.10	Δ
+3.Prop.10	Ε
+3.Prop.10	Ζ
+3.Prop.10	Η
+3.Prop.10	Θ
+3.Prop.10	Κ
+3.Prop.10	Λ
+3.Prop.10	Μ
+3.Prop.10	Ν
+3.Prop.10	Ξ
+3.Prop.10	Ο
+3.Prop.11	Α
+3.Prop.11	Β
+3.Prop.11	Γ
+3.Prop.11	Δ
+3.Prop.11	Ε
+3.Prop.11	Ζ
+3.Prop.11	Η
+3.Prop.11	Θ
+3.Prop.12	Α
+3.Prop.12	Β
+3.Prop.12	Γ
+3.Prop.12	Δ
+3.Prop.12	Ε
+3.Prop.12	Ζ
+3.Prop.12	Η
+3.Prop.13	Α
+3.Prop.13	Β
+3.Prop.13	Γ
+3.Prop.13	Δ
+3.Prop.13	Ε
+3.Prop.13	Ζ
+3.Prop.13	Η
+3.Prop.13	Θ
+3.Prop.13	Κ
+3.Prop.14	Α
+3.Prop.14	Β
+3.Prop.14	Γ
+3.Prop.14	Δ
+3.Prop.14	Ε
+3.Prop.14	Ζ
+3.Prop.14	Η
+3.Prop.15	Α
+3.Prop.15	Β
+3.Prop.15	Γ
+3.Prop.15	Δ
+3.Prop.15	Ε
+3.Prop.15	Ζ
+3.Prop.15	Η
+3.Prop.15	Θ
+3.Prop.15	Κ
+3.Prop.15	Λ
+3.Prop.15	Μ
+3.Prop.15	Ν
+3.Prop.16	Α
+3.Prop.16	Β
+3.Prop.16	Γ
+3.Prop.16	Δ
+3.Prop.16	Ε
+3.Prop.16	Ζ
+3.Prop.16	Η
+3.Prop.16	Θ
+3.Prop.17	Α
+3.Prop.17	Β
+3.Prop.17	Γ
+3.Prop.17	Δ
+3.Prop.17	Ε
+3.Prop.17	Ζ
+3.Prop.17	Η
+3.Prop.18	Α
+3.Prop.18	Β
+3.Prop.18	Γ
+3.Prop.18	Δ
+3.Prop.18	Ε
+3.Prop.18	Ζ
+3.Prop.18	Η
+3.Prop.19	Α
+3.Prop.19	Β
+3.Prop.19	Γ
+3.Prop.19	Δ
+3.Prop.19	Ε
+3.Prop.19	Ζ
+3.Prop.20	Α
+3.Prop.20	Β
+3.Prop.20	Γ
+3.Prop.20	Δ
+3.Prop.20	Ε
+3.Prop.20	Ζ
+3.Prop.20	Η
+3.Prop.21	Α
+3.Prop.21	Β
+3.Prop.21	Γ
+3.Prop.21	Δ
+3.Prop.21	Ε
+3.Prop.21	Ζ
+3.Prop.22	Α
+3.Prop.22	Β
+3.Prop.22	Γ
+3.Prop.22	Δ
+3.Prop.23	Α
+3.Prop.23	Β
+3.Prop.23	Γ
+3.Prop.23	Δ
+3.Prop.24	Α
+3.Prop.24	Β
+3.Prop.24	Γ
+3.Prop.24	Δ
+3.Prop.24	Ε
+3.Prop.24	Ζ
+3.Prop.24	Η
+3.Prop.25	Α
+3.Prop.25	Β
+3.Prop.25	Γ
+3.Prop.25	Δ
+3.Prop.25	Ε
+3.Prop.26	Α
+3.Prop.26	Β
+3.Prop.26	Γ
+3.Prop.26	Δ
+3.Prop.26	Ε
+3.Prop.26	Ζ
+3.Prop.26	Η
+3.Prop.26	Θ
+3.Prop.26	Κ
+3.Prop.26	Λ
+3.Prop.27	Α
+3.Prop.27	Β
+3.Prop.27	Γ
+3.Prop.27	Δ
+3.Prop.27	Ε
+3.Prop.27	Ζ
+3.Prop.27	Η
+3.Prop.27	Θ
+3.Prop.27	Κ
+3.Prop.28	Α
+3.Prop.28	Β
+3.Prop.28	Γ
+3.Prop.28	Δ
+3.Prop.28	Ε
+3.Prop.28	Ζ
+3.Prop.28	Η
+3.Prop.28	Θ
+3.Prop.28	Κ
+3.Prop.28	Λ
+3.Prop.29	Α
+3.Prop.29	Β
+3.Prop.29	Γ
+3.Prop.29	Δ
+3.Prop.29	Ε
+3.Prop.29	Ζ
+3.Prop.29	Η
+3.Prop.29	Θ
+3.Prop.29	Κ
+3.Prop.29	Λ
+3.Prop.30	Α
+3.Prop.30	Β
+3.Prop.30	Γ
+3.Prop.30	Δ
+3.Prop.31	Α
+3.Prop.31	Β
+3.Prop.31	Γ
+3.Prop.31	Δ
+3.Prop.31	Ε
+3.Prop.31	Ζ
+3.Prop.32	Α
+3.Prop.32	Β
+3.Prop.32	Γ
+3.Prop.32	Δ
+3.Prop.32	Ε
+3.Prop.32	Ζ
+3.Prop.33	Α
+3.Prop.33	Β
+3.Prop.33	Γ
+3.Prop.33	Δ
+3.Prop.33	Ε
+3.Prop.33	Ζ
+3.Prop.33	Η
+3.Prop.33	Θ
+3.Prop.34	Α
+3.Prop.34	Β
+3.Prop.34	Γ
+3.Prop.34	Δ
+3.Prop.34	Ε
+3.Prop.34	Ζ
+3.Prop.35	Α
+3.Prop.35	Β
+3.Prop.35	Γ
+3.Prop.35	Δ
+3.Prop.35	Ε
+3.Prop.35	Ζ
+3.Prop.35	Η
+3.Prop.35	Θ
+3.Prop.36	Α
+3.Prop.36	Β
+3.Prop.36	Γ
+3.Prop.36	Δ
+3.Prop.36	Ε
+3.Prop.36	Ζ
+3.Prop.37	Α
+3.Prop.37	Β
+3.Prop.37	Γ
+3.Prop.37	Δ
+3.Prop.37	Ε
+3.Prop.37	Ζ
+4.Prop.1	Α
+4.Prop.1	Β
+4.Prop.1	Γ
+4.Prop.1	Δ
+4.Prop.1	Ε
+4.Prop.1	Ζ
+4.Prop.2	Α
+4.Prop.2	Β
+4.Prop.2	Γ
+4.Prop.2	Δ
+4.Prop.2	Ε
+4.Prop.2	Ζ
+4.Prop.2	Η
+4.Prop.2	Θ
+4.Prop.3	Α
+4.Prop.3	Β
+4.Prop.3	Γ
+4.Prop.3	Δ
+4.Prop.3	Ε
+4.Prop.3	Ζ
+4.Prop.3	Η
+4.Prop.3	Θ
+4.Prop.3	Κ
+4.Prop.3	Λ
+4.Prop.3	Μ
+4.Prop.3	Ν
+4.Prop.4	Α
+4.Prop.4	Β
+4.Prop.4	Γ
+4.Prop.4	Δ
+4.Prop.4	Ε
+4.Prop.4	Ζ
+4.Prop.4	Η
+4.Prop.5	Α
+4.Prop.5	Β
+4.Prop.5	Γ
+4.Prop.5	Δ
+4.Prop.5	Ε
+4.Prop.5	Ζ
+4.Prop.6	Α
+4.Prop.6	Β
+4.Prop.6	Γ
+4.Prop.6	Δ
+4.Prop.6	Ε
+4.Prop.7	Α
+4.Prop.7	Β
+4.Prop.7	Γ
+4.Prop.7	Δ
+4.Prop.7	Ε
+4.Prop.7	Ζ
+4.Prop.7	Η
+4.Prop.7	Θ
+4.Prop.7	Κ
+4.Prop.8	Α
+4.Prop.8	Β
+4.Prop.8	Γ
+4.Prop.8	Δ
+4.Prop.8	Ε
+4.Prop.8	Ζ
+4.Prop.8	Η
+4.Prop.8	Θ
+4.Prop.8	Κ
+4.Prop.9	Α
+4.Prop.9	Β
+4.Prop.9	Γ
+4.Prop.9	Δ
+4.Prop.9	Ε
+4.Prop.10	Α
+4.Prop.10	Β
+4.Prop.10	Γ
+4.Prop.10	Δ
+4.Prop.10	Ε
+4.Prop.11	Α
+4.Prop.11	Β
+4.Prop.11	Γ
+4.Prop.11	Δ
+4.Prop.11	Ε
+4.Prop.11	Ζ
+4.Prop.11	Η
+4.Prop.11	Θ
+4.Prop.12	Α
+4.Prop.12	Β
+4.Prop.12	Γ
+4.Prop.12	Δ
+4.Prop.12	Ε
+4.Prop.12	Ζ
+4.Prop.12	Η
+4.Prop.12	Θ
+4.Prop.12	Κ
+4.Prop.12	Λ
+4.Prop.12	Μ
+4.Prop.13	Α
+4.Prop.13	Β
+4.Prop.13	Γ
+4.Prop.13	Δ
+4.Prop.13	Ε
+4.Prop.13	Ζ
+4.Prop.13	Η
+4.Prop.13	Θ
+4.Prop.13	Κ
+4.Prop.13	Λ
+4.Prop.13	Μ
+4.Prop.14	Α
+4.Prop.14	Β
+4.Prop.14	Γ
+4.Prop.14	Δ
+4.Prop.14	Ε
+4.Prop.14	Ζ
+4.Prop.15	Α
+4.Prop.15	Β
+4.Prop.15	Γ
+4.Prop.15	Δ
+4.Prop.15	Ε
+4.Prop.15	Ζ
+4.Prop.15	Η
+4.Prop.15	Θ
+4.Prop.16	Α
+4.Prop.16	Β
+4.Prop.16	Γ
+4.Prop.16	Δ
+4.Prop.16	Ε
+5.Prop.1	Α
+5.Prop.1	Β
+5.Prop.1	Γ
+5.Prop.1	Δ
+5.Prop.1	Ε
+5.Prop.1	Ζ
+5.Prop.1	Η
+5.Prop.1	Θ
+5.Prop.2	Α
+5.Prop.2	Β
+5.Prop.2	Γ
+5.Prop.2	Δ
+5.Prop.2	Ε
+5.Prop.2	Ζ
+5.Prop.2	Η
+5.Prop.2	Θ
+5.Prop.3	Α
+5.Prop.3	Β
+5.Prop.3	Γ
+5.Prop.3	Δ
+5.Prop.3	Ε
+5.Prop.3	Ζ
+5.Prop.3	Η
+5.Prop.3	Θ
+5.Prop.3	Κ
+5.Prop.3	Λ
+5.Prop.4	Α
+5.Prop.4	Β
+5.Prop.4	Γ
+5.Prop.4	Δ
+5.Prop.4	Ε
+5.Prop.4	Ζ
+5.Prop.4	Η
+5.Prop.4	Θ
+5.Prop.4	Κ
+5.Prop.4	Λ
+5.Prop.4	Μ
+5.Prop.4	Ν
+5.Prop.5	Α
+5.Prop.5	Β
+5.Prop.5	Γ
+5.Prop.5	Δ
+5.Prop.5	Ε
+5.Prop.5	Ζ
+5.Prop.5	Η
+5.Prop.6	Α
+5.Prop.6	Β
+5.Prop.6	Γ
+5.Prop.6	Δ
+5.Prop.6	Ε
+5.Prop.6	Ζ
+5.Prop.6	Η
+5.Prop.6	Θ
+5.Prop.6	Κ
+5.Prop.7	Α
+5.Prop.7	Β
+5.Prop.7	Γ
+5.Prop.7	Δ
+5.Prop.7	Ε
+5.Prop.7	Ζ
+5.Prop.8	Α
+5.Prop.8	Β
+5.Prop.8	Γ
+5.Prop.8	Δ
+5.Prop.8	Ε
+5.Prop.8	Ζ
+5.Prop.8	Η
+5.Prop.8	Θ
+5.Prop.8	Κ
+5.Prop.8	Λ
+5.Prop.8	Μ
+5.Prop.8	Ν
+5.Prop.9	Α
+5.Prop.9	Β
+5.Prop.9	Γ
+5.Prop.10	Α
+5.Prop.10	Β
+5.Prop.10	Γ
+5.Prop.11	Α
+5.Prop.11	Β
+5.Prop.11	Γ
+5.Prop.11	Δ
+5.Prop.11	Ε
+5.Prop.11	Ζ
+5.Prop.11	Η
+5.Prop.11	Θ
+5.Prop.11	Κ
+5.Prop.11	Λ
+5.Prop.11	Μ
+5.Prop.11	Ν
+5.Prop.12	Α
+5.Prop.12	Β
+5.Prop.12	Γ
+5.Prop.12	Δ
+5.Prop.12	Ε
+5.Prop.12	Ζ
+5.Prop.12	Η
+5.Prop.12	Θ
+5.Prop.12	Κ
+5.Prop.12	Λ
+5.Prop.12	Μ
+5.Prop.12	Ν
+5.Prop.13	Α
+5.Prop.13	Β
+5.Prop.13	Γ
+5.Prop.13	Δ
+5.Prop.13	Ε
+5.Prop.13	Ζ
+5.Prop.13	Η
+5.Prop.13	Θ
+5.Prop.13	Κ
+5.Prop.13	Λ
+5.Prop.13	Μ
+5.Prop.13	Ν
+5.Prop.14	Α
+5.Prop.14	Β
+5.Prop.14	Γ
+5.Prop.14	Δ
+5.Prop.15	Α
+5.Prop.15	Β
+5.Prop.15	Γ
+5.Prop.15	Δ
+5.Prop.15	Ε
+5.Prop.15	Ζ
+5.Prop.15	Η
+5.Prop.15	Θ
+5.Prop.15	Κ
+5.Prop.15	Λ
+5.Prop.16	Α
+5.Prop.16	Β
+5.Prop.16	Γ
+5.Prop.16	Δ
+5.Prop.16	Ε
+5.Prop.16	Ζ
+5.Prop.16	Η
+5.Prop.16	Θ
+5.Prop.17	Α
+5.Prop.17	Β
+5.Prop.17	Γ
+5.Prop.17	Δ
+5.Prop.17	Ε
+5.Prop.17	Ζ
+5.Prop.17	Η
+5.Prop.17	Θ
+5.Prop.17	Κ
+5.Prop.17	Λ
+5.Prop.17	Μ
+5.Prop.17	Ν
+5.Prop.17	Ξ
+5.Prop.17	Π
+5.Prop.18	Α
+5.Prop.18	Β
+5.Prop.18	Γ
+5.Prop.18	Δ
+5.Prop.18	Ε
+5.Prop.18	Ζ
+5.Prop.18	Η
+5.Prop.19	Α
+5.Prop.19	Β
+5.Prop.19	Γ
+5.Prop.19	Δ
+5.Prop.19	Ε
+5.Prop.19	Ζ
+5.Prop.20	Α
+5.Prop.20	Β
+5.Prop.20	Γ
+5.Prop.20	Δ
+5.Prop.20	Ε
+5.Prop.20	Ζ
+5.Prop.21	Α
+5.Prop.21	Β
+5.Prop.21	Γ
+5.Prop.21	Δ
+5.Prop.21	Ε
+5.Prop.21	Ζ
+5.Prop.22	Α
+5.Prop.22	Β
+5.Prop.22	Γ
+5.Prop.22	Δ
+5.Prop.22	Ε
+5.Prop.22	Ζ
+5.Prop.22	Η
+5.Prop.22	Θ
+5.Prop.22	Κ
+5.Prop.22	Λ
+5.Prop.22	Μ
+5.Prop.22	Ν
+5.Prop.23	Α
+5.Prop.23	Β
+5.Prop.23	Γ
+5.Prop.23	Δ
+5.Prop.23	Ε
+5.Prop.23	Ζ
+5.Prop.23	Η
+5.Prop.23	Θ
+5.Prop.23	Κ
+5.Prop.23	Λ
+5.Prop.23	Μ
+5.Prop.23	Ν
+5.Prop.24	Α
+5.Prop.24	Β
+5.Prop.24	Γ
+5.Prop.24	Δ
+5.Prop.24	Ε
+5.Prop.24	Ζ
+5.Prop.24	Η
+5.Prop.24	Θ
+5.Prop.25	Α
+5.Prop.25	Β
+5.Prop.25	Γ
+5.Prop.25	Δ
+5.Prop.25	Ε
+5.Prop.25	Ζ
+5.Prop.25	Η
+5.Prop.25	Θ
+6.Prop.1	Α
+6.Prop.1	Β
+6.Prop.1	Γ
+6.Prop.1	Δ
+6.Prop.1	Ε
+6.Prop.1	Ζ
+6.Prop.1	Η
+6.Prop.1	Θ
+6.Prop.1	Κ
+6.Prop.1	Λ
+6.Prop.2	Α
+6.Prop.2	Β
+6.Prop.2	Γ
+6.Prop.2	Δ
+6.Prop.2	Ε
+6.Prop.3	Α
+6.Prop.3	Β
+6.Prop.3	Γ
+6.Prop.3	Δ
+6.Prop.3	Ε
+6.Prop.4	Α
+6.Prop.4	Β
+6.Prop.4	Γ
+6.Prop.4	Δ
+6.Prop.4	Ε
+6.Prop.4	Ζ
+6.Prop.5	Α
+6.Prop.5	Β
+6.Prop.5	Γ
+6.Prop.5	Δ
+6.Prop.5	Ε
+6.Prop.5	Ζ
+6.Prop.5	Η
+6.Prop.6	Α
+6.Prop.6	Β
+6.Prop.6	Γ
+6.Prop.6	Δ
+6.Prop.6	Ε
+6.Prop.6	Ζ
+6.Prop.6	Η
+6.Prop.7	Α
+6.Prop.7	Β
+6.Prop.7	Γ
+6.Prop.7	Δ
+6.Prop.7	Ε
+6.Prop.7	Ζ
+6.Prop.7	Η
+6.Prop.8	Α
+6.Prop.8	Β
+6.Prop.8	Γ
+6.Prop.8	Δ
+6.Prop.9	Α
+6.Prop.9	Β
+6.Prop.9	Γ
+6.Prop.9	Δ
+6.Prop.9	Ε
+6.Prop.9	Ζ
+6.Prop.10	Α
+6.Prop.10	Β
+6.Prop.10	Γ
+6.Prop.10	Δ
+6.Prop.10	Ε
+6.Prop.10	Ζ
+6.Prop.10	Η
+6.Prop.10	Θ
+6.Prop.10	Κ
+6.Prop.11	Α
+6.Prop.11	Β
+6.Prop.11	Γ
+6.Prop.11	Δ
+6.Prop.11	Ε
+6.Prop.12	Α
+6.Prop.12	Β
+6.Prop.12	Γ
+6.Prop.12	Δ
+6.Prop.12	Ε
+6.Prop.12	Ζ
+6.Prop.12	Η
+6.Prop.12	Θ
+6.Prop.13	Α
+6.Prop.13	Β
+6.Prop.13	Γ
+6.Prop.13	Δ
+6.Prop.14	Α
+6.Prop.14	Β
+6.Prop.14	Γ
+6.Prop.14	Δ
+6.Prop.14	Ε
+6.Prop.14	Ζ
+6.Prop.14	Η
+6.Prop.15	Α
+6.Prop.15	Β
+6.Prop.15	Γ
+6.Prop.15	Δ
+6.Prop.15	Ε
+6.Prop.16	Α
+6.Prop.16	Β
+6.Prop.16	Γ
+6.Prop.16	Δ
+6.Prop.16	Ε
+6.Prop.16	Ζ
+6.Prop.16	Η
+6.Prop.16	Θ
+6.Prop.17	Α
+6.Prop.17	Β
+6.Prop.17	Γ
+6.Prop.17	Δ
+6.Prop.18	Α
+6.Prop.18	Β
+6.Prop.18	Γ
+6.Prop.18	Δ
+6.Prop.18	Ε
+6.Prop.18	Ζ
+6.Prop.18	Η
+6.Prop.18	Θ
+6.Prop.19	Α
+6.Prop.19	Β
+6.Prop.19	Γ
+6.Prop.19	Δ
+6.Prop.19	Ε
+6.Prop.19	Ζ
+6.Prop.19	Η
+6.Prop.20	Α
+6.Prop.20	Β
+6.Prop.20	Γ
+6.Prop.20	Δ
+6.Prop.20	Ε
+6.Prop.20	Ζ
+6.Prop.20	Η
+6.Prop.20	Θ
+6.Prop.20	Κ
+6.Prop.20	Λ
+6.Prop.20	Μ
+6.Prop.20	Ν
+6.Prop.20	Ξ
+6.Prop.21	Α
+6.Prop.21	Β
+6.Prop.21	Γ
+6.Prop.22	Α
+6.Prop.22	Β
+6.Prop.22	Γ
+6.Prop.22	Δ
+6.Prop.22	Ε
+6.Prop.22	Ζ
+6.Prop.22	Η
+6.Prop.22	Θ
+6.Prop.22	Κ
+6.Prop.22	Λ
+6.Prop.22	Μ
+6.Prop.22	Ν
+6.Prop.22	Ξ
+6.Prop.22	Ο
+6.Prop.22	Π
+6.Prop.22	Ρ
+6.Prop.22	Σ
+6.Prop.23	Α
+6.Prop.23	Β
+6.Prop.23	Γ
+6.Prop.23	Δ
+6.Prop.23	Ε
+6.Prop.23	Ζ
+6.Prop.23	Η
+6.Prop.23	Θ
+6.Prop.23	Κ
+6.Prop.23	Λ
+6.Prop.23	Μ
+6.Prop.24	Α
+6.Prop.24	Β
+6.Prop.24	Γ
+6.Prop.24	Δ
+6.Prop.24	Ε
+6.Prop.24	Ζ
+6.Prop.24	Η
+6.Prop.24	Θ
+6.Prop.24	Κ
+6.Prop.25	Α
+6.Prop.25	Β
+6.Prop.25	Γ
+6.Prop.25	Δ
+6.Prop.25	Ε
+6.Prop.25	Ζ
+6.Prop.25	Η
+6.Prop.25	Θ
+6.Prop.25	Κ
+6.Prop.25	Λ
+6.Prop.25	Μ
+6.Prop.26	Α
+6.Prop.26	Β
+6.Prop.26	Γ
+6.Prop.26	Δ
+6.Prop.26	Ε
+6.Prop.26	Ζ
+6.Prop.26	Η
+6.Prop.26	Θ
+6.Prop.26	Κ
+6.Prop.27	Α
+6.Prop.27	Β
+6.Prop.27	Γ
+6.Prop.27	Δ
+6.Prop.27	Ε
+6.Prop.27	Ζ
+6.Prop.27	Η
+6.Prop.27	Θ
+6.Prop.27	Κ
+6.Prop.27	Λ
+6.Prop.27	Μ
+6.Prop.27	Ν
+6.Prop.28	Α
+6.Prop.28	Β
+6.Prop.28	Γ
+6.Prop.28	Δ
+6.Prop.28	Ε
+6.Prop.28	Ζ
+6.Prop.28	Η
+6.Prop.28	Θ
+6.Prop.28	Κ
+6.Prop.28	Λ
+6.Prop.28	Μ
+6.Prop.28	Ν
+6.Prop.28	Ξ
+6.Prop.28	Ο
+6.Prop.28	Π
+6.Prop.28	Ρ
+6.Prop.28	Σ
+6.Prop.28	Τ
+6.Prop.28	Υ
+6.Prop.28	Φ
+6.Prop.28	Χ
+6.Prop.29	Α
+6.Prop.29	Β
+6.Prop.29	Γ
+6.Prop.29	Δ
+6.Prop.29	Ε
+6.Prop.29	Ζ
+6.Prop.29	Η
+6.Prop.29	Θ
+6.Prop.29	Κ
+6.Prop.29	Λ
+6.Prop.29	Μ
+6.Prop.29	Ν
+6.Prop.29	Ξ
+6.Prop.29	Ο
+6.Prop.29	Π
+6.Prop.29	Φ
+6.Prop.29	Χ
+6.Prop.29	Ψ
+6.Prop.30	Α
+6.Prop.30	Β
+6.Prop.30	Γ
+6.Prop.30	Δ
+6.Prop.30	Ε
+6.Prop.30	Ζ
+6.Prop.31	Α
+6.Prop.31	Β
+6.Prop.31	Γ
+6.Prop.31	Δ
+6.Prop.32	Α
+6.Prop.32	Β
+6.Prop.32	Γ
+6.Prop.32	Δ
+6.Prop.32	Ε
+6.Prop.33	Α
+6.Prop.33	Β
+6.Prop.33	Γ
+6.Prop.33	Δ
+6.Prop.33	Ε
+6.Prop.33	Ζ
+6.Prop.33	Η
+6.Prop.33	Θ
+6.Prop.33	Κ
+6.Prop.33	Λ
+6.Prop.33	Μ
+6.Prop.33	Ν
+7.Prop.1	Α
+7.Prop.1	Β
+7.Prop.1	Γ
+7.Prop.1	Δ
+7.Prop.1	Ε
+7.Prop.1	Ζ
+7.Prop.1	Η
+7.Prop.1	Θ
+7.Prop.2	Α
+7.Prop.2	Β
+7.Prop.2	Γ
+7.Prop.2	Δ
+7.Prop.2	Ε
+7.Prop.2	Ζ
+7.Prop.2	Η
+7.Prop.3	Α
+7.Prop.3	Β
+7.Prop.3	Γ
+7.Prop.3	Δ
+7.Prop.3	Ε
+7.Prop.3	Ζ
+7.Prop.4	Α
+7.Prop.4	Β
+7.Prop.4	Γ
+7.Prop.4	Δ
+7.Prop.4	Ε
+7.Prop.4	Ζ
+7.Prop.5	Α
+7.Prop.5	Β
+7.Prop.5	Γ
+7.Prop.5	Δ
+7.Prop.5	Ε
+7.Prop.5	Ζ
+7.Prop.5	Η
+7.Prop.5	Θ
+7.Prop.6	Α
+7.Prop.6	Β
+7.Prop.6	Γ
+7.Prop.6	Δ
+7.Prop.6	Ε
+7.Prop.6	Ζ
+7.Prop.6	Η
+7.Prop.6	Θ
+7.Prop.7	Α
+7.Prop.7	Β
+7.Prop.7	Γ
+7.Prop.7	Δ
+7.Prop.7	Ε
+7.Prop.7	Ζ
+7.Prop.7	Η
+7.Prop.8	Α
+7.Prop.8	Β
+7.Prop.8	Γ
+7.Prop.8	Δ
+7.Prop.8	Ε
+7.Prop.8	Ζ
+7.Prop.8	Η
+7.Prop.8	Θ
+7.Prop.8	Κ
+7.Prop.8	Λ
+7.Prop.8	Μ
+7.Prop.8	Ν
+7.Prop.9	Α
+7.Prop.9	Β
+7.Prop.9	Γ
+7.Prop.9	Δ
+7.Prop.9	Ε
+7.Prop.9	Ζ
+7.Prop.9	Η
+7.Prop.9	Θ
+7.Prop.10	Α
+7.Prop.10	Β
+7.Prop.10	Γ
+7.Prop.10	Δ
+7.Prop.10	Ε
+7.Prop.10	Ζ
+7.Prop.10	Η
+7.Prop.10	Θ
+7.Prop.11	Α
+7.Prop.11	Β
+7.Prop.11	Γ
+7.Prop.11	Δ
+7.Prop.11	Ε
+7.Prop.11	Ζ
+7.Prop.12	Α
+7.Prop.12	Β
+7.Prop.12	Γ
+7.Prop.12	Δ
+7.Prop.13	Α
+7.Prop.13	Β
+7.Prop.13	Γ
+7.Prop.13	Δ
+7.Prop.14	Α
+7.Prop.14	Β
+7.Prop.14	Γ
+7.Prop.14	Δ
+7.Prop.14	Ε
+7.Prop.14	Ζ
+7.Prop.15	Α
+7.Prop.15	Β
+7.Prop.15	Γ
+7.Prop.15	Δ
+7.Prop.15	Ε
+7.Prop.15	Ζ
+7.Prop.15	Η
+7.Prop.15	Θ
+7.Prop.15	Κ
+7.Prop.15	Λ
+7.Prop.16	Α
+7.Prop.16	Β
+7.Prop.16	Γ
+7.Prop.16	Δ
+7.Prop.16	Ε
+7.Prop.17	Α
+7.Prop.17	Β
+7.Prop.17	Γ
+7.Prop.17	Δ
+7.Prop.17	Ε
+7.Prop.17	Ζ
+7.Prop.18	Α
+7.Prop.18	Β
+7.Prop.18	Γ
+7.Prop.18	Δ
+7.Prop.18	Ε
+7.Prop.19	Α
+7.Prop.19	Β
+7.Prop.19	Γ
+7.Prop.19	Δ
+7.Prop.19	Ε
+7.Prop.19	Ζ
+7.Prop.19	Η
+7.Prop.20	Α
+7.Prop.20	Β
+7.Prop.20	Γ
+7.Prop.20	Δ
+7.Prop.20	Ε
+7.Prop.20	Ζ
+7.Prop.20	Η
+7.Prop.20	Θ
+7.Prop.21	Α
+7.Prop.21	Β
+7.Prop.21	Γ
+7.Prop.21	Δ
+7.Prop.21	Ε
+7.Prop.22	Α
+7.Prop.22	Β
+7.Prop.22	Γ
+7.Prop.22	Δ
+7.Prop.22	Ε
+7.Prop.23	Α
+7.Prop.23	Β
+7.Prop.23	Γ
+7.Prop.23	Δ
+7.Prop.24	Α
+7.Prop.24	Β
+7.Prop.24	Γ
+7.Prop.24	Δ
+7.Prop.24	Ε
+7.Prop.24	Ζ
+7.Prop.25	Α
+7.Prop.25	Β
+7.Prop.25	Γ
+7.Prop.25	Δ
+7.Prop.26	Α
+7.Prop.26	Β
+7.Prop.26	Γ
+7.Prop.26	Δ
+7.Prop.26	Ε
+7.Prop.26	Ζ
+7.Prop.27	Α
+7.Prop.27	Β
+7.Prop.27	Γ
+7.Prop.27	Δ
+7.Prop.27	Ε
+7.Prop.27	Ζ
+7.Prop.28	Α
+7.Prop.28	Β
+7.Prop.28	Γ
+7.Prop.28	Δ
+7.Prop.29	Α
+7.Prop.29	Β
+7.Prop.29	Γ
+7.Prop.30	Α
+7.Prop.30	Β
+7.Prop.30	Γ
+7.Prop.30	Δ
+7.Prop.30	Ε
+7.Prop.31	Α
+7.Prop.31	Β
+7.Prop.31	Γ
+7.Prop.32	Α
+7.Prop.33	Α
+7.Prop.33	Β
+7.Prop.33	Γ
+7.Prop.33	Δ
+7.Prop.33	Ε
+7.Prop.33	Ζ
+7.Prop.33	Η
+7.Prop.33	Θ
+7.Prop.33	Κ
+7.Prop.33	Λ
+7.Prop.33	Μ
+7.Prop.34	Α
+7.Prop.34	Β
+7.Prop.34	Γ
+7.Prop.34	Δ
+7.Prop.34	Ε
+7.Prop.34	Ζ
+7.Prop.34	Η
+7.Prop.34	Θ
+7.Prop.35	Α
+7.Prop.35	Β
+7.Prop.35	Γ
+7.Prop.35	Δ
+7.Prop.35	Ε
+7.Prop.35	Ζ
+7.Prop.36	Α
+7.Prop.36	Β
+7.Prop.36	Γ
+7.Prop.36	Δ
+7.Prop.36	Ε
+7.Prop.36	Ζ
+7.Prop.37	Α
+7.Prop.37	Β
+7.Prop.37	Γ
+7.Prop.37	Δ
+7.Prop.38	Α
+7.Prop.38	Β
+7.Prop.38	Γ
+7.Prop.38	Δ
+7.Prop.39	Α
+7.Prop.39	Β
+7.Prop.39	Γ
+7.Prop.39	Δ
+7.Prop.39	Ε
+7.Prop.39	Ζ
+7.Prop.39	Η
+7.Prop.39	Θ
+8.Prop.1	Α
+8.Prop.1	Β
+8.Prop.1	Γ
+8.Prop.1	Δ
+8.Prop.1	Ε
+8.Prop.1	Ζ
+8.Prop.1	Η
+8.Prop.1	Θ
+8.Prop.2	Α
+8.Prop.2	Β
+8.Prop.2	Γ
+8.Prop.2	Δ
+8.Prop.2	Ε
+8.Prop.2	Ζ
+8.Prop.2	Η
+8.Prop.2	Θ
+8.Prop.2	Κ
+8.Prop.3	Α
+8.Prop.3	Β
+8.Prop.3	Γ
+8.Prop.3	Δ
+8.Prop.3	Ε
+8.Prop.3	Ζ
+8.Prop.3	Η
+8.Prop.3	Κ
+8.Prop.3	Λ
+8.Prop.3	Μ
+8.Prop.3	Ν
+8.Prop.3	Ξ
+8.Prop.4	Α
+8.Prop.4	Β
+8.Prop.4	Γ
+8.Prop.4	Δ
+8.Prop.4	Ε
+8.Prop.4	Ζ
+8.Prop.4	Η
+8.Prop.4	Θ
+8.Prop.4	Κ
+8.Prop.4	Λ
+8.Prop.4	Μ
+8.Prop.4	Ν
+8.Prop.4	Ξ
+8.Prop.4	Ο
+8.Prop.4	Π
+8.Prop.4	Ρ
+8.Prop.4	Σ
+8.Prop.4	Τ
+8.Prop.5	Α
+8.Prop.5	Β
+8.Prop.5	Γ
+8.Prop.5	Δ
+8.Prop.5	Ε
+8.Prop.5	Ζ
+8.Prop.5	Η
+8.Prop.5	Θ
+8.Prop.5	Κ
+8.Prop.5	Λ
+8.Prop.6	Α
+8.Prop.6	Β
+8.Prop.6	Γ
+8.Prop.6	Ε
+8.Prop.6	Ζ
+8.Prop.6	Η
+8.Prop.6	Θ
+8.Prop.7	Α
+8.Prop.7	Β
+8.Prop.7	Γ
+8.Prop.7	Δ
+8.Prop.8	Α
+8.Prop.8	Β
+8.Prop.8	Γ
+8.Prop.8	Δ
+8.Prop.8	Ε
+8.Prop.8	Ζ
+8.Prop.8	Η
+8.Prop.8	Θ
+8.Prop.8	Κ
+8.Prop.8	Λ
+8.Prop.8	Μ
+8.Prop.8	Ν
+8.Prop.9	Α
+8.Prop.9	Β
+8.Prop.9	Γ
+8.Prop.9	Δ
+8.Prop.9	Ε
+8.Prop.9	Ζ
+8.Prop.9	Η
+8.Prop.9	Θ
+8.Prop.9	Κ
+8.Prop.9	Λ
+8.Prop.9	Μ
+8.Prop.9	Ν
+8.Prop.9	Ξ
+8.Prop.9	Ο
+8.Prop.10	Α
+8.Prop.10	Β
+8.Prop.10	Γ
+8.Prop.10	Δ
+8.Prop.10	Ε
+8.Prop.10	Ζ
+8.Prop.10	Η
+8.Prop.10	Θ
+8.Prop.10	Κ
+8.Prop.10	Λ
+8.Prop.11	Α
+8.Prop.11	Β
+8.Prop.11	Γ
+8.Prop.11	Δ
+8.Prop.11	Ε
+8.Prop.12	Α
+8.Prop.12	Β
+8.Prop.12	Γ
+8.Prop.12	Δ
+8.Prop.12	Ε
+8.Prop.12	Ζ
+8.Prop.12	Η
+8.Prop.12	Θ
+8.Prop.12	Κ
+8.Prop.13	Α
+8.Prop.13	Β
+8.Prop.13	Γ
+8.Prop.13	Δ
+8.Prop.13	Ε
+8.Prop.13	Ζ
+8.Prop.13	Η
+8.Prop.13	Θ
+8.Prop.13	Κ
+8.Prop.13	Λ
+8.Prop.13	Μ
+8.Prop.13	Ν
+8.Prop.13	Ξ
+8.Prop.13	Ο
+8.Prop.13	Π
+8.Prop.14	Α
+8.Prop.14	Β
+8.Prop.14	Γ
+8.Prop.14	Δ
+8.Prop.14	Ε
+8.Prop.15	Α
+8.Prop.15	Β
+8.Prop.15	Γ
+8.Prop.15	Δ
+8.Prop.15	Ε
+8.Prop.15	Ζ
+8.Prop.15	Η
+8.Prop.15	Θ
+8.Prop.15	Κ
+8.Prop.16	Α
+8.Prop.16	Β
+8.Prop.16	Γ
+8.Prop.16	Δ
+8.Prop.17	Α
+8.Prop.17	Β
+8.Prop.17	Γ
+8.Prop.17	Δ
+8.Prop.18	Α
+8.Prop.18	Β
+8.Prop.18	Γ
+8.Prop.18	Δ
+8.Prop.18	Ε
+8.Prop.18	Ζ
+8.Prop.18	Η
+8.Prop.19	Α
+8.Prop.19	Β
+8.Prop.19	Γ
+8.Prop.19	Δ
+8.Prop.19	Ε
+8.Prop.19	Ζ
+8.Prop.19	Η
+8.Prop.19	Θ
+8.Prop.19	Κ
+8.Prop.19	Λ
+8.Prop.19	Μ
+8.Prop.19	Ν
+8.Prop.19	Ξ
+8.Prop.20	Α
+8.Prop.20	Β
+8.Prop.20	Γ
+8.Prop.20	Δ
+8.Prop.20	Ε
+8.Prop.20	Ζ
+8.Prop.20	Η
+8.Prop.21	Α
+8.Prop.21	Β
+8.Prop.21	Γ
+8.Prop.21	Δ
+8.Prop.21	Ε
+8.Prop.21	Ζ
+8.Prop.21	Η
+8.Prop.21	Θ
+8.Prop.21	Κ
+8.Prop.21	Λ
+8.Prop.21	Μ
+8.Prop.21	Ν
+8.Prop.21	Ξ
+8.Prop.22	Α
+8.Prop.22	Β
+8.Prop.22	Γ
+8.Prop.23	Α
+8.Prop.23	Β
+8.Prop.23	Γ
+8.Prop.23	Δ
+8.Prop.24	Α
+8.Prop.24	Β
+8.Prop.24	Γ
+8.Prop.24	Δ
+8.Prop.25	Α
+8.Prop.25	Β
+8.Prop.25	Γ
+8.Prop.25	Δ
+8.Prop.25	Ε
+8.Prop.25	Ζ
+8.Prop.26	Α
+8.Prop.26	Β
+8.Prop.26	Γ
+8.Prop.26	Δ
+8.Prop.26	Ε
+8.Prop.26	Ζ
+8.Prop.27	Α
+8.Prop.27	Β
+8.Prop.27	Γ
+8.Prop.27	Δ
+8.Prop.27	Ε
+8.Prop.27	Ζ
+8.Prop.27	Η
+8.Prop.27	Θ
+9.Prop.1	Α
+9.Prop.1	Β
+9.Prop.1	Γ
+9.Prop.1	Δ
+9.Prop.2	Α
+9.Prop.2	Β
+9.Prop.2	Γ
+9.Prop.2	Δ
+9.Prop.3	Α
+9.Prop.3	Β
+9.Prop.3	Γ
+9.Prop.3	Δ
+9.Prop.4	Α
+9.Prop.4	Β
+9.Prop.4	Γ
+9.Prop.4	Δ
+9.Prop.5	Α
+9.Prop.5	Β
+9.Prop.5	Γ
+9.Prop.5	Δ
+9.Prop.6	Α
+9.Prop.6	Β
+9.Prop.6	Γ
+9.Prop.7	Α
+9.Prop.7	Β
+9.Prop.7	Γ
+9.Prop.7	Δ
+9.Prop.7	Ε
+9.Prop.8	Α
+9.Prop.8	Β
+9.Prop.8	Γ
+9.Prop.8	Δ
+9.Prop.8	Ε
+9.Prop.8	Ζ
+9.Prop.9	Α
+9.Prop.9	Β
+9.Prop.9	Γ
+9.Prop.9	Δ
+9.Prop.9	Ε
+9.Prop.9	Ζ
+9.Prop.10	Α
+9.Prop.10	Β
+9.Prop.10	Γ
+9.Prop.10	Δ
+9.Prop.10	Ε
+9.Prop.10	Ζ
+9.Prop.11	Α
+9.Prop.11	Β
+9.Prop.11	Γ
+9.Prop.11	Δ
+9.Prop.11	Ε
+9.Prop.12	Α
+9.Prop.12	Β
+9.Prop.12	Γ
+9.Prop.12	Δ
+9.Prop.12	Ε
+9.Prop.12	Ζ
+9.Prop.12	Η
+9.Prop.12	Θ
+9.Prop.13	Α
+9.Prop.13	Β
+9.Prop.13	Γ
+9.Prop.13	Δ
+9.Prop.13	Ε
+9.Prop.13	Ζ
+9.Prop.13	Η
+9.Prop.13	Θ
+9.Prop.14	Α
+9.Prop.14	Β
+9.Prop.14	Γ
+9.Prop.14	Δ
+9.Prop.14	Ε
+9.Prop.14	Ζ
+9.Prop.15	Α
+9.Prop.15	Β
+9.Prop.15	Γ
+9.Prop.15	Δ
+9.Prop.15	Ε
+9.Prop.15	Ζ
+9.Prop.16	Α
+9.Prop.16	Β
+9.Prop.16	Γ
+9.Prop.17	Α
+9.Prop.17	Β
+9.Prop.17	Γ
+9.Prop.17	Δ
+9.Prop.17	Ε
+9.Prop.18	Α
+9.Prop.18	Β
+9.Prop.18	Γ
+9.Prop.18	Δ
+9.Prop.19	Α
+9.Prop.19	Β
+9.Prop.19	Γ
+9.Prop.19	Δ
+9.Prop.19	Ε
+9.Prop.20	Α
+9.Prop.20	Β
+9.Prop.20	Γ
+9.Prop.20	Δ
+9.Prop.20	Ε
+9.Prop.20	Ζ
+9.Prop.20	Η
+9.Prop.21	Α
+9.Prop.21	Β
+9.Prop.21	Γ
+9.Prop.21	Δ
+9.Prop.21	Ε
+9.Prop.22	Α
+9.Prop.22	Β
+9.Prop.22	Γ
+9.Prop.22	Δ
+9.Prop.22	Ε
+9.Prop.23	Α
+9.Prop.23	Β
+9.Prop.23	Γ
+9.Prop.23	Δ
+9.Prop.23	Ε
+9.Prop.24	Α
+9.Prop.24	Β
+9.Prop.24	Γ
+9.Prop.25	Α
+9.Prop.25	Β
+9.Prop.25	Γ
+9.Prop.25	Δ
+9.Prop.26	Α
+9.Prop.26	Β
+9.Prop.26	Γ
+9.Prop.26	Δ
+9.Prop.27	Α
+9.Prop.27	Β
+9.Prop.27	Γ
+9.Prop.27	Δ
+9.Prop.28	Α
+9.Prop.28	Β
+9.Prop.28	Γ
+9.Prop.29	Α
+9.Prop.29	Β
+9.Prop.29	Γ
+9.Prop.30	Α
+9.Prop.30	Β
+9.Prop.30	Γ
+9.Prop.31	Α
+9.Prop.31	Β
+9.Prop.31	Γ
+9.Prop.31	Δ
+9.Prop.32	Α
+9.Prop.32	Β
+9.Prop.32	Γ
+9.Prop.32	Δ
+9.Prop.33	Α
+9.Prop.34	Α
+9.Prop.35	Α
+9.Prop.35	Β
+9.Prop.35	Γ
+9.Prop.35	Δ
+9.Prop.35	Ε
+9.Prop.35	Ζ
+9.Prop.35	Η
+9.Prop.35	Θ
+9.Prop.35	Κ
+9.Prop.35	Λ
+9.Prop.36	Α
+9.Prop.36	Β
+9.Prop.36	Γ
+9.Prop.36	Δ
+9.Prop.36	Ε
+9.Prop.36	Ζ
+9.Prop.36	Η
+9.Prop.36	Θ
+9.Prop.36	Κ
+9.Prop.36	Λ
+9.Prop.36	Μ
+9.Prop.36	Ν
+9.Prop.36	Ξ
+9.Prop.36	Ο
+9.Prop.36	Π
+10.Prop 1.1	Α
+10.Prop 1.1	Β
+10.Prop 1.1	Γ
+10.Prop 1.1	Δ
+10.Prop 1.1	Ε
+10.Prop 1.1	Ζ
+10.Prop 1.1	Η
+10.Prop 1.1	Θ
+10.Prop 1.1	Κ
+10.Prop 1.2	Α
+10.Prop 1.2	Β
+10.Prop 1.2	Γ
+10.Prop 1.2	Δ
+10.Prop 1.2	Ε
+10.Prop 1.2	Ζ
+10.Prop 1.2	Η
+10.Prop 1.3	Α
+10.Prop 1.3	Β
+10.Prop 1.3	Γ
+10.Prop 1.3	Δ
+10.Prop 1.3	Ε
+10.Prop 1.3	Ζ
+10.Prop 1.3	Η
+10.Prop 1.4	Α
+10.Prop 1.4	Β
+10.Prop 1.4	Γ
+10.Prop 1.4	Δ
+10.Prop 1.4	Ε
+10.Prop 1.4	Ζ
+10.Prop 1.5	Α
+10.Prop 1.5	Β
+10.Prop 1.5	Γ
+10.Prop 1.5	Δ
+10.Prop 1.5	Ε
+10.Prop 1.5	Ζ
+10.Prop 1.7	Α
+10.Prop 1.7	Β
+10.Prop 1.8	Α
+10.Prop 1.8	Β
+10.Prop 1.9	Α
+10.Prop 1.9	Β
+10.Prop 1.9	Γ
+10.Prop 1.9	Δ
+10.Prop 1.10	Α
+10.Prop 1.10	Β
+10.Prop 1.10	Γ
+10.Prop 1.10	Δ
+10.Prop 1.10	Ε
+10.Prop 1.11	Α
+10.Prop 1.11	Β
+10.Prop 1.11	Γ
+10.Prop 1.11	Δ
+10.Prop 1.12	Α
+10.Prop 1.12	Β
+10.Prop 1.12	Γ
+10.Prop 1.12	Δ
+10.Prop 1.12	Ε
+10.Prop 1.12	Ζ
+10.Prop 1.12	Η
+10.Prop 1.12	Θ
+10.Prop 1.12	Κ
+10.Prop 1.12	Λ
+10.Prop 1.13	Α
+10.Prop 1.13	Β
+10.Prop 1.13	Γ
+10.Prop 1.13	Δ
+10.Prop 1.14	Α
+10.Prop 1.14	Β
+10.Prop 1.14	Γ
+10.Prop 1.14	Δ
+10.Prop 1.14	Ε
+10.Prop 1.14	Ζ
+10.Prop 1.15	Α
+10.Prop 1.15	Β
+10.Prop 1.15	Γ
+10.Prop 1.15	Δ
+10.Prop 1.16	Α
+10.Prop 1.16	Β
+10.Prop 1.16	Γ
+10.Prop 1.16	Δ
+10.Prop 1.17	Α
+10.Prop 1.17	Β
+10.Prop 1.17	Γ
+10.Prop 1.17	Δ
+10.Prop 1.17	Ε
+10.Prop 1.17	Ζ
+10.Prop 1.18	Α
+10.Prop 1.18	Β
+10.Prop 1.18	Γ
+10.Prop 1.18	Δ
+10.Prop 1.18	Ζ
+10.Prop 1.19	Α
+10.Prop 1.19	Β
+10.Prop 1.19	Γ
+10.Prop 1.19	Δ
+10.Prop 1.20	Α
+10.Prop 1.20	Β
+10.Prop 1.20	Γ
+10.Prop 1.20	Δ
+10.Prop 1.21	Α
+10.Prop 1.21	Β
+10.Prop 1.21	Γ
+10.Prop 1.21	Δ
+10.Prop 1.21	Ε
+10.Prop 1.21	Ζ
+10.Prop 1.21	Η
+10.Prop 1.22	Α
+10.Prop 1.22	Β
+10.Prop 1.22	Γ
+10.Prop 1.22	Δ
+10.Prop 1.22	Ε
+10.Prop 1.22	Ζ
+10.Prop 1.22	Η
+10.Prop 1.23	Α
+10.Prop 1.23	Β
+10.Prop 1.23	Γ
+10.Prop 1.23	Δ
+10.Prop 1.23	Ε
+10.Prop 1.23	Ζ
+10.Prop 1.24	Α
+10.Prop 1.24	Β
+10.Prop 1.24	Γ
+10.Prop 1.24	Δ
+10.Prop 1.25	Α
+10.Prop 1.25	Β
+10.Prop 1.25	Γ
+10.Prop 1.25	Δ
+10.Prop 1.25	Ε
+10.Prop 1.25	Ζ
+10.Prop 1.25	Η
+10.Prop 1.25	Θ
+10.Prop 1.25	Κ
+10.Prop 1.25	Λ
+10.Prop 1.25	Μ
+10.Prop 1.25	Ν
+10.Prop 1.25	Ξ
+10.Prop 1.26	Α
+10.Prop 1.26	Β
+10.Prop 1.26	Γ
+10.Prop 1.26	Δ
+10.Prop 1.26	Ε
+10.Prop 1.26	Ζ
+10.Prop 1.26	Η
+10.Prop 1.26	Θ
+10.Prop 1.26	Κ
+10.Prop 1.27	Α
+10.Prop 1.27	Β
+10.Prop 1.27	Γ
+10.Prop 1.27	Δ
+10.Prop 1.28	Α
+10.Prop 1.28	Β
+10.Prop 1.28	Γ
+10.Prop 1.28	Δ
+10.Prop 1.28	Ε
+10.Prop 1.28	Ζ
+10.Prop 1.28	Η
+10.Prop 1.28	Θ
+10.Prop 1.29	Α
+10.Prop 1.29	Β
+10.Prop 1.29	Γ
+10.Prop 1.29	Δ
+10.Prop 1.29	Ε
+10.Prop 1.29	Ζ
+10.Prop 1.30	Α
+10.Prop 1.30	Β
+10.Prop 1.30	Γ
+10.Prop 1.30	Δ
+10.Prop 1.30	Ε
+10.Prop 1.30	Ζ
+10.Prop 1.31	Α
+10.Prop 1.31	Β
+10.Prop 1.31	Γ
+10.Prop 1.31	Δ
+10.Prop 1.32	Α
+10.Prop 1.32	Β
+10.Prop 1.32	Γ
+10.Prop 1.32	Δ
+10.Prop 1.32	Ε
+10.Prop 1.33	Α
+10.Prop 1.33	Β
+10.Prop 1.33	Γ
+10.Prop 1.33	Δ
+10.Prop 1.33	Ε
+10.Prop 1.33	Ζ
+10.Prop 1.34	Α
+10.Prop 1.34	Β
+10.Prop 1.34	Γ
+10.Prop 1.34	Δ
+10.Prop 1.34	Ε
+10.Prop 1.34	Ζ
+10.Prop 1.35	Α
+10.Prop 1.35	Β
+10.Prop 1.35	Γ
+10.Prop 1.35	Δ
+10.Prop 1.35	Ε
+10.Prop 1.35	Ζ
+10.Prop 1.36	Α
+10.Prop 1.36	Β
+10.Prop 1.36	Γ
+10.Prop 1.37	Α
+10.Prop 1.37	Β
+10.Prop 1.37	Γ
+10.Prop 1.38	Α
+10.Prop 1.38	Β
+10.Prop 1.38	Γ
+10.Prop 1.38	Δ
+10.Prop 1.38	Ε
+10.Prop 1.38	Ζ
+10.Prop 1.38	Η
+10.Prop 1.38	Θ
+10.Prop 1.39	Α
+10.Prop 1.39	Β
+10.Prop 1.39	Γ
+10.Prop 1.40	Α
+10.Prop 1.40	Β
+10.Prop 1.40	Γ
+10.Prop 1.41	Α
+10.Prop 1.41	Β
+10.Prop 1.41	Γ
+10.Prop 1.41	Δ
+10.Prop 1.41	Ε
+10.Prop 1.41	Ζ
+10.Prop 1.41	Η
+10.Prop 1.41	Θ
+10.Prop 1.41	Κ
+10.Prop 1.42	Α
+10.Prop 1.42	Β
+10.Prop 1.42	Γ
+10.Prop 1.42	Δ
+10.Prop 1.43	Α
+10.Prop 1.43	Β
+10.Prop 1.43	Γ
+10.Prop 1.43	Δ
+10.Prop 1.44	Α
+10.Prop 1.44	Β
+10.Prop 1.44	Γ
+10.Prop 1.44	Δ
+10.Prop 1.44	Ε
+10.Prop 1.44	Ζ
+10.Prop 1.44	Η
+10.Prop 1.44	Θ
+10.Prop 1.44	Κ
+10.Prop 1.44	Λ
+10.Prop 1.44	Μ
+10.Prop 1.44	Ν
+10.Prop 1.45	Α
+10.Prop 1.45	Β
+10.Prop 1.45	Γ
+10.Prop 1.45	Δ
+10.Prop 1.46	Α
+10.Prop 1.46	Β
+10.Prop 1.46	Γ
+10.Prop 1.46	Δ
+10.Prop 1.47	Α
+10.Prop 1.47	Β
+10.Prop 1.47	Γ
+10.Prop 1.47	Δ
+10.Prop 1.47	Ε
+10.Prop 1.47	Ζ
+10.Prop 1.47	Η
+10.Prop 1.47	Θ
+10.Prop 1.47	Κ
+10.Prop 1.47	Λ
+10.Prop 1.47	Μ
+10.Prop 1.47	Ν
+10.Prop 2.48	Α
+10.Prop 2.48	Β
+10.Prop 2.48	Γ
+10.Prop 2.48	Δ
+10.Prop 2.48	Ε
+10.Prop 2.48	Ζ
+10.Prop 2.48	Η
+10.Prop 2.48	Θ
+10.Prop 2.49	Α
+10.Prop 2.49	Β
+10.Prop 2.49	Γ
+10.Prop 2.49	Δ
+10.Prop 2.49	Ε
+10.Prop 2.49	Ζ
+10.Prop 2.49	Η
+10.Prop 2.49	Θ
+10.Prop 2.50	Α
+10.Prop 2.50	Β
+10.Prop 2.50	Γ
+10.Prop 2.50	Δ
+10.Prop 2.50	Ε
+10.Prop 2.50	Ζ
+10.Prop 2.50	Η
+10.Prop 2.50	Θ
+10.Prop 2.50	Κ
+10.Prop 2.51	Α
+10.Prop 2.51	Β
+10.Prop 2.51	Γ
+10.Prop 2.51	Δ
+10.Prop 2.51	Ε
+10.Prop 2.51	Ζ
+10.Prop 2.51	Η
+10.Prop 2.51	Θ
+10.Prop 2.52	Α
+10.Prop 2.52	Β
+10.Prop 2.52	Γ
+10.Prop 2.52	Δ
+10.Prop 2.52	Ε
+10.Prop 2.52	Ζ
+10.Prop 2.52	Η
+10.Prop 2.52	Θ
+10.Prop 2.53	Α
+10.Prop 2.53	Β
+10.Prop 2.53	Γ
+10.Prop 2.53	Δ
+10.Prop 2.53	Ε
+10.Prop 2.53	Ζ
+10.Prop 2.53	Η
+10.Prop 2.53	Θ
+10.Prop 2.53	Κ
+10.Prop 2.54	Α
+10.Prop 2.54	Β
+10.Prop 2.54	Γ
+10.Prop 2.54	Δ
+10.Prop 2.54	Ε
+10.Prop 2.54	Ζ
+10.Prop 2.54	Η
+10.Prop 2.54	Θ
+10.Prop 2.54	Κ
+10.Prop 2.54	Λ
+10.Prop 2.54	Μ
+10.Prop 2.54	Ν
+10.Prop 2.54	Ξ
+10.Prop 2.54	Ο
+10.Prop 2.54	Π
+10.Prop 2.54	Ρ
+10.Prop 2.54	Σ
+10.Prop 2.55	Α
+10.Prop 2.55	Β
+10.Prop 2.55	Γ
+10.Prop 2.55	Δ
+10.Prop 2.55	Ε
+10.Prop 2.55	Ζ
+10.Prop 2.55	Η
+10.Prop 2.55	Θ
+10.Prop 2.55	Κ
+10.Prop 2.55	Λ
+10.Prop 2.55	Μ
+10.Prop 2.55	Ν
+10.Prop 2.55	Ξ
+10.Prop 2.55	Ο
+10.Prop 2.55	Π
+10.Prop 2.55	Ρ
+10.Prop 2.55	Σ
+10.Prop 2.56	Α
+10.Prop 2.56	Β
+10.Prop 2.56	Γ
+10.Prop 2.56	Δ
+10.Prop 2.56	Ε
+10.Prop 2.56	Ζ
+10.Prop 2.56	Κ
+10.Prop 2.56	Λ
+10.Prop 2.56	Μ
+10.Prop 2.56	Ν
+10.Prop 2.56	Ξ
+10.Prop 2.56	Ρ
+10.Prop 2.57	Α
+10.Prop 2.57	Β
+10.Prop 2.57	Γ
+10.Prop 2.57	Δ
+10.Prop 2.57	Ε
+10.Prop 2.57	Ζ
+10.Prop 2.57	Η
+10.Prop 2.57	Θ
+10.Prop 2.57	Κ
+10.Prop 2.57	Λ
+10.Prop 2.57	Μ
+10.Prop 2.57	Ν
+10.Prop 2.57	Ξ
+10.Prop 2.57	Π
+10.Prop 2.57	Ρ
+10.Prop 2.57	Σ
+10.Prop 2.58	Α
+10.Prop 2.58	Β
+10.Prop 2.58	Γ
+10.Prop 2.58	Δ
+10.Prop 2.58	Ε
+10.Prop 2.58	Ζ
+10.Prop 2.58	Η
+10.Prop 2.58	Θ
+10.Prop 2.58	Κ
+10.Prop 2.58	Λ
+10.Prop 2.58	Μ
+10.Prop 2.58	Ν
+10.Prop 2.58	Ξ
+10.Prop 2.58	Ρ
+10.Prop 2.59	Α
+10.Prop 2.59	Β
+10.Prop 2.59	Γ
+10.Prop 2.59	Δ
+10.Prop 2.59	Ε
+10.Prop 2.59	Ζ
+10.Prop 2.59	Κ
+10.Prop 2.59	Λ
+10.Prop 2.59	Μ
+10.Prop 2.59	Ν
+10.Prop 2.59	Ξ
+10.Prop 2.59	Ρ
+10.Prop 2.60	Α
+10.Prop 2.60	Β
+10.Prop 2.60	Γ
+10.Prop 2.60	Δ
+10.Prop 2.60	Ε
+10.Prop 2.60	Ζ
+10.Prop 2.60	Η
+10.Prop 2.60	Θ
+10.Prop 2.60	Κ
+10.Prop 2.60	Λ
+10.Prop 2.60	Μ
+10.Prop 2.60	Ν
+10.Prop 2.60	Ξ
+10.Prop 2.61	Α
+10.Prop 2.61	Β
+10.Prop 2.61	Γ
+10.Prop 2.61	Δ
+10.Prop 2.61	Ε
+10.Prop 2.61	Ζ
+10.Prop 2.61	Η
+10.Prop 2.61	Θ
+10.Prop 2.61	Κ
+10.Prop 2.61	Λ
+10.Prop 2.61	Μ
+10.Prop 2.61	Ν
+10.Prop 2.62	Α
+10.Prop 2.62	Β
+10.Prop 2.62	Γ
+10.Prop 2.62	Δ
+10.Prop 2.62	Ε
+10.Prop 2.62	Ζ
+10.Prop 2.62	Η
+10.Prop 2.62	Κ
+10.Prop 2.62	Λ
+10.Prop 2.62	Μ
+10.Prop 2.62	Ν
+10.Prop 2.63	Α
+10.Prop 2.63	Β
+10.Prop 2.63	Γ
+10.Prop 2.63	Δ
+10.Prop 2.63	Ε
+10.Prop 2.63	Ζ
+10.Prop 2.63	Η
+10.Prop 2.63	Θ
+10.Prop 2.63	Κ
+10.Prop 2.63	Λ
+10.Prop 2.63	Μ
+10.Prop 2.63	Ν
+10.Prop 2.64	Α
+10.Prop 2.64	Β
+10.Prop 2.64	Γ
+10.Prop 2.64	Δ
+10.Prop 2.64	Ε
+10.Prop 2.64	Ζ
+10.Prop 2.64	Η
+10.Prop 2.64	Κ
+10.Prop 2.64	Λ
+10.Prop 2.64	Μ
+10.Prop 2.64	Ν
+10.Prop 2.65	Α
+10.Prop 2.65	Β
+10.Prop 2.65	Γ
+10.Prop 2.65	Δ
+10.Prop 2.65	Ε
+10.Prop 2.65	Ζ
+10.Prop 2.65	Η
+10.Prop 2.65	Κ
+10.Prop 2.65	Λ
+10.Prop 2.65	Μ
+10.Prop 2.65	Ν
+10.Prop 2.66	Α
+10.Prop 2.66	Β
+10.Prop 2.66	Γ
+10.Prop 2.66	Δ
+10.Prop 2.66	Ε
+10.Prop 2.66	Ζ
+10.Prop 2.67	Α
+10.Prop 2.67	Β
+10.Prop 2.67	Γ
+10.Prop 2.67	Δ
+10.Prop 2.67	Ε
+10.Prop 2.67	Ζ
+10.Prop 2.68	Α
+10.Prop 2.68	Β
+10.Prop 2.68	Γ
+10.Prop 2.68	Δ
+10.Prop 2.68	Ε
+10.Prop 2.68	Ζ
+10.Prop 2.69	Α
+10.Prop 2.69	Β
+10.Prop 2.69	Γ
+10.Prop 2.69	Δ
+10.Prop 2.69	Ε
+10.Prop 2.69	Ζ
+10.Prop 2.70	Α
+10.Prop 2.70	Β
+10.Prop 2.70	Γ
+10.Prop 2.70	Δ
+10.Prop 2.70	Ε
+10.Prop 2.70	Ζ
+10.Prop 2.71	Α
+10.Prop 2.71	Β
+10.Prop 2.71	Γ
+10.Prop 2.71	Δ
+10.Prop 2.71	Ε
+10.Prop 2.71	Ζ
+10.Prop 2.71	Η
+10.Prop 2.71	Θ
+10.Prop 2.71	Ι
+10.Prop 2.71	Κ
+10.Prop 2.72	Α
+10.Prop 2.72	Β
+10.Prop 2.72	Γ
+10.Prop 2.72	Δ
+10.Prop 2.72	Ε
+10.Prop 2.72	Ζ
+10.Prop 2.72	Η
+10.Prop 2.72	Θ
+10.Prop 2.72	Ι
+10.Prop 2.72	Κ
+10.Prop 2.73	Α
+10.Prop 2.73	Β
+10.Prop 2.73	Γ
+10.Prop 2.74	Α
+10.Prop 2.74	Β
+10.Prop 2.74	Γ
+10.Prop 2.75	Α
+10.Prop 2.75	Β
+10.Prop 2.75	Γ
+10.Prop 2.75	Δ
+10.Prop 2.75	Ε
+10.Prop 2.75	Ζ
+10.Prop 2.75	Η
+10.Prop 2.75	Θ
+10.Prop 2.75	Ι
+10.Prop 2.76	Α
+10.Prop 2.76	Β
+10.Prop 2.76	Γ
+10.Prop 2.77	Α
+10.Prop 2.77	Β
+10.Prop 2.77	Γ
+10.Prop 2.78	Α
+10.Prop 2.78	Β
+10.Prop 2.78	Γ
+10.Prop 2.78	Δ
+10.Prop 2.78	Ε
+10.Prop 2.78	Ζ
+10.Prop 2.78	Η
+10.Prop 2.78	Θ
+10.Prop 2.78	Ι
+10.Prop 2.79	Α
+10.Prop 2.79	Β
+10.Prop 2.79	Γ
+10.Prop 2.79	Δ
+10.Prop 2.80	Α
+10.Prop 2.80	Β
+10.Prop 2.80	Γ
+10.Prop 2.80	Δ
+10.Prop 2.81	Α
+10.Prop 2.81	Β
+10.Prop 2.81	Γ
+10.Prop 2.81	Δ
+10.Prop 2.81	Ε
+10.Prop 2.81	Ζ
+10.Prop 2.81	Η
+10.Prop 2.81	Θ
+10.Prop 2.81	Ι
+10.Prop 2.81	Λ
+10.Prop 2.81	Μ
+10.Prop 2.81	Ν
+10.Prop 2.82	Α
+10.Prop 2.82	Β
+10.Prop 2.82	Γ
+10.Prop 2.82	Δ
+10.Prop 2.83	Α
+10.Prop 2.83	Β
+10.Prop 2.83	Γ
+10.Prop 2.83	Δ
+10.Prop 2.84	Α
+10.Prop 2.84	Β
+10.Prop 2.84	Γ
+10.Prop 2.84	Δ
+10.Prop 2.84	Ε
+10.Prop 2.84	Ζ
+10.Prop 2.84	Η
+10.Prop 2.84	Θ
+10.Prop 2.84	Ι
+10.Prop 2.84	Λ
+10.Prop 2.84	Μ
+10.Prop 2.84	Ν
+10.Prop 3.85	Α
+10.Prop 3.85	Β
+10.Prop 3.85	Γ
+10.Prop 3.85	Δ
+10.Prop 3.85	Ε
+10.Prop 3.85	Ζ
+10.Prop 3.85	Η
+10.Prop 3.85	Θ
+10.Prop 3.86	Α
+10.Prop 3.86	Β
+10.Prop 3.86	Γ
+10.Prop 3.86	Δ
+10.Prop 3.86	Ε
+10.Prop 3.86	Ζ
+10.Prop 3.86	Η
+10.Prop 3.86	Θ
+10.Prop 3.87	Α
+10.Prop 3.87	Β
+10.Prop 3.87	Γ
+10.Prop 3.87	Δ
+10.Prop 3.87	Ε
+10.Prop 3.87	Ζ
+10.Prop 3.87	Η
+10.Prop 3.87	Θ
+10.Prop 3.87	Κ
+10.Prop 3.88	Α
+10.Prop 3.88	Β
+10.Prop 3.88	Γ
+10.Prop 3.88	Δ
+10.Prop 3.88	Ε
+10.Prop 3.88	Ζ
+10.Prop 3.88	Η
+10.Prop 3.88	Θ
+10.Prop 3.89	Α
+10.Prop 3.89	Β
+10.Prop 3.89	Γ
+10.Prop 3.89	Δ
+10.Prop 3.89	Ε
+10.Prop 3.89	Ζ
+10.Prop 3.89	Η
+10.Prop 3.89	Θ
+10.Prop 3.90	Α
+10.Prop 3.90	Β
+10.Prop 3.90	Γ
+10.Prop 3.90	Δ
+10.Prop 3.90	Ε
+10.Prop 3.90	Ζ
+10.Prop 3.90	Η
+10.Prop 3.90	Θ
+10.Prop 3.90	Κ
+10.Prop 3.91	Α
+10.Prop 3.91	Β
+10.Prop 3.91	Γ
+10.Prop 3.91	Δ
+10.Prop 3.91	Ε
+10.Prop 3.91	Ζ
+10.Prop 3.91	Η
+10.Prop 3.91	Θ
+10.Prop 3.91	Ι
+10.Prop 3.91	Κ
+10.Prop 3.91	Λ
+10.Prop 3.91	Μ
+10.Prop 3.91	Ν
+10.Prop 3.91	Ξ
+10.Prop 3.91	Ο
+10.Prop 3.91	Ρ
+10.Prop 3.91	Σ
+10.Prop 3.91	Τ
+10.Prop 3.91	Υ
+10.Prop 3.91	Φ
+10.Prop 3.91	Χ
+10.Prop 3.92	Α
+10.Prop 3.92	Β
+10.Prop 3.92	Γ
+10.Prop 3.92	Δ
+10.Prop 3.92	Ε
+10.Prop 3.92	Ζ
+10.Prop 3.92	Η
+10.Prop 3.92	Θ
+10.Prop 3.92	Ι
+10.Prop 3.92	Κ
+10.Prop 3.92	Λ
+10.Prop 3.92	Μ
+10.Prop 3.92	Ν
+10.Prop 3.92	Ξ
+10.Prop 3.92	Ο
+10.Prop 3.92	Ρ
+10.Prop 3.92	Σ
+10.Prop 3.92	Τ
+10.Prop 3.92	Υ
+10.Prop 3.92	Φ
+10.Prop 3.92	Χ
+10.Prop 3.93	Α
+10.Prop 3.93	Β
+10.Prop 3.93	Γ
+10.Prop 3.93	Δ
+10.Prop 3.93	Ε
+10.Prop 3.93	Ζ
+10.Prop 3.93	Η
+10.Prop 3.93	Θ
+10.Prop 3.93	Ι
+10.Prop 3.93	Κ
+10.Prop 3.93	Λ
+10.Prop 3.93	Μ
+10.Prop 3.93	Ν
+10.Prop 3.93	Ξ
+10.Prop 3.93	Ο
+10.Prop 3.93	Ρ
+10.Prop 3.93	Σ
+10.Prop 3.93	Τ
+10.Prop 3.93	Υ
+10.Prop 3.93	Φ
+10.Prop 3.93	Χ
+10.Prop 3.94	Α
+10.Prop 3.94	Β
+10.Prop 3.94	Γ
+10.Prop 3.94	Δ
+10.Prop 3.94	Ε
+10.Prop 3.94	Ζ
+10.Prop 3.94	Η
+10.Prop 3.94	Θ
+10.Prop 3.94	Ι
+10.Prop 3.94	Κ
+10.Prop 3.94	Λ
+10.Prop 3.94	Μ
+10.Prop 3.94	Ν
+10.Prop 3.94	Ξ
+10.Prop 3.94	Ο
+10.Prop 3.94	Ρ
+10.Prop 3.94	Σ
+10.Prop 3.94	Τ
+10.Prop 3.94	Υ
+10.Prop 3.94	Φ
+10.Prop 3.94	Χ
+10.Prop 3.95	Α
+10.Prop 3.95	Β
+10.Prop 3.95	Γ
+10.Prop 3.95	Δ
+10.Prop 3.95	Ε
+10.Prop 3.95	Ζ
+10.Prop 3.95	Η
+10.Prop 3.95	Ι
+10.Prop 3.95	Κ
+10.Prop 3.95	Λ
+10.Prop 3.95	Μ
+10.Prop 3.95	Ν
+10.Prop 3.95	Ξ
+10.Prop 3.95	Ο
+10.Prop 3.95	Ρ
+10.Prop 3.96	Α
+10.Prop 3.96	Β
+10.Prop 3.96	Γ
+10.Prop 3.96	Δ
+10.Prop 3.96	Ε
+10.Prop 3.96	Ζ
+10.Prop 3.96	Η
+10.Prop 3.96	Ι
+10.Prop 3.96	Κ
+10.Prop 3.96	Λ
+10.Prop 3.96	Μ
+10.Prop 3.96	Ν
+10.Prop 3.96	Ξ
+10.Prop 3.96	Ο
+10.Prop 3.96	Ρ
+10.Prop 3.97	Α
+10.Prop 3.97	Β
+10.Prop 3.97	Γ
+10.Prop 3.97	Δ
+10.Prop 3.97	Ε
+10.Prop 3.97	Ζ
+10.Prop 3.97	Η
+10.Prop 3.97	Θ
+10.Prop 3.97	Κ
+10.Prop 3.97	Λ
+10.Prop 3.97	Μ
+10.Prop 3.97	Ν
+10.Prop 3.97	Ξ
+10.Prop 3.98	Α
+10.Prop 3.98	Β
+10.Prop 3.98	Γ
+10.Prop 3.98	Δ
+10.Prop 3.98	Ε
+10.Prop 3.98	Ζ
+10.Prop 3.98	Η
+10.Prop 3.98	Θ
+10.Prop 3.98	Κ
+10.Prop 3.98	Λ
+10.Prop 3.98	Μ
+10.Prop 3.98	Ν
+10.Prop 3.98	Ξ
+10.Prop 3.99	Α
+10.Prop 3.99	Β
+10.Prop 3.99	Γ
+10.Prop 3.99	Δ
+10.Prop 3.99	Ε
+10.Prop 3.99	Ζ
+10.Prop 3.99	Η
+10.Prop 3.99	Θ
+10.Prop 3.99	Κ
+10.Prop 3.99	Λ
+10.Prop 3.99	Μ
+10.Prop 3.99	Ν
+10.Prop 3.99	Ξ
+10.Prop 3.100	Α
+10.Prop 3.100	Β
+10.Prop 3.100	Γ
+10.Prop 3.100	Δ
+10.Prop 3.100	Ε
+10.Prop 3.100	Ζ
+10.Prop 3.100	Η
+10.Prop 3.100	Θ
+10.Prop 3.100	Κ
+10.Prop 3.100	Λ
+10.Prop 3.100	Μ
+10.Prop 3.100	Ν
+10.Prop 3.100	Ξ
+10.Prop 3.101	Α
+10.Prop 3.101	Β
+10.Prop 3.101	Γ
+10.Prop 3.101	Δ
+10.Prop 3.101	Ε
+10.Prop 3.101	Ζ
+10.Prop 3.101	Η
+10.Prop 3.101	Θ
+10.Prop 3.101	Κ
+10.Prop 3.101	Λ
+10.Prop 3.101	Μ
+10.Prop 3.101	Ν
+10.Prop 3.101	Ξ
+10.Prop 3.102	Α
+10.Prop 3.102	Β
+10.Prop 3.102	Γ
+10.Prop 3.102	Δ
+10.Prop 3.102	Ε
+10.Prop 3.102	Ζ
+10.Prop 3.102	Η
+10.Prop 3.102	Θ
+10.Prop 3.102	Κ
+10.Prop 3.102	Λ
+10.Prop 3.102	Μ
+10.Prop 3.102	Ν
+10.Prop 3.102	Ξ
+10.Prop 3.103	Α
+10.Prop 3.103	Β
+10.Prop 3.103	Γ
+10.Prop 3.103	Δ
+10.Prop 3.103	Ε
+10.Prop 3.103	Ζ
+10.Prop 3.104	Α
+10.Prop 3.104	Β
+10.Prop 3.104	Γ
+10.Prop 3.104	Δ
+10.Prop 3.104	Ε
+10.Prop 3.104	Ζ
+10.Prop 3.105	Α
+10.Prop 3.105	Β
+10.Prop 3.105	Γ
+10.Prop 3.105	Δ
+10.Prop 3.105	Ε
+10.Prop 3.105	Ζ
+10.Prop 3.106	Α
+10.Prop 3.106	Β
+10.Prop 3.106	Γ
+10.Prop 3.106	Δ
+10.Prop 3.106	Ε
+10.Prop 3.106	Ζ
+10.Prop 3.107	Α
+10.Prop 3.107	Β
+10.Prop 3.107	Γ
+10.Prop 3.107	Δ
+10.Prop 3.107	Ε
+10.Prop 3.107	Ζ
+10.Prop 3.108	Β
+10.Prop 3.108	Γ
+10.Prop 3.108	Δ
+10.Prop 3.108	Ε
+10.Prop 3.108	Ζ
+10.Prop 3.108	Η
+10.Prop 3.108	Θ
+10.Prop 3.108	Κ
+10.Prop 3.108	Λ
+10.Prop 3.109	Β
+10.Prop 3.109	Γ
+10.Prop 3.109	Δ
+10.Prop 3.109	Ε
+10.Prop 3.109	Ζ
+10.Prop 3.109	Η
+10.Prop 3.109	Θ
+10.Prop 3.109	Κ
+10.Prop 3.109	Λ
+10.Prop 3.110	Β
+10.Prop 3.110	Γ
+10.Prop 3.110	Δ
+10.Prop 3.110	Ε
+10.Prop 3.110	Ζ
+10.Prop 3.110	Η
+10.Prop 3.110	Θ
+10.Prop 3.110	Κ
+10.Prop 3.110	Λ
+10.Prop 3.111	Α
+10.Prop 3.111	Β
+10.Prop 3.111	Γ
+10.Prop 3.111	Δ
+10.Prop 3.111	Ε
+10.Prop 3.111	Ζ
+10.Prop 3.111	Η
+10.Prop 3.112	Α
+10.Prop 3.112	Β
+10.Prop 3.112	Γ
+10.Prop 3.112	Δ
+10.Prop 3.112	Ε
+10.Prop 3.112	Ζ
+10.Prop 3.112	Η
+10.Prop 3.112	Θ
+10.Prop 3.112	Κ
+10.Prop 3.113	Α
+10.Prop 3.113	Β
+10.Prop 3.113	Γ
+10.Prop 3.113	Δ
+10.Prop 3.113	Ε
+10.Prop 3.113	Ζ
+10.Prop 3.113	Η
+10.Prop 3.113	Θ
+10.Prop 3.113	Κ
+10.Prop 3.114	Α
+10.Prop 3.114	Β
+10.Prop 3.114	Γ
+10.Prop 3.114	Δ
+10.Prop 3.114	Ε
+10.Prop 3.114	Ζ
+10.Prop 3.114	Η
+10.Prop 3.114	Θ
+10.Prop 3.114	Κ
+10.Prop 3.114	Λ
+10.Prop 3.114	Μ
+10.Prop 3.115	Α
+10.Prop 3.115	Β
+10.Prop 3.115	Γ
+10.Prop 3.115	Δ
+11.Prop.1	Α
+11.Prop.1	Β
+11.Prop.1	Γ
+11.Prop.1	Δ
+11.Prop.2	Α
+11.Prop.2	Β
+11.Prop.2	Γ
+11.Prop.2	Δ
+11.Prop.2	Ε
+11.Prop.2	Ζ
+11.Prop.2	Η
+11.Prop.2	Θ
+11.Prop.2	Κ
+11.Prop.3	Α
+11.Prop.3	Β
+11.Prop.3	Γ
+11.Prop.3	Δ
+11.Prop.3	Ε
+11.Prop.3	Ζ
+11.Prop.4	Α
+11.Prop.4	Β
+11.Prop.4	Γ
+11.Prop.4	Δ
+11.Prop.4	Ε
+11.Prop.4	Ζ
+11.Prop.4	Η
+11.Prop.4	Θ
+11.Prop.5	Α
+11.Prop.5	Β
+11.Prop.5	Γ
+11.Prop.5	Δ
+11.Prop.5	Ε
+11.Prop.5	Ζ
+11.Prop.6	Α
+11.Prop.6	Β
+11.Prop.6	Γ
+11.Prop.6	Δ
+11.Prop.6	Ε
+11.Prop.7	Α
+11.Prop.7	Β
+11.Prop.7	Γ
+11.Prop.7	Δ
+11.Prop.7	Ε
+11.Prop.7	Ζ
+11.Prop.7	Η
+11.Prop.8	Α
+11.Prop.8	Β
+11.Prop.8	Γ
+11.Prop.8	Δ
+11.Prop.8	Ε
+11.Prop.9	Α
+11.Prop.9	Β
+11.Prop.9	Γ
+11.Prop.9	Δ
+11.Prop.9	Ε
+11.Prop.9	Ζ
+11.Prop.9	Η
+11.Prop.9	Θ
+11.Prop.9	Κ
+11.Prop.10	Α
+11.Prop.10	Β
+11.Prop.10	Γ
+11.Prop.10	Δ
+11.Prop.10	Ε
+11.Prop.10	Ζ
+11.Prop.11	Α
+11.Prop.11	Β
+11.Prop.11	Γ
+11.Prop.11	Δ
+11.Prop.11	Ε
+11.Prop.11	Ζ
+11.Prop.11	Η
+11.Prop.11	Θ
+11.Prop.12	Α
+11.Prop.12	Β
+11.Prop.12	Γ
+11.Prop.12	Δ
+11.Prop.13	Α
+11.Prop.13	Β
+11.Prop.13	Γ
+11.Prop.13	Δ
+11.Prop.13	Ε
+11.Prop.14	Α
+11.Prop.14	Β
+11.Prop.14	Γ
+11.Prop.14	Δ
+11.Prop.14	Ε
+11.Prop.14	Ζ
+11.Prop.14	Η
+11.Prop.14	Θ
+11.Prop.14	Κ
+11.Prop.15	Α
+11.Prop.15	Β
+11.Prop.15	Γ
+11.Prop.15	Δ
+11.Prop.15	Ε
+11.Prop.15	Ζ
+11.Prop.15	Η
+11.Prop.15	Θ
+11.Prop.15	Κ
+11.Prop.16	Α
+11.Prop.16	Β
+11.Prop.16	Γ
+11.Prop.16	Δ
+11.Prop.16	Ε
+11.Prop.16	Ζ
+11.Prop.16	Η
+11.Prop.16	Θ
+11.Prop.16	Κ
+11.Prop.17	Α
+11.Prop.17	Β
+11.Prop.17	Γ
+11.Prop.17	Δ
+11.Prop.17	Ε
+11.Prop.17	Ζ
+11.Prop.17	Η
+11.Prop.17	Θ
+11.Prop.17	Κ
+11.Prop.17	Λ
+11.Prop.17	Μ
+11.Prop.17	Ν
+11.Prop.17	Ξ
+11.Prop.18	Α
+11.Prop.18	Β
+11.Prop.18	Γ
+11.Prop.18	Δ
+11.Prop.18	Ε
+11.Prop.18	Ζ
+11.Prop.18	Η
+11.Prop.19	Α
+11.Prop.19	Β
+11.Prop.19	Γ
+11.Prop.19	Δ
+11.Prop.19	Ε
+11.Prop.19	Ζ
+11.Prop.20	Α
+11.Prop.20	Β
+11.Prop.20	Γ
+11.Prop.20	Δ
+11.Prop.20	Ε
+11.Prop.21	Α
+11.Prop.21	Β
+11.Prop.21	Γ
+11.Prop.21	Δ
+11.Prop.22	Α
+11.Prop.22	Β
+11.Prop.22	Γ
+11.Prop.22	Δ
+11.Prop.22	Ε
+11.Prop.22	Ζ
+11.Prop.22	Η
+11.Prop.22	Θ
+11.Prop.22	Κ
+11.Prop.22	Λ
+11.Prop.23	Α
+11.Prop.23	Β
+11.Prop.23	Γ
+11.Prop.23	Δ
+11.Prop.23	Ε
+11.Prop.23	Ζ
+11.Prop.23	Η
+11.Prop.23	Θ
+11.Prop.23	Κ
+11.Prop.23	Λ
+11.Prop.23	Μ
+11.Prop.23	Ν
+11.Prop.23	Ξ
+11.Prop.23	Ο
+11.Prop.23	Π
+11.Prop.23	Ρ
+11.Prop.24	Α
+11.Prop.24	Β
+11.Prop.24	Γ
+11.Prop.24	Δ
+11.Prop.24	Ε
+11.Prop.24	Ζ
+11.Prop.24	Η
+11.Prop.24	Θ
+11.Prop.25	Α
+11.Prop.25	Β
+11.Prop.25	Γ
+11.Prop.25	Δ
+11.Prop.25	Ε
+11.Prop.25	Ζ
+11.Prop.25	Η
+11.Prop.25	Θ
+11.Prop.25	Ι
+11.Prop.25	Κ
+11.Prop.25	Λ
+11.Prop.25	Μ
+11.Prop.25	Ν
+11.Prop.25	Ξ
+11.Prop.25	Ο
+11.Prop.25	Π
+11.Prop.25	Ρ
+11.Prop.25	Σ
+11.Prop.25	Τ
+11.Prop.25	Υ
+11.Prop.25	Φ
+11.Prop.25	Χ
+11.Prop.25	Ψ
+11.Prop.25	Ω
+11.Prop.26	Α
+11.Prop.26	Β
+11.Prop.26	Γ
+11.Prop.26	Δ
+11.Prop.26	Ε
+11.Prop.26	Ζ
+11.Prop.26	Η
+11.Prop.26	Θ
+11.Prop.26	Κ
+11.Prop.26	Λ
+11.Prop.27	Α
+11.Prop.27	Β
+11.Prop.27	Γ
+11.Prop.27	Δ
+11.Prop.27	Ε
+11.Prop.27	Ζ
+11.Prop.27	Η
+11.Prop.27	Θ
+11.Prop.27	Κ
+11.Prop.27	Λ
+11.Prop.28	Α
+11.Prop.28	Β
+11.Prop.28	Γ
+11.Prop.28	Δ
+11.Prop.28	Ε
+11.Prop.28	Ζ
+11.Prop.28	Η
+11.Prop.28	Θ
+11.Prop.29	Α
+11.Prop.29	Β
+11.Prop.29	Γ
+11.Prop.29	Δ
+11.Prop.29	Ε
+11.Prop.29	Ζ
+11.Prop.29	Η
+11.Prop.29	Θ
+11.Prop.29	Κ
+11.Prop.29	Λ
+11.Prop.29	Μ
+11.Prop.29	Ν
+11.Prop.30	Α
+11.Prop.30	Β
+11.Prop.30	Γ
+11.Prop.30	Δ
+11.Prop.30	Ε
+11.Prop.30	Ζ
+11.Prop.30	Η
+11.Prop.30	Θ
+11.Prop.30	Κ
+11.Prop.30	Λ
+11.Prop.30	Μ
+11.Prop.30	Ν
+11.Prop.30	Ξ
+11.Prop.30	Ο
+11.Prop.30	Π
+11.Prop.30	Ρ
+11.Prop.31	Α
+11.Prop.31	Β
+11.Prop.31	Γ
+11.Prop.31	Δ
+11.Prop.31	Ε
+11.Prop.31	Ζ
+11.Prop.31	Η
+11.Prop.31	Θ
+11.Prop.31	Ι
+11.Prop.31	Κ
+11.Prop.31	Λ
+11.Prop.31	Μ
+11.Prop.31	Ν
+11.Prop.31	Ξ
+11.Prop.31	Ο
+11.Prop.31	Π
+11.Prop.31	Ρ
+11.Prop.31	Σ
+11.Prop.31	Τ
+11.Prop.31	Υ
+11.Prop.31	Φ
+11.Prop.31	Χ
+11.Prop.31	Ψ
+11.Prop.31	Ω
+11.Prop.32	Α
+11.Prop.32	Β
+11.Prop.32	Γ
+11.Prop.32	Δ
+11.Prop.32	Ε
+11.Prop.32	Ζ
+11.Prop.32	Η
+11.Prop.32	Θ
+11.Prop.32	Κ
+11.Prop.33	Α
+11.Prop.33	Β
+11.Prop.33	Γ
+11.Prop.33	Δ
+11.Prop.33	Ε
+11.Prop.33	Ζ
+11.Prop.33	Η
+11.Prop.33	Θ
+11.Prop.33	Κ
+11.Prop.33	Λ
+11.Prop.33	Μ
+11.Prop.33	Ν
+11.Prop.33	Ξ
+11.Prop.33	Ο
+11.Prop.33	Π
+11.Prop.33	Ρ
+11.Prop.34	Α
+11.Prop.34	Β
+11.Prop.34	Γ
+11.Prop.34	Δ
+11.Prop.34	Ε
+11.Prop.34	Ζ
+11.Prop.34	Η
+11.Prop.34	Θ
+11.Prop.34	Κ
+11.Prop.34	Λ
+11.Prop.34	Μ
+11.Prop.34	Ν
+11.Prop.34	Ξ
+11.Prop.34	Ο
+11.Prop.34	Π
+11.Prop.34	Ρ
+11.Prop.34	Σ
+11.Prop.34	Τ
+11.Prop.34	Υ
+11.Prop.34	Φ
+11.Prop.34	Χ
+11.Prop.34	Ψ
+11.Prop.34	Ω
+11.Prop.35	Α
+11.Prop.35	Β
+11.Prop.35	Γ
+11.Prop.35	Δ
+11.Prop.35	Ε
+11.Prop.35	Ζ
+11.Prop.35	Η
+11.Prop.35	Θ
+11.Prop.35	Κ
+11.Prop.35	Λ
+11.Prop.35	Μ
+11.Prop.35	Ν
+11.Prop.36	Α
+11.Prop.36	Β
+11.Prop.36	Γ
+11.Prop.36	Δ
+11.Prop.36	Ε
+11.Prop.36	Ζ
+11.Prop.36	Η
+11.Prop.36	Θ
+11.Prop.36	Κ
+11.Prop.36	Λ
+11.Prop.36	Μ
+11.Prop.36	Ν
+11.Prop.36	Ξ
+11.Prop.37	Α
+11.Prop.37	Β
+11.Prop.37	Γ
+11.Prop.37	Δ
+11.Prop.37	Ε
+11.Prop.37	Ζ
+11.Prop.37	Η
+11.Prop.37	Θ
+11.Prop.37	Κ
+11.Prop.37	Λ
+11.Prop.37	Μ
+11.Prop.37	Ν
+11.Prop.38	Α
+11.Prop.38	Β
+11.Prop.38	Γ
+11.Prop.38	Δ
+11.Prop.38	Ε
+11.Prop.38	Ζ
+11.Prop.38	Η
+11.Prop.38	Θ
+11.Prop.38	Κ
+11.Prop.38	Λ
+11.Prop.38	Μ
+11.Prop.38	Ν
+11.Prop.38	Ξ
+11.Prop.38	Ο
+11.Prop.38	Π
+11.Prop.38	Ρ
+11.Prop.38	Σ
+11.Prop.38	Τ
+11.Prop.38	Υ
+11.Prop.39	Α
+11.Prop.39	Β
+11.Prop.39	Γ
+11.Prop.39	Δ
+11.Prop.39	Ε
+11.Prop.39	Ζ
+11.Prop.39	Η
+11.Prop.39	Θ
+11.Prop.39	Κ
+11.Prop.39	Λ
+11.Prop.39	Μ
+11.Prop.39	Ν
+11.Prop.39	Ξ
+11.Prop.39	Ο
+12.Prop.1	Α
+12.Prop.1	Β
+12.Prop.1	Γ
+12.Prop.1	Δ
+12.Prop.1	Ε
+12.Prop.1	Ζ
+12.Prop.1	Η
+12.Prop.1	Θ
+12.Prop.1	Κ
+12.Prop.1	Λ
+12.Prop.1	Μ
+12.Prop.1	Ν
+12.Prop.2	Α
+12.Prop.2	Β
+12.Prop.2	Γ
+12.Prop.2	Δ
+12.Prop.2	Ε
+12.Prop.2	Ζ
+12.Prop.2	Η
+12.Prop.2	Θ
+12.Prop.2	Κ
+12.Prop.2	Λ
+12.Prop.2	Μ
+12.Prop.2	Ν
+12.Prop.2	Ξ
+12.Prop.2	Ο
+12.Prop.2	Π
+12.Prop.2	Ρ
+12.Prop.2	Σ
+12.Prop.2	Τ
+12.Prop.3	Α
+12.Prop.3	Β
+12.Prop.3	Γ
+12.Prop.3	Δ
+12.Prop.3	Ε
+12.Prop.3	Ζ
+12.Prop.3	Η
+12.Prop.3	Θ
+12.Prop.3	Κ
+12.Prop.3	Λ
+12.Prop.4	Α
+12.Prop.4	Β
+12.Prop.4	Γ
+12.Prop.4	Δ
+12.Prop.4	Ε
+12.Prop.4	Ζ
+12.Prop.4	Η
+12.Prop.4	Θ
+12.Prop.4	Κ
+12.Prop.4	Λ
+12.Prop.4	Μ
+12.Prop.4	Ν
+12.Prop.4	Ξ
+12.Prop.4	Ο
+12.Prop.4	Π
+12.Prop.4	Ρ
+12.Prop.4	Σ
+12.Prop.4	Τ
+12.Prop.4	Υ
+12.Prop.4	Φ
+12.Prop.5	Α
+12.Prop.5	Β
+12.Prop.5	Γ
+12.Prop.5	Δ
+12.Prop.5	Ε
+12.Prop.5	Ζ
+12.Prop.5	Η
+12.Prop.5	Θ
+12.Prop.5	Π
+12.Prop.5	Ρ
+12.Prop.5	Σ
+12.Prop.5	Τ
+12.Prop.5	Υ
+12.Prop.5	Χ
+12.Prop.6	Α
+12.Prop.6	Β
+12.Prop.6	Γ
+12.Prop.6	Δ
+12.Prop.6	Ε
+12.Prop.6	Ζ
+12.Prop.6	Η
+12.Prop.6	Θ
+12.Prop.6	Κ
+12.Prop.6	Λ
+12.Prop.6	Μ
+12.Prop.6	Ν
+12.Prop.8	Α
+12.Prop.8	Β
+12.Prop.8	Γ
+12.Prop.8	Δ
+12.Prop.8	Ε
+12.Prop.8	Ζ
+12.Prop.8	Η
+12.Prop.8	Θ
+12.Prop.8	Κ
+12.Prop.8	Λ
+12.Prop.8	Μ
+12.Prop.8	Ν
+12.Prop.8	Ξ
+12.Prop.8	Ο
+12.Prop.8	Π
+12.Prop.8	Ρ
+12.Prop.9	Α
+12.Prop.9	Β
+12.Prop.9	Γ
+12.Prop.9	Δ
+12.Prop.9	Ε
+12.Prop.9	Ζ
+12.Prop.9	Η
+12.Prop.9	Θ
+12.Prop.9	Λ
+12.Prop.9	Μ
+12.Prop.9	Ο
+12.Prop.9	Π
+12.Prop.10	Α
+12.Prop.10	Β
+12.Prop.10	Γ
+12.Prop.10	Δ
+12.Prop.10	Ε
+12.Prop.10	Ζ
+12.Prop.10	Η
+12.Prop.10	Θ
+12.Prop.11	Α
+12.Prop.11	Β
+12.Prop.11	Γ
+12.Prop.11	Δ
+12.Prop.11	Ε
+12.Prop.11	Ζ
+12.Prop.11	Η
+12.Prop.11	Θ
+12.Prop.11	Κ
+12.Prop.11	Λ
+12.Prop.11	Μ
+12.Prop.11	Ν
+12.Prop.11	Ξ
+12.Prop.11	Ο
+12.Prop.11	Π
+12.Prop.11	Ρ
+12.Prop.11	Σ
+12.Prop.11	Τ
+12.Prop.11	Υ
+12.Prop.11	Φ
+12.Prop.11	Χ
+12.Prop.11	Ψ
+12.Prop.12	Α
+12.Prop.12	Β
+12.Prop.12	Γ
+12.Prop.12	Δ
+12.Prop.12	Ε
+12.Prop.12	Ζ
+12.Prop.12	Η
+12.Prop.12	Θ
+12.Prop.12	Κ
+12.Prop.12	Λ
+12.Prop.12	Μ
+12.Prop.12	Ν
+12.Prop.12	Ξ
+12.Prop.12	Ο
+12.Prop.12	Π
+12.Prop.12	Ρ
+12.Prop.12	Σ
+12.Prop.12	Τ
+12.Prop.12	Υ
+12.Prop.12	Φ
+12.Prop.12	Χ
+12.Prop.13	Α
+12.Prop.13	Β
+12.Prop.13	Γ
+12.Prop.13	Δ
+12.Prop.13	Ε
+12.Prop.13	Ζ
+12.Prop.13	Η
+12.Prop.13	Θ
+12.Prop.13	Κ
+12.Prop.13	Λ
+12.Prop.13	Μ
+12.Prop.13	Ν
+12.Prop.13	Ξ
+12.Prop.13	Ο
+12.Prop.13	Π
+12.Prop.13	Ρ
+12.Prop.13	Σ
+12.Prop.13	Τ
+12.Prop.13	Υ
+12.Prop.13	Φ
+12.Prop.13	Χ
+12.Prop.14	Α
+12.Prop.14	Β
+12.Prop.14	Γ
+12.Prop.14	Δ
+12.Prop.14	Ε
+12.Prop.14	Ζ
+12.Prop.14	Η
+12.Prop.14	Θ
+12.Prop.14	Κ
+12.Prop.14	Λ
+12.Prop.14	Μ
+12.Prop.14	Ν
+12.Prop.15	Α
+12.Prop.15	Β
+12.Prop.15	Γ
+12.Prop.15	Δ
+12.Prop.15	Ε
+12.Prop.15	Ζ
+12.Prop.15	Η
+12.Prop.15	Θ
+12.Prop.15	Κ
+12.Prop.15	Λ
+12.Prop.15	Μ
+12.Prop.15	Ν
+12.Prop.15	Ξ
+12.Prop.15	Ο
+12.Prop.15	Π
+12.Prop.15	Ρ
+12.Prop.15	Σ
+12.Prop.15	Τ
+12.Prop.15	Υ
+12.Prop.16	Α
+12.Prop.16	Β
+12.Prop.16	Γ
+12.Prop.16	Δ
+12.Prop.16	Ε
+12.Prop.16	Ζ
+12.Prop.16	Η
+12.Prop.16	Θ
+12.Prop.16	Κ
+12.Prop.16	Λ
+12.Prop.16	Μ
+12.Prop.16	Ν
+12.Prop.17	Α
+12.Prop.17	Β
+12.Prop.17	Γ
+12.Prop.17	Δ
+12.Prop.17	Ε
+12.Prop.17	Ζ
+12.Prop.17	Η
+12.Prop.17	Θ
+12.Prop.17	Κ
+12.Prop.17	Λ
+12.Prop.17	Μ
+12.Prop.17	Ν
+12.Prop.17	Ξ
+12.Prop.17	Ο
+12.Prop.17	Π
+12.Prop.17	Ρ
+12.Prop.17	Σ
+12.Prop.17	Τ
+12.Prop.17	Υ
+12.Prop.17	Φ
+12.Prop.17	Χ
+12.Prop.17	Ψ
+12.Prop.17	Ω
+12.Prop.18	Α
+12.Prop.18	Β
+12.Prop.18	Γ
+12.Prop.18	Δ
+12.Prop.18	Ε
+12.Prop.18	Ζ
+12.Prop.18	Η
+12.Prop.18	Θ
+12.Prop.18	Κ
+12.Prop.18	Λ
+12.Prop.18	Μ
+12.Prop.18	Ν
+13.Prop.1	Α
+13.Prop.1	Β
+13.Prop.1	Γ
+13.Prop.1	Δ
+13.Prop.1	Ε
+13.Prop.1	Ζ
+13.Prop.1	Η
+13.Prop.1	Θ
+13.Prop.1	Κ
+13.Prop.1	Λ
+13.Prop.1	Μ
+13.Prop.1	Ν
+13.Prop.1	Ξ
+13.Prop.1	Ο
+13.Prop.2	Α
+13.Prop.2	Β
+13.Prop.2	Γ
+13.Prop.2	Δ
+13.Prop.2	Ε
+13.Prop.2	Ζ
+13.Prop.2	Η
+13.Prop.2	Θ
+13.Prop.2	Κ
+13.Prop.2	Λ
+13.Prop.2	Μ
+13.Prop.2	Ν
+13.Prop.2	Ξ
+13.Prop.3	Α
+13.Prop.3	Β
+13.Prop.3	Γ
+13.Prop.3	Δ
+13.Prop.3	Ε
+13.Prop.3	Ζ
+13.Prop.3	Η
+13.Prop.3	Θ
+13.Prop.3	Κ
+13.Prop.3	Λ
+13.Prop.3	Μ
+13.Prop.3	Ν
+13.Prop.3	Ξ
+13.Prop.3	Ο
+13.Prop.3	Π
+13.Prop.3	Ρ
+13.Prop.3	Σ
+13.Prop.4	Α
+13.Prop.4	Β
+13.Prop.4	Γ
+13.Prop.4	Δ
+13.Prop.4	Ε
+13.Prop.4	Ζ
+13.Prop.4	Η
+13.Prop.4	Θ
+13.Prop.4	Κ
+13.Prop.4	Λ
+13.Prop.4	Μ
+13.Prop.4	Ν
+13.Prop.6	Α
+13.Prop.6	Β
+13.Prop.6	Γ
+13.Prop.6	Δ
+13.Prop.7	Α
+13.Prop.7	Β
+13.Prop.7	Γ
+13.Prop.7	Δ
+13.Prop.7	Ε
+13.Prop.7	Ζ
+13.Prop.8	Α
+13.Prop.8	Β
+13.Prop.8	Γ
+13.Prop.8	Δ
+13.Prop.8	Ε
+13.Prop.8	Θ
+13.Prop.9	Α
+13.Prop.9	Β
+13.Prop.9	Γ
+13.Prop.9	Δ
+13.Prop.9	Ε
+13.Prop.10	Α
+13.Prop.10	Β
+13.Prop.10	Γ
+13.Prop.10	Δ
+13.Prop.10	Ε
+13.Prop.10	Ζ
+13.Prop.10	Η
+13.Prop.10	Θ
+13.Prop.10	Κ
+13.Prop.10	Λ
+13.Prop.10	Μ
+13.Prop.10	Ν
+13.Prop.11	Α
+13.Prop.11	Β
+13.Prop.11	Γ
+13.Prop.11	Δ
+13.Prop.11	Ε
+13.Prop.11	Ζ
+13.Prop.11	Η
+13.Prop.11	Θ
+13.Prop.11	Κ
+13.Prop.11	Λ
+13.Prop.11	Μ
+13.Prop.11	Ν
+13.Prop.12	Α
+13.Prop.12	Β
+13.Prop.12	Γ
+13.Prop.12	Δ
+13.Prop.12	Ε
+13.Prop.13	Α
+13.Prop.13	Β
+13.Prop.13	Γ
+13.Prop.13	Δ
+13.Prop.13	Ε
+13.Prop.13	Ζ
+13.Prop.13	Η
+13.Prop.13	Θ
+13.Prop.13	Κ
+13.Prop.13	Λ
+13.Prop.14	Α
+13.Prop.14	Β
+13.Prop.14	Γ
+13.Prop.14	Δ
+13.Prop.14	Ε
+13.Prop.14	Ζ
+13.Prop.14	Η
+13.Prop.14	Θ
+13.Prop.14	Κ
+13.Prop.14	Λ
+13.Prop.14	Μ
+13.Prop.15	Α
+13.Prop.15	Β
+13.Prop.15	Γ
+13.Prop.15	Δ
+13.Prop.15	Ε
+13.Prop.15	Ζ
+13.Prop.15	Η
+13.Prop.15	Θ
+13.Prop.15	Κ
+13.Prop.15	Λ
+13.Prop.15	Μ
+13.Prop.15	Ν
+13.Prop.16	Α
+13.Prop.16	Β
+13.Prop.16	Γ
+13.Prop.16	Δ
+13.Prop.16	Ε
+13.Prop.16	Ζ
+13.Prop.16	Η
+13.Prop.16	Θ
+13.Prop.16	Κ
+13.Prop.16	Λ
+13.Prop.16	Μ
+13.Prop.16	Ν
+13.Prop.16	Ξ
+13.Prop.16	Ο
+13.Prop.16	Π
+13.Prop.16	Ρ
+13.Prop.16	Σ
+13.Prop.16	Τ
+13.Prop.16	Υ
+13.Prop.16	Φ
+13.Prop.16	Χ
+13.Prop.16	Ψ
+13.Prop.16	Ω
+13.Prop.17	Α
+13.Prop.17	Β
+13.Prop.17	Γ
+13.Prop.17	Δ
+13.Prop.17	Ε
+13.Prop.17	Ζ
+13.Prop.17	Η
+13.Prop.17	Θ
+13.Prop.17	Κ
+13.Prop.17	Λ
+13.Prop.17	Μ
+13.Prop.17	Ν
+13.Prop.17	Ξ
+13.Prop.17	Ο
+13.Prop.17	Π
+13.Prop.17	Ρ
+13.Prop.17	Σ
+13.Prop.17	Τ
+13.Prop.17	Υ
+13.Prop.17	Φ
+13.Prop.17	Χ
+13.Prop.17	Ψ
+13.Prop.17	Ω
+13.Prop.18	Α
+13.Prop.18	Β
+13.Prop.18	Γ
+13.Prop.18	Δ
+13.Prop.18	Ε
+13.Prop.18	Ζ
+13.Prop.18	Η
+13.Prop.18	Θ
+13.Prop.18	Κ
+13.Prop.18	Λ
+13.Prop.18	Μ
+13.Prop.18	Ν
