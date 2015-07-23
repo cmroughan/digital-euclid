@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="984" height="208">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#9B8B62;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M292 66L294 92"/>
+<path style="stroke:#01F9BD;fill:none;stroke-width:4" d="M292 66L294 92"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="292" cy="66"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="294" cy="92"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M420 68L420 85"/>
+<path style="stroke:#FDD14B;fill:none;stroke-width:4" d="M420 68L420 85"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="420" cy="68"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="420" cy="85"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M74 78L296 81.9853L384 82.9853L421 83"/>
+<path style="stroke:#1CED8A;fill:none;stroke-width:4" d="M74 78L296 81.9853L384 82.9853L421 83"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="74" cy="78"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="421" cy="83"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M421 83L743 87L894 85"/>
+<path style="stroke:#C39B6D;fill:none;stroke-width:4" d="M421 83L743 87L894 85"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="421" cy="83"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="894" cy="85"/>
+</svg>

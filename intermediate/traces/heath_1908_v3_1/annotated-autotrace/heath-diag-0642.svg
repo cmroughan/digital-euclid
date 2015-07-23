@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="224" height="872">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#DAF73A;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M147 153C147 242.315 143 331.645 143 421C143 441.349 142 461.613 142 482C142 491.745 138.588 501.956 151 502"/>
+<path style="stroke:#9771DC;fill:none;stroke-width:4" d="M147 153C147 242.315 143 331.645 143 421C143 441.349 142 461.613 142 482C142 491.745 138.588 501.956 151 502"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="147" cy="153"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="151" cy="502"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M128 501L139.972 504.473L141 520L141 558L138.015 648L136 732"/>
+<path style="stroke:#42F79B;fill:none;stroke-width:4" d="M128 501L139.972 504.473L141 520L141 558L138.015 648L136 732"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="128" cy="501"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="136" cy="732"/>
+</svg>

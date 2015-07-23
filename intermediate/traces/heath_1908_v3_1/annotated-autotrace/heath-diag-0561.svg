@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="1584" height="372">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#1480D6;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M63 109C71.4081 104.954 82.9789 106.972 92 107.83C103.486 108.923 115.463 108 127 108C180.734 108 234.326 110 288 110"/>
+<path style="stroke:#B2F254;fill:none;stroke-width:4" d="M63 109C71.4081 104.954 82.9789 106.972 92 107.83C103.486 108.923 115.463 108 127 108C180.734 108 234.326 110 288 110"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="63" cy="109"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="288" cy="110"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M297 110L503 111.015L590 112.039L616 112"/>
+<path style="stroke:#9C613D;fill:none;stroke-width:4" d="M297 110L503 111.015L590 112.039L616 112"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="297" cy="110"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="616" cy="112"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M811 112L1027 114L1164 114"/>
+<path style="stroke:#F5CE7E;fill:none;stroke-width:4" d="M811 112L1027 114L1164 114"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="811" cy="112"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="1164" cy="114"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M1331 114C1368.38 114 1405.67 116.44 1443 115.996C1465.6 115.727 1490.71 112.047 1513 116"/>
+<path style="stroke:#E035CD;fill:none;stroke-width:4" d="M1331 114C1368.38 114 1405.67 116.44 1443 115.996C1465.6 115.727 1490.71 112.047 1513 116"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="1331" cy="114"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="1513" cy="116"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M426 217L454 217L513 216.999L696 219"/>
+<path style="stroke:#4FE0A9;fill:none;stroke-width:4" d="M426 217L454 217L513 216.999L696 219"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="426" cy="217"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="696" cy="219"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M459 323L514 324L603 325"/>
+<path style="stroke:#3B4EAD;fill:none;stroke-width:4" d="M459 323L514 324L603 325"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="459" cy="323"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="603" cy="325"/>
+</svg>

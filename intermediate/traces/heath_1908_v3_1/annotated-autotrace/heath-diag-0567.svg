@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="1264" height="224">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#E29A1B;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M107 76L224 75.9954L288 76"/>
+<path style="stroke:#EE7399;fill:none;stroke-width:4" d="M107 76L224 75.9954L288 76"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="107" cy="76"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="288" cy="76"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M301 76L682 77"/>
+<path style="stroke:#A5652C;fill:none;stroke-width:4" d="M301 76L682 77"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="301" cy="76"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="682" cy="77"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M893 79L1095 78L1161 78L1196 77"/>
+<path style="stroke:#6D7BC9;fill:none;stroke-width:4" d="M893 79L1095 78L1161 78L1196 77"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="893" cy="79"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="1196" cy="77"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M1128 162C1122.99 167.204 1116.77 166 1110 166C1097.37 166 1084.62 165.487 1072 166.039C1018.75 168.371 965.208 165.715 912 168"/>
+<path style="stroke:#B93AFE;fill:none;stroke-width:4" d="M1128 162C1122.99 167.204 1116.77 166 1110 166C1097.37 166 1084.62 165.487 1072 166.039C1018.75 168.371 965.208 165.715 912 168"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="1128" cy="162"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="912" cy="168"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M125 164L549 164"/>
+<path style="stroke:#346104;fill:none;stroke-width:4" d="M125 164L549 164"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="125" cy="164"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="549" cy="164"/>
+</svg>

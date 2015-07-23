@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="416" height="992">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#B352A6;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M128 102L124.015 408L123.949 569L118 899"/>
+<path style="stroke:#8E9168;fill:none;stroke-width:4" d="M128 102L124.015 408L123.949 569L118 899"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="128" cy="102"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="118" cy="899"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M309 109L307.871 237L308 280"/>
+<path style="stroke:#5E8AE8;fill:none;stroke-width:4" d="M309 109L307.871 237L308 280"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="309" cy="109"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="308" cy="280"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M125 562L138 563"/>
+<path style="stroke:#751490;fill:none;stroke-width:4" d="M125 562L138 563"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="125" cy="562"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="138" cy="563"/>
+</svg>

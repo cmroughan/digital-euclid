@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="876" height="330">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#3BC76C;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M534 109C532.786 119.864 517.587 118.098 509 117.996C481.301 117.668 453.823 118 426 118C330.217 118 233.747 122.232 138 118.039C115.987 117.075 93.9666 118.734 72 117"/>
+<path style="stroke:#26C4F9;fill:none;stroke-width:4" d="M534 109C532.786 119.864 517.587 118.098 509 117.996C481.301 117.668 453.823 118 426 118C330.217 118 233.747 122.232 138 118.039C115.987 117.075 93.9666 118.734 72 117"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="534" cy="109"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="72" cy="117"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M534 134C533.47 129.809 531.162 122.045 534.603 118.603C537.87 115.337 546.759 117 551 117C565.647 117 580.431 115.658 595 116.015C643.941 117.214 693.008 115.176 742 115.179C761.505 115.18 781.459 117.47 801 115"/>
+<path style="stroke:#C4D3E6;fill:none;stroke-width:4" d="M534 134C533.47 129.809 531.162 122.045 534.603 118.603C537.87 115.337 546.759 117 551 117C565.647 117 580.431 115.658 595 116.015C643.941 117.214 693.008 115.176 742 115.179C761.505 115.18 781.459 117.47 801 115"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="534" cy="134"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="801" cy="115"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M489 262L489 286"/>
+<path style="stroke:#C1C9D3;fill:none;stroke-width:4" d="M489 262L489 286"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="489" cy="262"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="489" cy="286"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M211 271L666 267"/>
+<path style="stroke:#18BA9E;fill:none;stroke-width:4" d="M211 271L666 267"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="211" cy="271"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="666" cy="267"/>
+</svg>

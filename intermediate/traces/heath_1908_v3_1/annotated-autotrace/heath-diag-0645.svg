@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="1032" height="240">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#876345;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M345 148L345 156C361.551 152.927 379.341 155.425 396 155.957C417.745 156.65 440.13 155 462 155C543.532 155 625.553 156.027 707 156.996C734.991 157.329 763.007 157 791 157C801.089 157 818.551 162.766 817 148"/>
+<path style="stroke:#E3963B;fill:none;stroke-width:4" d="M345 148L345 156C361.551 152.927 379.341 155.425 396 155.957C417.745 156.65 440.13 155 462 155C543.532 155 625.553 156.027 707 156.996C734.991 157.329 763.007 157 791 157C801.089 157 818.551 162.766 817 148"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="345" cy="148"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="817" cy="148"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M78 157C100.932 152.743 125.865 155.998 149 155.998C189.234 155.998 229.679 155 270 155C286.373 155 302.689 155.442 319 155.871C327.008 156.082 336.637 153.462 344 157"/>
+<path style="stroke:#948A87;fill:none;stroke-width:4" d="M78 157C100.932 152.743 125.865 155.998 149 155.998C189.234 155.998 229.679 155 270 155C286.373 155 302.689 155.442 319 155.871C327.008 156.082 336.637 153.462 344 157"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="78" cy="157"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="344" cy="157"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M344 157L345 170"/>
+<path style="stroke:#8E9EC9;fill:none;stroke-width:4" d="M344 157L345 170"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="344" cy="157"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="345" cy="170"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M817 157L854 158.09L959 160"/>
+<path style="stroke:#13A2F5;fill:none;stroke-width:4" d="M817 157L854 158.09L959 160"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="817" cy="157"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="959" cy="160"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M818 160L818 171"/>
+<path style="stroke:#C41775;fill:none;stroke-width:4" d="M818 160L818 171"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="818" cy="160"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="818" cy="171"/>
+</svg>

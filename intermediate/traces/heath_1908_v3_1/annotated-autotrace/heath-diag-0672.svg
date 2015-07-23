@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="824" height="344">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#0EC0D9;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M448 118L448 135"/>
+<path style="stroke:#FC63AD;fill:none;stroke-width:4" d="M448 118L448 135"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="448" cy="118"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="448" cy="135"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M145 131C213.911 129.578 283.003 130 352 130C367.813 130 384.319 128.404 400 129.209C414.083 129.933 432.342 133.037 446 129"/>
+<path style="stroke:#FEEF51;fill:none;stroke-width:4" d="M145 131C213.911 129.578 283.003 130 352 130C367.813 130 384.319 128.404 400 129.209C414.083 129.933 432.342 133.037 446 129"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="145" cy="131"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="446" cy="129"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M449 131C462.066 128.574 474.932 130.237 488 129.985C518.643 129.393 549.346 130 580 130C602.782 130 629.762 124.706 652 130"/>
+<path style="stroke:#8017EB;fill:none;stroke-width:4" d="M449 131C462.066 128.574 474.932 130.237 488 129.985C518.643 129.393 549.346 130 580 130C602.782 130 629.762 124.706 652 130"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="449" cy="131"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="652" cy="130"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M498 256C494.959 260.411 478.563 259 473 259C449.524 259.002 425.379 256.945 402 259.17C379.896 261.273 357.218 260 335 260C273.966 260 211.873 256.79 151 260.845C133.466 262.013 115.576 261 98 261C90.3996 261 80.834 259.353 74 263"/>
+<path style="stroke:#36A6E6;fill:none;stroke-width:4" d="M498 256C494.959 260.411 478.563 259 473 259C449.524 259.002 425.379 256.945 402 259.17C379.896 261.273 357.218 260 335 260C273.966 260 211.873 256.79 151 260.845C133.466 262.013 115.576 261 98 261C90.3996 261 80.834 259.353 74 263"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="498" cy="256"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="74" cy="263"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M499 268C496.828 258.427 504.4 258 512 258L557 258L753 258"/>
+<path style="stroke:#FDD8F2;fill:none;stroke-width:4" d="M499 268C496.828 258.427 504.4 258 512 258L557 258L753 258"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="499" cy="268"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="753" cy="258"/>
+</svg>

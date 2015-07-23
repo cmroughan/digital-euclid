@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="536" height="960">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#807FFA;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M302 99L301.015 221L300.961 312L299.545 391L300 414"/>
+<path style="stroke:#EEAED7;fill:none;stroke-width:4" d="M302 99L301.015 221L300.961 312L299.545 391L300 414"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="302" cy="99"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="300" cy="414"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M136 106L134.079 502L133.455 596L134 648"/>
+<path style="stroke:#D08CB4;fill:none;stroke-width:4" d="M136 106L134.079 502L133.455 596L134 648"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="136" cy="106"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="134" cy="648"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M459 126C465.834 149.12 460.552 177.998 462.089 202C464.397 238.044 461.896 274.021 461.015 310C459.844 357.757 461 405.342 461 453C461 478.332 461.121 503.668 460.999 529C460.963 536.457 462.334 551.288 453 552"/>
+<path style="stroke:#7F3137;fill:none;stroke-width:4" d="M459 126C465.834 149.12 460.552 177.998 462.089 202C464.397 238.044 461.896 274.021 461.015 310C459.844 357.757 461 405.342 461 453C461 478.332 461.121 503.668 460.999 529C460.963 536.457 462.334 551.288 453 552"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="459" cy="126"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="453" cy="552"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M131 471L133 471"/>
+<path style="stroke:#6D7E87;fill:none;stroke-width:4" d="M131 471L133 471"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="131" cy="471"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="133" cy="471"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M474 549L460 553C464.8 569.239 459.837 590.333 459.104 607C458.684 616.554 460.751 626.432 460.985 636C461.297 648.7 459.441 661.341 459.129 674C458.859 684.918 460.866 696.071 460.996 707C461.46 746.015 461.466 785.153 461.004 824C460.806 840.614 462.084 857.507 460 874"/>
+<path style="stroke:#97A170;fill:none;stroke-width:4" d="M474 549L460 553C464.8 569.239 459.837 590.333 459.104 607C458.684 616.554 460.751 626.432 460.985 636C461.297 648.7 459.441 661.341 459.129 674C458.859 684.918 460.866 696.071 460.996 707C461.46 746.015 461.466 785.153 461.004 824C460.806 840.614 462.084 857.507 460 874"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="474" cy="549"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="460" cy="874"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M297 566L296 837"/>
+<path style="stroke:#8C33F8;fill:none;stroke-width:4" d="M297 566L296 837"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="297" cy="566"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="296" cy="837"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="968" height="256">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#620026;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M773 141L773 165"/>
+<path style="stroke:#9EA6C4;fill:none;stroke-width:4" d="M773 141L773 165"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="773" cy="141"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="773" cy="165"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M315 147L315 165"/>
+<path style="stroke:#C04983;fill:none;stroke-width:4" d="M315 147L315 165"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="315" cy="147"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="315" cy="165"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M773 151L896 151"/>
+<path style="stroke:#2E2E8A;fill:none;stroke-width:4" d="M773 151L896 151"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="773" cy="151"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="896" cy="151"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M71 156C86.0162 163.226 111.704 157.414 128 157.015C172.923 155.914 218.109 156 263 156C383.372 156 503.593 153.759 624 153.178C654.939 153.029 686.016 153 717 153C735.202 153 753.941 154.282 772 152"/>
+<path style="stroke:#82BC5E;fill:none;stroke-width:4" d="M71 156C86.0162 163.226 111.704 157.414 128 157.015C172.923 155.914 218.109 156 263 156C383.372 156 503.593 153.759 624 153.178C654.939 153.029 686.016 153 717 153C735.202 153 753.941 154.282 772 152"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="71" cy="156"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="772" cy="152"/>
+</svg>

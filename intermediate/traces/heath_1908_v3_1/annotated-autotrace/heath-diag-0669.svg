@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="848" height="304">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#C469DA;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M456 111C455.869 122.102 446.669 120 438 120C420.518 120 402.35 117.809 385 119.228C354.426 121.729 323.587 120.368 293 120.004C246.258 119.448 199.577 120 153 120"/>
+<path style="stroke:#81E055;fill:none;stroke-width:4" d="M456 111C455.869 122.102 446.669 120 438 120C420.518 120 402.35 117.809 385 119.228C354.426 121.729 323.587 120.368 293 120.004C246.258 119.448 199.577 120 153 120"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="456" cy="111"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="153" cy="120"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M457 130L457 120L668 119"/>
+<path style="stroke:#E6486E;fill:none;stroke-width:4" d="M457 130L457 120L668 119"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="457" cy="130"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="668" cy="119"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M506 241L507 258"/>
+<path style="stroke:#93BF95;fill:none;stroke-width:4" d="M506 241L507 258"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="506" cy="241"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="507" cy="258"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M507 248L758 249"/>
+<path style="stroke:#8B64D8;fill:none;stroke-width:4" d="M507 248L758 249"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="507" cy="248"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="758" cy="249"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M79 250L372 249.921L461 248.996L506 249"/>
+<path style="stroke:#D18CDC;fill:none;stroke-width:4" d="M79 250L372 249.921L461 248.996L506 249"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="79" cy="250"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="506" cy="249"/>
+</svg>

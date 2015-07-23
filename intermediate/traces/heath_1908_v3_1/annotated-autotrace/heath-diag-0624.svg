@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="1072" height="264">
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M"/>
+<path style="stroke:#E70514;fill:none;stroke-width:4" d="M"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M705 135L705 157"/>
+<path style="stroke:#91DDCA;fill:none;stroke-width:4" d="M705 135L705 157"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="705" cy="135"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="705" cy="157"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M554 139C553.114 150.643 538.276 147.003 530 147C504.614 146.99 479.441 145.99 454 146L177 146C157.62 146 138.433 146.093 119 145.999C112.32 145.967 101.346 143.551 95.3179 147.282C91.8548 149.426 93 155.541 93 159"/>
+<path style="stroke:#323715;fill:none;stroke-width:4" d="M554 139C553.114 150.643 538.276 147.003 530 147C504.614 146.99 479.441 145.99 454 146L177 146C157.62 146 138.433 146.093 119 145.999C112.32 145.967 101.346 143.551 95.3179 147.282C91.8548 149.426 93 155.541 93 159"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="554" cy="139"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="93" cy="159"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M974 140C973.344 148.594 965.761 147 959 147L912 147L772 147C752.279 147 725.876 151.579 707 146"/>
+<path style="stroke:#D6B83D;fill:none;stroke-width:4" d="M974 140C973.344 148.594 965.761 147 959 147L912 147L772 147C752.279 147 725.876 151.579 707 146"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="974" cy="140"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="707" cy="146"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M554 164C552.894 160.259 551.188 150.805 554.603 147.832C556.862 145.866 561.274 146.968 564 146.996C571.998 147.078 580.001 147 588 147L705 147"/>
+<path style="stroke:#0FBBC4;fill:none;stroke-width:4" d="M554 164C552.894 160.259 551.188 150.805 554.603 147.832C556.862 145.866 561.274 146.968 564 146.996C571.998 147.078 580.001 147 588 147L705 147"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="554" cy="164"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="705" cy="147"/>
+<path style="stroke:#000000;fill:none;stroke-width:5" d="M974 147L975 161"/>
+<path style="stroke:#0279D1;fill:none;stroke-width:4" d="M974 147L975 161"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="974" cy="147"/>
+<circle stroke="#000000" fill="none" stroke-width="2" r="15" cx="975" cy="161"/>
+</svg>
