@@ -1,8 +1,0 @@
-import os
-path = raw_input("Path: ")
-extension = path.split('/')[-2]
-for filename in os.listdir(path):
-  prefix, num = filename[:-4].split('21-')
-  num = num.zfill(4)
-  new_filename = prefix + "21_" + num + "." + extension
-  os.rename(os.path.join(path, filename), os.path.join(path, new_filename))
