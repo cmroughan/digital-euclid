@@ -1,0 +1,37 @@
+import os
+import sys
+from os import listdir
+from gamera.core import *
+init_gamera()
+
+path = sys.argv[-1]
+
+fileList = listdir(path)
+
+for f in fileList:
+  if ".png" not in f:
+    pass
+
+  else:
+    img = load_image(path + f)
+
+    highlight = img.to_rgb()
+
+    ccs = img.cc_analysis()
+
+    for c in ccs:
+      a = (float(c.nrows)/float(img.nrows)) * (float(c.ncols)/float(img.ncols))
+      ar = float(c.nrows) / float(c.ncols)
+
+      if ar < 4 and ar > 0.25:
+        if a < 0.05:
+          highlight.highlight(c, RGBPixel(125,125,125))
+
+      # Catches and removes anything on the edge
+      if c.offset_x == 0 or c.offset_y == 0 or (c.offset_x + c.ncols == img.ncols) or (c.offset_y + c.nrows == img.nrows):
+        if a < 0.05:
+          highlight.highlight(c, RGBPixel(255,255,255))
+          c.fill_white()
+          del c
+
+    highlight.save_PNG(path[:-3] + "/nolabel/" + f)

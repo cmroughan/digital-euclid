@@ -1,0 +1,1 @@
+Experimental, Gamera-based scripts to determine effective means of identifying and extracting diagrammatic regions of interest on a page or series of pages.

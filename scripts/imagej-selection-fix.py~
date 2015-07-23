@@ -1,0 +1,62 @@
+from os import listdir
+
+path = raw_input("Path: ")
+workID = path.split('/')[7]
+print workID
+
+fileList = listdir(path)
+
+for eachFile in fileList:
+  inFile = open(path + '/' + eachFile)
+  rawText = inFile.read()
+  lines = rawText.split('\n')
+  inFile.close()
+
+  revisedFile = ""
+
+  for line in lines:
+    # Fix title line
+    if "Title:" in line:
+      segments = line.split(' ')
+
+      # Figure out correct extension
+      if ".png" in segments[1]:
+        extension = "png"
+        # Keeps numbers and extension
+        end = segments[1][-8:] # Not sure why index doesn't go all the way
+      elif ".tiff" in segments[1]:
+        extension = "tif"
+        end = segments[1][-9:]
+      elif ".tif" in segments[1]:
+        extension = "tif"
+        end = segments[1][-8:]
+      elif ".jpg" in segments[1]:
+        extension = "jpg"
+        end = segments[1][-8:]
+      else:
+        extension = "ERROR"
+        print extension
+
+      # Revise line
+      if extension != "ERROR":
+        segments[1] = workID + '_' + end
+        fileName = segments[1]
+        line = segments[0] + ' ' + segments[1]
+        revisedFile = revisedFile + line + '\n'
+
+    if "Path:" in line:
+      # Revise line
+      line = "Path: /home/chris/Github/x_eu-images/full/" + workID + '/' + extension + '/' + fileName
+      revisedFile = revisedFile + line + '\n'
+
+    else:
+      revisedFile = revisedFile + line + '\n'
+
+  revisedFile = revisedFile[:-1]
+  print revisedFile
+  
+  # Save file
+  outFile = open(path + '/' + eachFile, 'w')
+  outFile.write(revisedFile)
+  print revisedFile
+  outFile.close()

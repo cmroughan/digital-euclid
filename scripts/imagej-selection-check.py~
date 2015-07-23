@@ -1,0 +1,53 @@
+# -*- coding: utf-8 -*-
+
+import PIL
+from PIL import Image, ImageDraw
+from os import listdir
+
+path = raw_input("Path: ")
+workID = path.split('/')[7]
+diagOrEnun = path.split('/')[6]
+
+fileList = listdir(path)
+
+for eachFile in fileList:
+  inFile = open(path + '/' + eachFile)
+  rawText = inFile.read()
+  lines = rawText.split('\n')
+  inFile.close()
+
+  # Grab name and path of image file
+  for line in lines:
+    if "Path: " in line:
+      fromImg = line.split(' ')[1]
+      extension = fromImg.split('.')[1]
+
+  # Grab image dimensions
+ 
+  imgWidth = int(lines[2].split()[1])
+  imgHeight = int(lines[3].split()[1])
+
+  # Pixel coords of ROI
+
+  pixLeft = int(lines[-5].split()[1])
+  pixTop = int(lines[-4].split()[1])
+  pixWidth = int(lines[-3].split()[1])
+  pixHeight = int(lines[-2].split()[1])
+  pixRight = pixLeft + pixWidth
+  pixBottom = pixTop + pixHeight
+
+  # Percent coords of ROI
+
+  pctLeft = float(pixLeft) / float(imgWidth)
+  pctTop = float(pixTop) / float(imgHeight)
+  pctWidth = float(pixWidth) / float(imgWidth)
+  pctHeight = float(pixHeight) / float(imgHeight)
+
+  # Create selection of image
+
+  im = Image.open(fromImg)
+  actWidth = float(im.size[0])
+  actHeight = float(im.size[1])
+
+  bbox = (int(pctLeft * actWidth), int(pctTop * actHeight), int(pctRight * actWidth), int(pctBottom * actHeight))
+  im.crop(bbox).save("/home/chris/Github/x_eu-images/" + diagOrEnun + "/" + workID + "/selections/" + eachFile[:-3] + extension)

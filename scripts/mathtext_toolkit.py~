@@ -1,0 +1,70 @@
+import re #required for uniqueLabels
+
+def getUniqueLabels_grc(text):
+  '''
+  Given a string of Greek text, returns a string containing each unique
+  label present in the text.
+
+  Parameters:
+  -----------
+    text : a string containing Greek characters and capitalized labels
+
+  Returns:
+  --------
+    uniqueLabels : a string containing the unique labels for that text
+  '''
+  uniqueLabels = ""
+  regex = re.compile(ur'[Α-Ω]+')
+
+  for word in text:
+    if regex.search(word) is not None:
+      for letter in word:
+        if letter == u'\u0391' and "Α" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Α"
+        if letter == u'\u0392' and "Β" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Β"
+        if letter == u'\u0393' and "Γ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Γ"
+        if letter == u'\u0394' and "Δ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Δ"
+        if letter == u'\u0395' and "Ε" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ε"
+        if letter == u'\u0396' and "Ζ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ζ"
+        if letter == u'\u0397' and "Η" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Η"
+        if letter == u'\u0398' and "Θ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Θ"
+        if letter == u'\u0399' and "Ι" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ι"
+        if letter == u'\u039A' and "Κ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Κ"
+        if letter == u'\u039B' and "Λ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Λ"
+        if letter == u'\u039C' and "Μ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Μ"
+        if letter == u'\u039D' and "Ν" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ν"
+        if letter == u'\u039E' and "Ξ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ξ"
+        if letter == u'\u039F' and "Ο" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ο"
+        if letter == u'\u03A0' and "Π" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Π"
+        if letter == u'\u03A1' and "Ρ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ρ"
+        if letter == u'\u03A3' and "Σ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Σ"
+        if letter == u'\u03A4' and "Τ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Τ"
+        if letter == u'\u03A5' and "Υ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Υ"
+        if letter == u'\u03A6' and "Φ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Φ"
+        if letter == u'\u03A7' and "Χ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Χ"
+        if letter == u'\u03A8' and "Ψ" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ψ"
+        if letter == u'\u03A9' and "Ω" not in uniqueLabels:
+          uniqueLabels = uniqueLabels + "Ω"
+  return(uniqueLabels)
